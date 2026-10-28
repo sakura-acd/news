@@ -34,7 +34,7 @@ jobs:
           pip install feedparser
 
       - name: Run RSS collector
-        run: python news_collector.py
+        run: python news-collector.py
 
       - name: Save updated news.json
         run: |
