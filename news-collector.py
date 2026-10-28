@@ -6,6 +6,45 @@ import os
 from datetime import datetime, timezone
 from urllib.parse import urlsplit, urlunsplit
 
+FEEDS = {
+    "AI & Innovation": (
+        "https://news.google.com/rss/search?"
+        "q=artificial+intelligence+OR+generative+AI"
+        "&hl=en-US&gl=US&ceid=US:en"
+    ),
+    "Tech News": (
+        "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY"
+        "?hl=en-US&gl=US&ceid=US:en"
+    ),
+    "Cybersecurity": (
+        "https://news.google.com/rss/search?"
+        "q=cybersecurity+OR+data+breach"
+        "&hl=en-US&gl=US&ceid=US:en"
+    ),
+    "Fact Check": (
+        "https://news.google.com/rss/search?"
+        "q=fact+check+OR+misinformation"
+        "&hl=en-US&gl=US&ceid=US:en"
+    ),
+    "Nepal News": (
+        "https://news.google.com/rss/search?"
+        "q=news+Nepal&hl=en&gl=NP&ceid=NP:en"
+    ),
+    "Nepal Technology": (
+        "https://news.google.com/rss/search?"
+        "q=technology+Nepal&hl=en&gl=NP&ceid=NP:en"
+    ),
+    "नेपाली समाचार": (
+        "https://news.google.com/rss/search?"
+        "q=नेपाल+समाचार&hl=ne&gl=NP&ceid=NP:ne"
+    ),
+    "नेपाली प्रविधि": (
+        "https://news.google.com/rss/search?"
+        "q=प्रविधि+OR+कृत्रिम+बुद्धिमत्ता"
+        "&hl=ne&gl=NP&ceid=NP:ne"
+    ),
+}
+
 OUTPUT_FILE = "news.json"
 
 
