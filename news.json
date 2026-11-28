@@ -1,5 +1,685 @@
 [
   {
+    "id": "46a7aeb0efe2483a3958",
+    "title": "Book Review: 'Neo-colonial Broker Capital' Analyzes Nepal's Complex Transition - Ratopati",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb096dkNubTBDTUREakM5ckNSMHR1ZzJnNUxaamE0T0ZBamc3WlkyblJqckVUOXR4SlBLYUx6WW1iZEljOVZ0LUgta2I5Ulh0OFlVT2RqbXFLWkVmWk4xZGxSQWFLYU1iaDloVDZwUVU4bmxnYzVCQVNhTjJxeWdJVThxbWgwX3NRT296LXNya1F5V2dGejZLaXZ2cUZNcVRzZkdXeXRMeUwxVk1GcUx0NXlwaw?oc=5",
+    "source": "Ratopati",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T09:31:58+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNb096dkNubTBDTUREakM5ckNSMHR1ZzJnNUxaamE0T0ZBamc3WlkyblJqckVUOXR4SlBLYUx6WW1iZEljOVZ0LUgta2I5Ulh0OFlVT2RqbXFLWkVmWk4xZGxSQWFLYU1iaDloVDZwUVU4bmxnYzVCQVNhTjJxeWdJVThxbWgwX3NRT296LXNya1F5V2dGejZLaXZ2cUZNcVRzZkdXeXRMeUwxVk1GcUx0NXlwaw?oc=5\" target=\"_blank\">Book Review: 'Neo-colonial Broker Capital' Analyzes Nepal's Complex Transition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ratopati</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "1a5e51e9ad6692f5512a",
+    "title": "CrowdStrike, 1Password & ExpressVPN: Top Cyber Stories - Cyber Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmxuaEJzVDMxenZpTmZYTU4zMWFGS0M5Y2lFWGxUcTJXZ2RoYzJQVG1yV3VIMld3WEZqTlNxQkgxWDBfby1TQ2lhTkczT1RuS3psdEFsOEVFMHRkSGNJR2pISl9sWUpQbG1TZkRyOTlmdHhHRlgyRDlzbVAxRnUwMWlQUTV6Q285bTBrUkpXVHp3dDE1bkNDUXE4Uk5TM25NZHg2ag?oc=5",
+    "source": "Cyber Magazine",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T09:12:15+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmxuaEJzVDMxenZpTmZYTU4zMWFGS0M5Y2lFWGxUcTJXZ2RoYzJQVG1yV3VIMld3WEZqTlNxQkgxWDBfby1TQ2lhTkczT1RuS3psdEFsOEVFMHRkSGNJR2pISl9sWUpQbG1TZkRyOTlmdHhHRlgyRDlzbVAxRnUwMWlQUTV6Q285bTBrUkpXVHp3dDE1bkNDUXE4Uk5TM25NZHg2ag?oc=5\" target=\"_blank\">CrowdStrike, 1Password & ExpressVPN: Top Cyber Stories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cyber Magazine</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "23cdabfd57cb8656c46a",
+    "title": "Zodia Custody confirms client contact data breach, says no unauthorized transactions - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzZS1sNzQ1RWM0ZTZKZkxyR2l3MVdVOEVmblFvNUVfbDBnRFpLUlIxcDhCVEVCVWxqY3UtWlVXZDNFdjhNcjBYN0xiNjZ1clFQWHFUWnoxUmVLa0dGcWI4SnRmMkVmYWdkV3ctdnB3?oc=5",
+    "source": "99Bitcoins",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T09:04:04+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBzZS1sNzQ1RWM0ZTZKZkxyR2l3MVdVOEVmblFvNUVfbDBnRFpLUlIxcDhCVEVCVWxqY3UtWlVXZDNFdjhNcjBYN0xiNjZ1clFQWHFUWnoxUmVLa0dGcWI4SnRmMkVmYWdkV3ctdnB3?oc=5\" target=\"_blank\">Zodia Custody confirms client contact data breach, says no unauthorized transactions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">99Bitcoins</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "c5ae5357a47d42e7781c",
+    "title": "You can do everything right and still get exposed when a company fails to protect your data. 🔓 Unfair? Yes. Hopeless? No. Follow our coverage on data leaks, then ask our reporters what to do if your info is out there in the Everyday Tech chat room on the Rap - Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWZRSC1heWdDbjhMRWJnZEtIWXJHZWJ4MHJ0eHg1eWRVOVhmaGdfY0hkSHhHTC1WcGp6akdiNFppRlpZZzQ5dU93LVdibEt3anR6elFZSmlmSHdlOTYyNHBTYmlvQ2Z2bUFIcjlnTU5QM2stWkY3Qk0zaGhoajNwUG45NkxwLU1vTW95ZlQ0dThQMUFuZ0ljeGt5VXA4R2VaUDl2TGUxU1FoV0Q4S2o4eF9JN0YzTVhDOVNRaThNcXBKT2EtTUJfVjRickFkVG5jaUhQaHhZMjhUNUt2?oc=5",
+    "source": "Facebook",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T08:30:27+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWZRSC1heWdDbjhMRWJnZEtIWXJHZWJ4MHJ0eHg1eWRVOVhmaGdfY0hkSHhHTC1WcGp6akdiNFppRlpZZzQ5dU93LVdibEt3anR6elFZSmlmSHdlOTYyNHBTYmlvQ2Z2bUFIcjlnTU5QM2stWkY3Qk0zaGhoajNwUG45NkxwLU1vTW95ZlQ0dThQMUFuZ0ljeGt5VXA4R2VaUDl2TGUxU1FoV0Q4S2o4eF9JN0YzTVhDOVNRaThNcXBKT2EtTUJfVjRickFkVG5jaUhQaHhZMjhUNUt2?oc=5\" target=\"_blank\">You can do everything right and still get exposed when a company fails to protect your data. 🔓 Unfair? Yes. Hopeless? No. Follow our coverage on data leaks, then ask our reporters what to do if your info is out there in the Everyday Tech chat room on the Rap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "e9c6155b8132913dfb22",
+    "title": "India, Nepal adopt 10-pillar vision statement to strengthen bilateral ties - The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazNPdnBya2ctSVBfR3FNY0w5YWRqUThRS0thLVFGNTdEc2xTS3J0WVlubXc4VlQ1MnMtRnpzNFBjY0JVS212SXhxQlM2aUpub1VTTHozRzdBdWFiUklsSE8wVVlyM0pfNkJhQTNkSERnWVVFai02UnV6MGZLa1FtcFExOFppOTJHd0ZjQzhDcDhBMHdnNENYYWdpWTVyMWFvUXZIVE1EMGZCYnd5ZzhWUE5zVWZNZk05SUoydUNkdG9CcFdJQWpwMmdka9IB0gFBVV95cUxNazluRng2SVpZNWVqV3U2eW5leDlIejRsWEtnMEZGbnJIR0I1YjR5OHZocXY1LWplMWVXcFBoVE1LYVVkU09ESHZObDNGcEx6SGYxVk10VHBrenpkWjZqdVJDUkVSOTlhTVl5YzAtc1ZYNjB4Nm0tWGVQOHRlUERWZHlKYUh2NG9PNmU2WG1uMER3di1PYjJvRTdESXJBT0pKOXdoWS1CdXB0UEVQbTRHOUdudjZkR2E3bTg0amF4MDRKRS1fTDVSVVNZemdIbkcyT1E?oc=5",
+    "source": "The Hindu",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T08:28:27+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNazNPdnBya2ctSVBfR3FNY0w5YWRqUThRS0thLVFGNTdEc2xTS3J0WVlubXc4VlQ1MnMtRnpzNFBjY0JVS212SXhxQlM2aUpub1VTTHozRzdBdWFiUklsSE8wVVlyM0pfNkJhQTNkSERnWVVFai02UnV6MGZLa1FtcFExOFppOTJHd0ZjQzhDcDhBMHdnNENYYWdpWTVyMWFvUXZIVE1EMGZCYnd5ZzhWUE5zVWZNZk05SUoydUNkdG9CcFdJQWpwMmdka9IB0gFBVV95cUxNazluRng2SVpZNWVqV3U2eW5leDlIejRsWEtnMEZGbnJIR0I1YjR5OHZocXY1LWplMWVXcFBoVE1LYVVkU09ESHZObDNGcEx6SGYxVk10VHBrenpkWjZqdVJDUkVSOTlhTVl5YzAtc1ZYNjB4Nm0tWGVQOHRlUERWZHlKYUh2NG9PNmU2WG1uMER3di1PYjJvRTdESXJBT0pKOXdoWS1CdXB0UEVQbTRHOUdudjZkR2E3bTg0amF4MDRKRS1fTDVSVVNZemdIbkcyT1E?oc=5\" target=\"_blank\">India, Nepal adopt 10-pillar vision statement to strengthen bilateral ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "f31251f0f2572cd25252",
+    "title": "Nepal Police Club Advances to Football Semifinals - Ratopati",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM042bDdtNzk0TjhBekM3dlNCQW04SzNHb295elQtVWVuZ3JwRjRTV0Fzd0NMV25pVk4wOWRRYTZQZG5ZQlpzVHRwN2RSSUMtUTB2dTFON3ByR0c3dVhDMWdKQWt0dzN1SnRvdzYtZTBlMzBaMVZrYzltVjdBVVpOT18xWWpmZmFsbFczb0wtSjhDR2dNYUVrOHYySnN4SWpjeDZvbjl0T05IRlVMb0RMWnIxRWx0eUVGQmdyS0MyWjVZQ1lidnc1ci14aDZ1NmVSSUVF?oc=5",
+    "source": "Ratopati",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T08:20:59+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM042bDdtNzk0TjhBekM3dlNCQW04SzNHb295elQtVWVuZ3JwRjRTV0Fzd0NMV25pVk4wOWRRYTZQZG5ZQlpzVHRwN2RSSUMtUTB2dTFON3ByR0c3dVhDMWdKQWt0dzN1SnRvdzYtZTBlMzBaMVZrYzltVjdBVVpOT18xWWpmZmFsbFczb0wtSjhDR2dNYUVrOHYySnN4SWpjeDZvbjl0T05IRlVMb0RMWnIxRWx0eUVGQmdyS0MyWjVZQ1lidnc1ci14aDZ1NmVSSUVF?oc=5\" target=\"_blank\">Nepal Police Club Advances to Football Semifinals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ratopati</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "2c13efcab7683e0975d9",
+    "title": "Fact Check: Is CENTCOM charging ships $2.5 million to pass through Strait of Hormuz? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZW4yVmVCSE9ndXpNemJZU2lCVnQyVGJXVkJWSjJodl9xYktHRXBpWHdybWlXYmI4M1RaWXJjQTc4dXFHa3BUanQyS2M0bm9MUWo2a0p0LVBRdkc0SjN4SjFRZ2dNOVVqQ2NRUmRMTHlPWkJ6ZjVYR0RoNkVTLW1mYzRSVlhyLTE4a3FhR19WcWx5ME9DVnRpYnBldHBwLXBOdVdqVDdSQQ?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T08:14:48+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZW4yVmVCSE9ndXpNemJZU2lCVnQyVGJXVkJWSjJodl9xYktHRXBpWHdybWlXYmI4M1RaWXJjQTc4dXFHa3BUanQyS2M0bm9MUWo2a0p0LVBRdkc0SjN4SjFRZ2dNOVVqQ2NRUmRMTHlPWkJ6ZjVYR0RoNkVTLW1mYzRSVlhyLTE4a3FhR19WcWx5ME9DVnRpYnBldHBwLXBOdVdqVDdSQQ?oc=5\" target=\"_blank\">Fact Check: Is CENTCOM charging ships $2.5 million to pass through Strait of Hormuz?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "d7b30c56311fa02bcbd7",
+    "title": "Prioritize marginalized community in education: Province Minister Tamang - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmlnM3RZR05LcHM0NHVUWmpTdm50VFZFbGRRaVRWejByM2Y4elpyX19yOFVvWmpzLUJTdk52VnRMdkpBYzFkNXVSd3pENDQwWHk4THpHSThQenVKVE9LNldBamY5YmIzUEVudkJWUVJCaVUtX3JTY2ZYemlJaE05bmROQmZwOUpHSnRlVzlNb1ZrZzZEMzVKQmEtcUh2Q1h1TFFwcDh0d0FoTVJVSjcwcQ?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T08:13:05+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmlnM3RZR05LcHM0NHVUWmpTdm50VFZFbGRRaVRWejByM2Y4elpyX19yOFVvWmpzLUJTdk52VnRMdkpBYzFkNXVSd3pENDQwWHk4THpHSThQenVKVE9LNldBamY5YmIzUEVudkJWUVJCaVUtX3JTY2ZYemlJaE05bmROQmZwOUpHSnRlVzlNb1ZrZzZEMzVKQmEtcUh2Q1h1TFFwcDh0d0FoTVJVSjcwcQ?oc=5\" target=\"_blank\">Prioritize marginalized community in education: Province Minister Tamang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "5c124cca7300518bb746",
+    "title": "Rebranding Nepal: A private sector-led PR roadmap - The Himalayan Times",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbE0wMzVta2NqaVpJMDJvNUJhSlU3S3dvUTF3bG1HUEJ2SkpXTmVQSnJtclZ0cXE2X2NZZHluTUR2NGFGTHZQdDBJb1dzX1VleHZEMk0xOW1DT1NsX2RjT3hrdEdpWG83ZWx5QXBXdE9McUNSVGo4LUtQcnRUbVk2cEZQNnZiQnNVem1CeExpLVLSAVxBVV95cUxPUjlLWERMbFJoMmhudllhVnVXZ1EtbHlaVHVXYjk1X3psdGFwa1RxckhsRldIbHdOblhlTVFBcVNDX0ZCQkZpTzF3SEo5elYxUEJza09kWS13UWl6Mw?oc=5",
+    "source": "The Himalayan Times",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T08:12:36+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQbE0wMzVta2NqaVpJMDJvNUJhSlU3S3dvUTF3bG1HUEJ2SkpXTmVQSnJtclZ0cXE2X2NZZHluTUR2NGFGTHZQdDBJb1dzX1VleHZEMk0xOW1DT1NsX2RjT3hrdEdpWG83ZWx5QXBXdE9McUNSVGo4LUtQcnRUbVk2cEZQNnZiQnNVem1CeExpLVLSAVxBVV95cUxPUjlLWERMbFJoMmhudllhVnVXZ1EtbHlaVHVXYjk1X3psdGFwa1RxckhsRldIbHdOblhlTVFBcVNDX0ZCQkZpTzF3SEo5elYxUEJza09kWS13UWl6Mw?oc=5\" target=\"_blank\">Rebranding Nepal: A private sector-led PR roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Himalayan Times</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "76eaf5b593941c5dfb48",
+    "title": "Hackers Breach US Military Cloud One, Threatening Control Plane Data - Red Hot Cyber",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNpc2tnZFlHZVlmNXBZbXNKakVPNG1JVV9TSU1YbjR4R3BUREZZTVVWTjkyMkYzRHNIc1Z2aUFRZmhaN0k3S0g3aEVGM1A5R2hwQmdRUmxYVmt3ZjVrZWc2VV9lMzNqUzREOTdFWklCazVLdE11YTR1eWhWem9WTXlGN3FLTU1SN3lzLU9xeXJxYkEweWQtdlQ3ajJsa3lXYkFZNUJBSQ?oc=5",
+    "source": "Red Hot Cyber",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T07:59:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNpc2tnZFlHZVlmNXBZbXNKakVPNG1JVV9TSU1YbjR4R3BUREZZTVVWTjkyMkYzRHNIc1Z2aUFRZmhaN0k3S0g3aEVGM1A5R2hwQmdRUmxYVmt3ZjVrZWc2VV9lMzNqUzREOTdFWklCazVLdE11YTR1eWhWem9WTXlGN3FLTU1SN3lzLU9xeXJxYkEweWQtdlQ3ajJsa3lXYkFZNUJBSQ?oc=5\" target=\"_blank\">Hackers Breach US Military Cloud One, Threatening Control Plane Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Red Hot Cyber</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "71e476a0d04d0de2db6e",
+    "title": "Fact Check: Is DHS chief Markwayne Mullin regretting leaving Senate amid White House tensions? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYnhWM0pVWmJvT0V3bWVXVk15TDd2Z3l6SFdXZUhmS1IxZ1ZVR1FqbDBoTjMzRGN6bEdxaVF5dG10b2tvYVg0TE9qSVY3UmtLREd2UDlEVjJoSFB5RGdCMklwNTNUeTZrdGZnckVXdWJQb3gxMnNfMzNvb1dIc1I0dm1WcE9tSUlhamQ4d2lISHoxMjhUT0lHVTZVdmY5di1aWVlXeDF1UmhHbzRsT0VISjNPV2RFdw?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T07:42:05+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYnhWM0pVWmJvT0V3bWVXVk15TDd2Z3l6SFdXZUhmS1IxZ1ZVR1FqbDBoTjMzRGN6bEdxaVF5dG10b2tvYVg0TE9qSVY3UmtLREd2UDlEVjJoSFB5RGdCMklwNTNUeTZrdGZnckVXdWJQb3gxMnNfMzNvb1dIc1I0dm1WcE9tSUlhamQ4d2lISHoxMjhUT0lHVTZVdmY5di1aWVlXeDF1UmhHbzRsT0VISjNPV2RFdw?oc=5\" target=\"_blank\">Fact Check: Is DHS chief Markwayne Mullin regretting leaving Senate amid White House tensions?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "8722fe9a4c7f92eb8eed",
+    "title": "NC general secretary urges party line to involve actively in local elections - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05azdrWmI2cm84WWVKOWdoWWpRM191RGxtMDZtVzRDYTFZcjR3NjNkVURBWkhFZGIxWTVDd2ZRaS1SLUJMak9LemhZUkkyX01f?oc=5",
+    "source": "The Rising Nepal",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T07:36:39+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE05azdrWmI2cm84WWVKOWdoWWpRM191RGxtMDZtVzRDYTFZcjR3NjNkVURBWkhFZGIxWTVDd2ZRaS1SLUJMak9LemhZUkkyX01f?oc=5\" target=\"_blank\">NC general secretary urges party line to involve actively in local elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "376023444eedba8ccdbe",
+    "title": "Fact Check: Did Robert Downey Jr dismiss fan theory that Cillian Murphy is Dr Doom in Doomsday? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVTJuMF9vcE9WR0M4NGY1N05DVXYyVlMxem5DMm04MmhBN3g4bDEtUDRrVlhvc3A4Wk1KUXJvZjdub3pXY1BWUnhMTjNITUpzUTlIa0FDXzN5WHVNY29lR0ZJUFNyQTZJSHFic3VkTTFfT3ZYVXB5VjlyRlN3YU8ycVI5ZFB3QnFld3BZNEdSeU5zdW9wUU9GV2VSc2ViUFpFUHI1TzF0N0dGSXJVSlliSER3cFZpME0?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T07:26:27+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQVTJuMF9vcE9WR0M4NGY1N05DVXYyVlMxem5DMm04MmhBN3g4bDEtUDRrVlhvc3A4Wk1KUXJvZjdub3pXY1BWUnhMTjNITUpzUTlIa0FDXzN5WHVNY29lR0ZJUFNyQTZJSHFic3VkTTFfT3ZYVXB5VjlyRlN3YU8ycVI5ZFB3QnFld3BZNEdSeU5zdW9wUU9GV2VSc2ViUFpFUHI1TzF0N0dGSXJVSlliSER3cFZpME0?oc=5\" target=\"_blank\">Fact Check: Did Robert Downey Jr dismiss fan theory that Cillian Murphy is Dr Doom in Doomsday?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "b116aef2d0c209c6e4fd",
+    "title": "How Artificial Intelligence Is Reshaping University Assessment - Al-Fanar Media",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkxBelRJbjMxbWIxbUI0OUhZRkF4WlNnd2xFQmg2anZmZUhnSDQzeFFDNG9kTTZGU1BNXzlyQ2FmQ0VvNUJIcE5BMzhGSHBhV1ZiaEhUN0dlLUZ6cWRjQW5pRHZ2UXRHbXFDakdreXFPSzJIbmZYMjJ1Z1V4ZnhMaGJ5bm42WFd6Y3BwSVJXVEZfdjEtZ2tlMW9HZ2szZw?oc=5",
+    "source": "Al-Fanar Media",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T07:17:54+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdkxBelRJbjMxbWIxbUI0OUhZRkF4WlNnd2xFQmg2anZmZUhnSDQzeFFDNG9kTTZGU1BNXzlyQ2FmQ0VvNUJIcE5BMzhGSHBhV1ZiaEhUN0dlLUZ6cWRjQW5pRHZ2UXRHbXFDakdreXFPSzJIbmZYMjJ1Z1V4ZnhMaGJ5bm42WFd6Y3BwSVJXVEZfdjEtZ2tlMW9HZ2szZw?oc=5\" target=\"_blank\">How Artificial Intelligence Is Reshaping University Assessment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Al-Fanar Media</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "aeff8ef4dcf025aa0a2b",
+    "title": "Opinion: Finding hope in artificial intelligence - Deseret News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2taanNuaDFFRlJxM0k4SHlhX1Z2ek1sb0ZmWUhlYmhmWTlXWnYyZ3JOX2M1RTRmdHZMNlMtRU5WTVRUMklac2RxRzVpNmpvMWVZTDM5TmI2WkVKMGtFU3Y0X1JPQ3pGU2tUVFB2WjhDZGJGUDFIeVQ0MTY2SjIyOQ?oc=5",
+    "source": "Deseret News",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T07:01:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2taanNuaDFFRlJxM0k4SHlhX1Z2ek1sb0ZmWUhlYmhmWTlXWnYyZ3JOX2M1RTRmdHZMNlMtRU5WTVRUMklac2RxRzVpNmpvMWVZTDM5TmI2WkVKMGtFU3Y0X1JPQ3pGU2tUVFB2WjhDZGJGUDFIeVQ0MTY2SjIyOQ?oc=5\" target=\"_blank\">Opinion: Finding hope in artificial intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deseret News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "86e1187bdd2efeed5f50",
+    "title": "Retail Artificial Intelligence Worker Protections - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWdnVHJ6OVJpSVFORUM3NlFWbDludFA1UG5ua3JwYVh6S01KeHNPa25BeldoWUk1bmxPZ0stc3NZSHp4cGctUndrb2lKS1hQaVhBRDZlWHg5ODJNU2RlV0tsc2pqd1ZYTTAtNTRiQWtiXzRDZ3pSamh2ZkR0WjBSQWNYNjZycGg5M2Q3OGRqYnBpUzA2T2QweHEtbGxtY0MyRXhEM2dFVmN5LXFKUVR3Q01takRqYXUz?oc=5",
+    "source": "Bitcoin Foundation",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T06:51:29+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWdnVHJ6OVJpSVFORUM3NlFWbDludFA1UG5ua3JwYVh6S01KeHNPa25BeldoWUk1bmxPZ0stc3NZSHp4cGctUndrb2lKS1hQaVhBRDZlWHg5ODJNU2RlV0tsc2pqd1ZYTTAtNTRiQWtiXzRDZ3pSamh2ZkR0WjBSQWNYNjZycGg5M2Q3OGRqYnBpUzA2T2QweHEtbGxtY0MyRXhEM2dFVmN5LXFKUVR3Q01takRqYXUz?oc=5\" target=\"_blank\">Retail Artificial Intelligence Worker Protections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin Foundation</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "dff9fcc0e4f0830a2088",
+    "title": "Stress on bolstering parliamentary role - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFFhOURzYVRGaE9qMlE0RlBVWVVWM253REsxcEYxeEJXMHlIX0d4UHV1dS0xOFV2MVdZaGpuYTZod2lRVTdhOU1jLUVLRjEzZjRJZmw2RTVlNVB6RzIzMGp4MVE4bGdkandXcF9HQW5NeTBOUm0zUk95MmdON2RPUWF5a3VxUkJN?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T06:38:05+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFFhOURzYVRGaE9qMlE0RlBVWVVWM253REsxcEYxeEJXMHlIX0d4UHV1dS0xOFV2MVdZaGpuYTZod2lRVTdhOU1jLUVLRjEzZjRJZmw2RTVlNVB6RzIzMGp4MVE4bGdkandXcF9HQW5NeTBOUm0zUk95MmdON2RPUWF5a3VxUkJN?oc=5\" target=\"_blank\">Stress on bolstering parliamentary role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "9b95dd4062e716f41c67",
+    "title": "Fact Check: Did Abdul El-Sayed order women in his office to wear hijab? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclNQUDR2dW9hZzlQd2x0VWdQbkk0U3c3czlMelJ6N0dLVFBWMVppZlVwODVyX2Q0S1c3VUtQVW5BYXNPTWdWSjR6REt1M3gxR21JYnpILXl0UXU3a3ZRMGFZdHZCN3U0UmlfaHV3WGc1MmJ1TzBpMkRGRmNldXBhdFZwalByd1MzYTltLThZTHJKY2hYcmRpSm44UnUtT185WlRXd0xlWnEzb3cx?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T06:22:30+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQclNQUDR2dW9hZzlQd2x0VWdQbkk0U3c3czlMelJ6N0dLVFBWMVppZlVwODVyX2Q0S1c3VUtQVW5BYXNPTWdWSjR6REt1M3gxR21JYnpILXl0UXU3a3ZRMGFZdHZCN3U0UmlfaHV3WGc1MmJ1TzBpMkRGRmNldXBhdFZwalByd1MzYTltLThZTHJKY2hYcmRpSm44UnUtT185WlRXd0xlWnEzb3cx?oc=5\" target=\"_blank\">Fact Check: Did Abdul El-Sayed order women in his office to wear hijab?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "c0a84c07f9e5b251e57a",
+    "title": "Four percent of Nepal’s listed shares remain beyond the reach of Demat - OnlineKhabar English News",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QZmRHVFlhWFdjY2xDWWJxSXlLcWJYdXJfMVVIQ2p5UjlZUmxzTW9BUU9DU0k4Yi1NODM2N0tZTU84aWNXekFCeUhJdnZ1QzFQa0RsajFPVlJ0SlZ3MXdFbkFwZjdFTnFQT3U5R05hMTlidw?oc=5",
+    "source": "OnlineKhabar English News",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T06:15:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5QZmRHVFlhWFdjY2xDWWJxSXlLcWJYdXJfMVVIQ2p5UjlZUmxzTW9BUU9DU0k4Yi1NODM2N0tZTU84aWNXekFCeUhJdnZ1QzFQa0RsajFPVlJ0SlZ3MXdFbkFwZjdFTnFQT3U5R05hMTlidw?oc=5\" target=\"_blank\">Four percent of Nepal’s listed shares remain beyond the reach of Demat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OnlineKhabar English News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "2db5f0f0875e43c55c51",
+    "title": "Health insurance covers 86 percent people in Jhapa - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2Q3N3VIcno4M0p3M2FhNi00X0RMbHVIdF9VdFNST04tX2k4aWVQcjNJZ0Qtd1pyMFZrbm9OUm5Eakh3RUdPVmlqQzk4THBTd2c3clJOcVBmSEFUaUR0MldZTTEzZnpZeTlDWl9RS0c4WV85SGlhSk5jb0hMNnNsd1E3aW1rc3ZJNVlIdHBmcjk0RDdx?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T05:53:32+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2Q3N3VIcno4M0p3M2FhNi00X0RMbHVIdF9VdFNST04tX2k4aWVQcjNJZ0Qtd1pyMFZrbm9OUm5Eakh3RUdPVmlqQzk4THBTd2c3clJOcVBmSEFUaUR0MldZTTEzZnpZeTlDWl9RS0c4WV85SGlhSk5jb0hMNnNsd1E3aW1rc3ZJNVlIdHBmcjk0RDdx?oc=5\" target=\"_blank\">Health insurance covers 86 percent people in Jhapa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "4da0946dd88ef8836a17",
+    "title": "Former Nepal Student Union Joint Secretary Parmeshwor Sah Announces Candidacy for Lahan Municipality Mayor - Ratopati",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSVFFeGdPV24tZEJnenpxSUIwdE9Dc3pSbjZXcnZ5ejMxM1BPQ0NfMGxNRUVFYi0xZ2VCN2Q4SWJSUWx3MWRGYXZpVUR2U0tubEpjLTdaNlVKMzkxUmxFWWhrb3hmYTBKUUpRUjJMa1E4OHRzajZLdnh1c3JpOF9vNEtzeVctdTZ1LXVKRHlRMXMzUDF4M05WalJLVmFrbnBJdEFjSjRoSWpxTnkteE5ZNEpWZkVqUG1ubEk5cm1HQVNOYzJuQVhSTEttdmItd0lLbzk4QXhDNURLZWVKcXRBRjFYNUF6UUk2?oc=5",
+    "source": "Ratopati",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T05:45:48+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSVFFeGdPV24tZEJnenpxSUIwdE9Dc3pSbjZXcnZ5ejMxM1BPQ0NfMGxNRUVFYi0xZ2VCN2Q4SWJSUWx3MWRGYXZpVUR2U0tubEpjLTdaNlVKMzkxUmxFWWhrb3hmYTBKUUpRUjJMa1E4OHRzajZLdnh1c3JpOF9vNEtzeVctdTZ1LXVKRHlRMXMzUDF4M05WalJLVmFrbnBJdEFjSjRoSWpxTnkteE5ZNEpWZkVqUG1ubEk5cm1HQVNOYzJuQVhSTEttdmItd0lLbzk4QXhDNURLZWVKcXRBRjFYNUF6UUk2?oc=5\" target=\"_blank\">Former Nepal Student Union Joint Secretary Parmeshwor Sah Announces Candidacy for Lahan Municipality Mayor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ratopati</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "c8596586f53d5c1b9128",
+    "title": "As test cheating using artificial intelligence (AI) spreads, candidates for the national examination.. - 매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04T3pRMF9FVGpKTDhjaENuYTcwbUVqV1BrdGdqRjFsSFNNUmpKYXlsaVlNbVhFZnYtX2Rya25SUm5Ic19SWGRlN3YyWnBlbDFhS2c?oc=5",
+    "source": "매일경제",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T05:28:29+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE04T3pRMF9FVGpKTDhjaENuYTcwbUVqV1BrdGdqRjFsSFNNUmpKYXlsaVlNbVhFZnYtX2Rya25SUm5Ic19SWGRlN3YyWnBlbDFhS2c?oc=5\" target=\"_blank\">As test cheating using artificial intelligence (AI) spreads, candidates for the national examination..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "6b74072a87d15582f31a",
+    "title": "Engineers Without Borders Nepal Organizes Innovation Program at Karnali Secondary School - Ratopati",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlVBRV9mWGMwbjlxWVNXSFBQSTVVTjVLbXRMWXp0SWZQSlVhM0JJczU2T295bUNFeXVWcmNzS3ptYzRnd0xmeU11NDVSTHFxMWRmNm8xRUozbHBHODZWVGhsTGdPcGxTbnpwYXBUZWRRYU12SzJUT3dfd0VXR19GdEp1c0NvNXZIUHNMYkw3SHpvUFhEcTFxLUxB?oc=5",
+    "source": "Ratopati",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T05:26:33+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlVBRV9mWGMwbjlxWVNXSFBQSTVVTjVLbXRMWXp0SWZQSlVhM0JJczU2T295bUNFeXVWcmNzS3ptYzRnd0xmeU11NDVSTHFxMWRmNm8xRUozbHBHODZWVGhsTGdPcGxTbnpwYXBUZWRRYU12SzJUT3dfd0VXR19GdEp1c0NvNXZIUHNMYkw3SHpvUFhEcTFxLUxB?oc=5\" target=\"_blank\">Engineers Without Borders Nepal Organizes Innovation Program at Karnali Secondary School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ratopati</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "70f566a049226937c955",
+    "title": "Engineers Without Borders Nepal Organizes Innovation Program at Karnali Secondary School - Hamro Patro",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQTAweFEzZEtXV1VXSXVraHBoWThzU0hELVpzMThLdDRCaWRIVnB6LXp3X0NrT05iaFFHZUt4U1c2d0U2QVNKTkJrMVlDLWFoYjJ3Wkt5MkttLVk5UDBWNlFBYnFMaFRKazYxNnRmUWlNWWVHcGkxX2RRSWh4YzRYZmlhVl9fSUU0eVNfX3RLQ0pEbzRvdUZfeGRySEdDWExObWZXNV9BR1BnUEN2N19mZWNjZEF4dXgxODNHQlVLVURWbmpQTlJhR0NKa3Y4QQ?oc=5",
+    "source": "Hamro Patro",
+    "category": "Nepal Technology",
+    "published_at": "2026-11-28T05:24:24+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQTAweFEzZEtXV1VXSXVraHBoWThzU0hELVpzMThLdDRCaWRIVnB6LXp3X0NrT05iaFFHZUt4U1c2d0U2QVNKTkJrMVlDLWFoYjJ3Wkt5MkttLVk5UDBWNlFBYnFMaFRKazYxNnRmUWlNWWVHcGkxX2RRSWh4YzRYZmlhVl9fSUU0eVNfX3RLQ0pEbzRvdUZfeGRySEdDWExObWZXNV9BR1BnUEN2N19mZWNjZEF4dXgxODNHQlVLVURWbmpQTlJhR0NKa3Y4QQ?oc=5\" target=\"_blank\">Engineers Without Borders Nepal Organizes Innovation Program at Karnali Secondary School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamro Patro</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "06f9292904d3e9e3a4fb",
+    "title": "Fact Check: No, Indonesia Did Not Pull Out from SEA Games 2027 - Tempo.co English",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2c4cWExMzFQWEIxMm9nYmNyTVFQMEkzZ01IdVFJLTY4MENPYzJZRTFJYWdHS1pGU2djZzFmLUJDTHlWQ1U4TUxWczlEYngzelM1STJSQ213RW8yU0RhSk5xRENYNW8wc01VUHVWUTh0SzdmQzBocldOSFkyZ3d4R3ZTaGl5QkRFMXhlYUY1ZC1aRmJWMnZsOA?oc=5",
+    "source": "Tempo.co English",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T05:08:26+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2c4cWExMzFQWEIxMm9nYmNyTVFQMEkzZ01IdVFJLTY4MENPYzJZRTFJYWdHS1pGU2djZzFmLUJDTHlWQ1U4TUxWczlEYngzelM1STJSQ213RW8yU0RhSk5xRENYNW8wc01VUHVWUTh0SzdmQzBocldOSFkyZ3d4R3ZTaGl5QkRFMXhlYUY1ZC1aRmJWMnZsOA?oc=5\" target=\"_blank\">Fact Check: No, Indonesia Did Not Pull Out from SEA Games 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tempo.co English</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "6aa1d92735a4705fb8e9",
+    "title": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHAxM3BibFJQcXdRTThreUROWVplVFpnQnVjRktrbHJROHZxLWs0a1JnejVVeW93RjVOb0dZX25JcXhVUWttUFNwQnVkenRQM3p6ZHN1ankwazRIWFI2SWdKZlNkQkRxSHJ5cEFsbXZMV28yZTZ5SmZVeWdWbHBpck5uM1BCbEVhQ0tUVWtVRnhTYm52ZmdJdXExOUF5dWtGUVg2NkUwaUZjTUFpd29XbF9IWVMxSlJZVFlLUmR6djJyN3hEMjI3NVZXYw?oc=5",
+    "source": "The Guardian",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T05:07:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHAxM3BibFJQcXdRTThreUROWVplVFpnQnVjRktrbHJROHZxLWs0a1JnejVVeW93RjVOb0dZX25JcXhVUWttUFNwQnVkenRQM3p6ZHN1ankwazRIWFI2SWdKZlNkQkRxSHJ5cEFsbXZMV28yZTZ5SmZVeWdWbHBpck5uM1BCbEVhQ0tUVWtVRnhTYm52ZmdJdXExOUF5dWtGUVg2NkUwaUZjTUFpd29XbF9IWVMxSlJZVFlLUmR6djJyN3hEMjI3NVZXYw?oc=5\" target=\"_blank\">Could AI break encryption? What mathematical breakthroughs mean for cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "7ef81d6a345eb503b9ef",
+    "title": "After the flood, Nepal feared a visitor drought. Turns out the pull of the mountains is stronger than the fear of their fury - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1hOLWdyTnFoQWZpMU5aUUZtZ3dXbFM4M2UycnlRdVNUN1p4VGhUa0Q4WGU0X3g2a2ZULUFyMUQ2d240LVptMGtJdVdVbEpZVG0wZEU2RGFacldGU1VvSXpqNk1QM1EtWnFablJ6RUo3bjAybWhJNlotTS1ZZDNEZzZsVDhnbDdURFE?oc=5",
+    "source": "CNN",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T05:00:15+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1hOLWdyTnFoQWZpMU5aUUZtZ3dXbFM4M2UycnlRdVNUN1p4VGhUa0Q4WGU0X3g2a2ZULUFyMUQ2d240LVptMGtJdVdVbEpZVG0wZEU2RGFacldGU1VvSXpqNk1QM1EtWnFablJ6RUo3bjAybWhJNlotTS1ZZDNEZzZsVDhnbDdURFE?oc=5\" target=\"_blank\">After the flood, Nepal feared a visitor drought. Turns out the pull of the mountains is stronger than the fear of their fury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "19315a9d2485272102ed",
+    "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5",
+    "source": "The Guardian",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T05:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk5mQnJsSjlGQ1JxaHhFRWI2a0xYVTZQUEVQdWxpNWxFNUVRN1FFYXlhSkwxM2JDNzdQSXdwSTc1TlQzNE9IeV8zd1YzcVVhNXJVSUNTakFTRVNKdmI3M28yUFZmU3hTWXlZcG1SQU81dkdrWjNaRVA3ZEJPazVJQ19ZSlFsdzh2Q3J2LXNuZHNYZHFHWEQ4UFBnWlRzVTBnb2Zr?oc=5\" target=\"_blank\">AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "dd56fca2f7383c442790",
+    "title": "Fact Check: Was Trump recruited by the KGB as an asset under the code name ‘Krasnov’ in 1987? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU01nNVZtdTk5MnJhd1VncnBiZHAxVkJ5SzdfVHNrNFZ5d3piNlg1WEpOLW1xMklKRTk3WXpONGtEMFhJVVA5bktwYU9YcXRXc3ZrMTFPczRjWGRUS01mY21CVzQ3eDlxNVc1b3RIZ0FRMk9nMEcxbWVRNUZlYk1SVXRyMnRQM1hSamxyUnJPNnN3N1lqd281MElxb0NLeGFiOWN0Sy1lUGJ1bGs1eDlrTTh3?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T04:56:41+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQU01nNVZtdTk5MnJhd1VncnBiZHAxVkJ5SzdfVHNrNFZ5d3piNlg1WEpOLW1xMklKRTk3WXpONGtEMFhJVVA5bktwYU9YcXRXc3ZrMTFPczRjWGRUS01mY21CVzQ3eDlxNVc1b3RIZ0FRMk9nMEcxbWVRNUZlYk1SVXRyMnRQM1hSamxyUnJPNnN3N1lqd281MElxb0NLeGFiOWN0Sy1lUGJ1bGs1eDlrTTh3?oc=5\" target=\"_blank\">Fact Check: Was Trump recruited by the KGB as an asset under the code name ‘Krasnov’ in 1987?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "c966bf3dc65e3e3f15bf",
+    "title": "Mahayagya in memory of departed soul of ancestors - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSERqYlRRMGFGVW9GRUxnTWZJU2l4X1pRVzlCaHZSMXFlVU54ZTc2Y2FnUE11SkdJNjc1Zm0yWHNYcVlfdTVDUzVBX0lIR19QcVhNUUdWNmlrZW5XdTRCLUlQSzNMYjFnX0RwWktSVjlIcGYyaWVDeWxxcU0tbmdYZUJ2dm1BMkhQVjk0WEh5MGk4ZjhSZDl3VGtLOFJ0R0U?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T04:43:24+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSERqYlRRMGFGVW9GRUxnTWZJU2l4X1pRVzlCaHZSMXFlVU54ZTc2Y2FnUE11SkdJNjc1Zm0yWHNYcVlfdTVDUzVBX0lIR19QcVhNUUdWNmlrZW5XdTRCLUlQSzNMYjFnX0RwWktSVjlIcGYyaWVDeWxxcU0tbmdYZUJ2dm1BMkhQVjk0WEh5MGk4ZjhSZDl3VGtLOFJ0R0U?oc=5\" target=\"_blank\">Mahayagya in memory of departed soul of ancestors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "62d6b42dfbcb788be2fb",
+    "title": "Regarding the global artificial intelligence (AI) competition, President Lee Jae Myung said on the 2.. - 매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBucGp3UTFWc3FudXZoUzVmVGZHWHI5eEZJU0tSUFpSVXFGV0V5VnM1NTFEVTNSX1lXcVcxTjBTUUpmb2pYWG1mLUktOA?oc=5",
+    "source": "매일경제",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T04:39:22+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBucGp3UTFWc3FudXZoUzVmVGZHWHI5eEZJU0tSUFpSVXFGV0V5VnM1NTFEVTNSX1lXcVcxTjBTUUpmb2pYWG1mLUktOA?oc=5\" target=\"_blank\">Regarding the global artificial intelligence (AI) competition, President Lee Jae Myung said on the 2..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "77f3f722f8d8b79cba99",
+    "title": "NEA seeks bids for power import - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02NkZaVU5WRzM0eDhQRi01cDBEc2VxTVBNT3NtZVhtUlZKaWpubXJrdkVwbHJSOFY1aHlRbzdQd2lrY1JBQ3psUVdCODFWTDM2?oc=5",
+    "source": "The Rising Nepal",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T04:25:50+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE02NkZaVU5WRzM0eDhQRi01cDBEc2VxTVBNT3NtZVhtUlZKaWpubXJrdkVwbHJSOFY1aHlRbzdQd2lrY1JBQ3psUVdCODFWTDM2?oc=5\" target=\"_blank\">NEA seeks bids for power import</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "1d1ee0c38690156c5778",
+    "title": "US Embassy Highlights Need for Predictable Tax System, IP Protection, and Transparency in Public Procurement for Investment in Nepal - Ratopati",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmIzWTVVRVpnUXhFQkVKNElnRjAzcHJjZng2YVRIUDF4bXZCOU0xNFJENUQ2UldUb0RSNlhxZWJnaXZoT0czZWVBZU9wajJ0Z0otQ01CVGxqUmJ5WUN2SUVWeTFmQk82cHc3c2lSU2ZBdUpZWk8zTXBkWTZraHRmVDRWU0R5RXlPVG05YU9wVXRyT19uanBOYl93ZEM4X2ljdmdRZ0FJbGlSaDNxWU4xT2ZFU0xfVnNOTkN2UUM5SFFudDNHRGNTWGNXV1dvZ0hvZk40TGlaVVdWeVpfaFgw?oc=5",
+    "source": "Ratopati",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T04:21:46+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUmIzWTVVRVpnUXhFQkVKNElnRjAzcHJjZng2YVRIUDF4bXZCOU0xNFJENUQ2UldUb0RSNlhxZWJnaXZoT0czZWVBZU9wajJ0Z0otQ01CVGxqUmJ5WUN2SUVWeTFmQk82cHc3c2lSU2ZBdUpZWk8zTXBkWTZraHRmVDRWU0R5RXlPVG05YU9wVXRyT19uanBOYl93ZEM4X2ljdmdRZ0FJbGlSaDNxWU4xT2ZFU0xfVnNOTkN2UUM5SFFudDNHRGNTWGNXV1dvZ0hvZk40TGlaVVdWeVpfaFgw?oc=5\" target=\"_blank\">US Embassy Highlights Need for Predictable Tax System, IP Protection, and Transparency in Public Procurement for Investment in Nepal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ratopati</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "83c9bed6081451e18682",
+    "title": "Chicago news today: Clerk of the Circuit Court of Cook County online portal is down following cybersecurity incident - ABC7 Chicago",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONEd1cFdEaHhaZ1otb1pxVnQ0TExDLXdEQlpGNk9zU3ZRQVF5SkN2dlFlcl82RjdfNnFJZklvWF9TUnJicTMyNGZ2WHdaTEc5eEFZNzR1cTVhVktYWjFocTlJdXFvZTBVS2J5ZUVTcnZBb2ZpWE5yaW9lbFlHTkhWd1NmdU04aURmb3NIcnJpRVdqeEp1ZC1HQnlGOUEtWUZIOGVvSnVXSHVRTjMwdjYxeDlpNlI5VDU1Vk5nblpMNlZ2YlUtVG9IM2YxV00yNlZ1dHVKWU9jdGJjTGRn0gHiAUFVX3lxTFA2LTNUUE55Uml0TU1RTm1BdWNxWHFoRUYybDgxVmF5Y2VpeDhGSmd1RV81bC15aEFHMzdmUHFrSXVrUko0cjlNb0VGMFdRMWJzQ2ZiU0l5RURzRjBlaUZaRE9OcXNoVm4tT0hqRFEtem0xbFNhZXVPcEFXTm91RVRRU0RMcGthZXl3VTh0Rks0SGc2ZllHajZOeWx5cGh0OVctZ3ZvX05CNFNBM1J3eEhYQzBWN1IwUUhOMG1QLTV1RUY5NzVfNnpSMW1DQ0M1VWV3Z2gwTkJBSU1YTUNfS1BseXc?oc=5",
+    "source": "ABC7 Chicago",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T03:59:19+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxONEd1cFdEaHhaZ1otb1pxVnQ0TExDLXdEQlpGNk9zU3ZRQVF5SkN2dlFlcl82RjdfNnFJZklvWF9TUnJicTMyNGZ2WHdaTEc5eEFZNzR1cTVhVktYWjFocTlJdXFvZTBVS2J5ZUVTcnZBb2ZpWE5yaW9lbFlHTkhWd1NmdU04aURmb3NIcnJpRVdqeEp1ZC1HQnlGOUEtWUZIOGVvSnVXSHVRTjMwdjYxeDlpNlI5VDU1Vk5nblpMNlZ2YlUtVG9IM2YxV00yNlZ1dHVKWU9jdGJjTGRn0gHiAUFVX3lxTFA2LTNUUE55Uml0TU1RTm1BdWNxWHFoRUYybDgxVmF5Y2VpeDhGSmd1RV81bC15aEFHMzdmUHFrSXVrUko0cjlNb0VGMFdRMWJzQ2ZiU0l5RURzRjBlaUZaRE9OcXNoVm4tT0hqRFEtem0xbFNhZXVPcEFXTm91RVRRU0RMcGthZXl3VTh0Rks0SGc2ZllHajZOeWx5cGh0OVctZ3ZvX05CNFNBM1J3eEhYQzBWN1IwUUhOMG1QLTV1RUY5NzVfNnpSMW1DQ0M1VWV3Z2gwTkJBSU1YTUNfS1BseXc?oc=5\" target=\"_blank\">Chicago news today: Clerk of the Circuit Court of Cook County online portal is down following cybersecurity incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Chicago</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "944b3c07fd8f8a0835f2",
+    "title": "Delay in resolving Ranisain border dispute frustrates local people - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZR25FRlczNFRfOE54dW9xT1E4a2NlMFo4eUpldkRJVXZ1cUdtMmdXU3pfZG1aWl9GQ01nbjhJN3hPVWN1ajVzNlFrU3BMSUxT?oc=5",
+    "source": "The Rising Nepal",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T03:51:13+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZR25FRlczNFRfOE54dW9xT1E4a2NlMFo4eUpldkRJVXZ1cUdtMmdXU3pfZG1aWl9GQ01nbjhJN3hPVWN1ajVzNlFrU3BMSUxT?oc=5\" target=\"_blank\">Delay in resolving Ranisain border dispute frustrates local people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "11b3b5a9b89c799894ff",
+    "title": "1Password data breach included some customer info, internal source code - CSO Online",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2xmeVdiRGN6RnFMVFQwT3ZIWHduYnU0bWg1bWx2d3RzWi1jY2RqWm1TbktjWlo2alRrOWVkQ21LVVNpQWpUYzZpaHZGbGFpcG1IY1d1MXpNaW16ZHlicnNQazN2aGZpSy13ZHJGelQ2MC1MeUV0SGp0dGFUZVlBWkdmT2tlaFExakZvd3NZanVLX2JLT2NZZ2ZYajBaaWw2M29BNzNZWmNFaUdacWlDYnhMcVFVcjRI?oc=5",
+    "source": "CSO Online",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T03:46:12+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2xmeVdiRGN6RnFMVFQwT3ZIWHduYnU0bWg1bWx2d3RzWi1jY2RqWm1TbktjWlo2alRrOWVkQ21LVVNpQWpUYzZpaHZGbGFpcG1IY1d1MXpNaW16ZHlicnNQazN2aGZpSy13ZHJGelQ2MC1MeUV0SGp0dGFUZVlBWkdmT2tlaFExakZvd3NZanVLX2JLT2NZZ2ZYajBaaWw2M29BNzNZWmNFaUdacWlDYnhMcVFVcjRI?oc=5\" target=\"_blank\">1Password data breach included some customer info, internal source code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CSO Online</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "37b71e0d938c5a307fcb",
+    "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFpZdk93Vmh3R1JleFQ0eGdvaS1rZTMxNVNfRy1RbG93RGZhY2ozVktGc2ZuakNzZXZ0cDN5Y2ttdXVENlVJVmtoX0hNZGhQb3M5S1RNYkMwd0JrZXdLNXJiLUExNjFHS0lZLXRlYUYxX3VLYlhOZW9nazRhTHFEc000TnFLU0FQR2FJ?oc=5",
+    "source": "The Verge",
+    "category": "Tech News",
+    "published_at": "2026-11-28T03:30:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFpZdk93Vmh3R1JleFQ0eGdvaS1rZTMxNVNfRy1RbG93RGZhY2ozVktGc2ZuakNzZXZ0cDN5Y2ttdXVENlVJVmtoX0hNZGhQb3M5S1RNYkMwd0JrZXdLNXJiLUExNjFHS0lZLXRlYUYxX3VLYlhOZW9nazRhTHFEc000TnFLU0FQR2FJ?oc=5\" target=\"_blank\">The M5 MacBook Air just got its biggest discount since Apple raised the price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWRrVExNWDZkT2VrNUtMZ2Q1aUpvODBQR2x2WVV3d3p4MXZtcGNrdG9FZFlORTNGblhsZEtjUWtLMEUxckRMU240SEhYcVFtSFJJQW9YSW1ENmQ3VHo2eWJqV2YyYXJtdzNkVzhnUWtXUU1hemJuVXIxaXZDV0FoVlZFQS02cnBmZGs1bg?oc=5\" target=\"_blank\">The Cheapest Black Friday MacBook Deals Are Back in Stock From $599</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmhVTExRZjE5RnlkVjBuLWQ1SFd1UVAwLU1IMGpYOVNyVGlUaXFVN0JmUE9TRmpXVXp5cDhQTU1YNFF1d2dMVDVCNFZLSnFYcGNPU0pycVlIbVJiTlRqY09XUTEzVWNabHBzTld1VmhiaEdPSlA2RWdBdnlmNHNZUU9xNF9xTi1FYjB3TGRmMUNuSWQzRDhKaE9tTFB0QUV5b3REY1pJeW5zVkZQMTN0RlRuTUEwNjJaWDBMU09JZw?oc=5\" target=\"_blank\">The only MacBook I’d gladly pay full price for is $300 off for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGFtVm1kYkdvRFpTbW0tOEszUkhkaXJ3UDVjSk1SdlZtYVJ5NU1qTnBvNlQ3aGp4NEVjSlRhOEt4SEtiUFhnZk5kc01uVHdUdk9UZmZBaS1JRVl2dnZ4NlF4a05ycG0wVTZpdHd1UFRZVXhDWTVtNzh4QndqNU9HRnNB?oc=5\" target=\"_blank\">Apple's M6 and PROLED MacBook Pro Reach New Low Prices for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFNWNTFTMTlDMXM3OXBUWjRlajlYVHhNUVZfWE9kWGJyaGppelZEWVpZbDZmTE5ZeFUtN0k5RWRxZmg0YUdESWxNbmFsZVE0WGhRRVBUMmNTcThRazc3QVRWaHVUb0pEN1RKdGk3cE9Xa0RGYnhoNUMyVS1fcnY1QUxQcm9KdERpbmNGcmdMLUVsWGNVSDZtZHlHUTdUR0JIaWJOSG9WVy1kejJjZTRacQ?oc=5\" target=\"_blank\">The best Black Friday MacBook Pro deals start at $1,749 with up to $500 off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "538e474b9e08f2d35a53",
+    "title": "Energy Minister Shrestha inspects various projects - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeV9YdXlnbEoybklqRVVnVDVYY1AwSzNmUXpuNk4xM0FhdXctMDRXWThCakV0MllIbnJZRV82ZnlBZnpYT1dYOEF0dVZJTjdqZ3B6OVhnUVA1ck50UFdtY0d5ZGFiOVFQVjFDQ3VrMWNUdnV0X0l5bXdfQzE3cnZxOV9fTnY1X2hFQVpqemIycnJMQ3V0?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T03:28:03+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNeV9YdXlnbEoybklqRVVnVDVYY1AwSzNmUXpuNk4xM0FhdXctMDRXWThCakV0MllIbnJZRV82ZnlBZnpYT1dYOEF0dVZJTjdqZ3B6OVhnUVA1ck50UFdtY0d5ZGFiOVFQVjFDQ3VrMWNUdnV0X0l5bXdfQzE3cnZxOV9fTnY1X2hFQVpqemIycnJMQ3V0?oc=5\" target=\"_blank\">Energy Minister Shrestha inspects various projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "af18b111d459941cfa45",
+    "title": "Fact Check: Did Timothée Chalamet reveal about adopting a child due to fertility issues? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDhhUGxYbzE5VVp5WUVvd2V1SlFzekR0MVNwaXdRZ3RMd21iOHRnbUd2RF85WmpRWjRtOXd1U2p0U2paY1V1SVI3N0g0cVh4MXlxTzJLa3VsV3lmY3BaN3pZQVVCcE51TjVUZ3NDcXFYdHU4cmNuT2hEZnBJcWtmRUJzTllKcHdjWW5RdHYwNVBTNGh6OUVVbkJIclVuSUVHUVlPR3gyODZ5amhiQWx6YTFn?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T03:27:41+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONDhhUGxYbzE5VVp5WUVvd2V1SlFzekR0MVNwaXdRZ3RMd21iOHRnbUd2RF85WmpRWjRtOXd1U2p0U2paY1V1SVI3N0g0cVh4MXlxTzJLa3VsV3lmY3BaN3pZQVVCcE51TjVUZ3NDcXFYdHU4cmNuT2hEZnBJcWtmRUJzTllKcHdjWW5RdHYwNVBTNGh6OUVVbkJIclVuSUVHUVlPR3gyODZ5amhiQWx6YTFn?oc=5\" target=\"_blank\">Fact Check: Did Timothée Chalamet reveal about adopting a child due to fertility issues?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "7f8c11b59ec9caf4b4ee",
+    "title": "Fact Check: Russia Did NOT Confirm Vladimir Putin Is Dead As Of Nov. 25, 2026 -- He Appeared Publicly Next Day - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFJfTXprRTlwXzh0Vkt0ZlVJUUF5T3c0ZXU4b0hzUmdqcmZQdzRZRU1nNUY0MGdFc3RCdkJ5TnhTWS1iV0pfUkhGamU5WlR6M3hINnZZRTZQQW9SSzVtTWw1S0h4LXhjMmt4SW1pN3hUaUtTRmFLMnRzYVFSN0JVSmRB?oc=5",
+    "source": "Yahoo",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T03:22:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFJfTXprRTlwXzh0Vkt0ZlVJUUF5T3c0ZXU4b0hzUmdqcmZQdzRZRU1nNUY0MGdFc3RCdkJ5TnhTWS1iV0pfUkhGamU5WlR6M3hINnZZRTZQQW9SSzVtTWw1S0h4LXhjMmt4SW1pN3hUaUtTRmFLMnRzYVFSN0JVSmRB?oc=5\" target=\"_blank\">Fact Check: Russia Did NOT Confirm Vladimir Putin Is Dead As Of Nov. 25, 2026 -- He Appeared Publicly Next Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "fb9cc3c6b349c5ae8e4b",
+    "title": "Weather to remain mostly clear in most parts of the country - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGgxU0hNbzV5TnRwQkhuNTlRSDhqNDZiZFJVUTdmTDE4aFJRNW1PUVFsNXhiMXlKOGVsZ2YwbEZEMWdwT3d6Mkt6VXBUWW15YnN4RGJ4dTZXX3lpN0VTeXR3UUtwaEVMa2l4bGQweDJoRThHV1FTb3l2d0M5YnVnbXdSeTFRaXpVT1FrSVRnZk5KU3E5QXVrQUZYWjVVSkpaOUE?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T03:18:20+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGgxU0hNbzV5TnRwQkhuNTlRSDhqNDZiZFJVUTdmTDE4aFJRNW1PUVFsNXhiMXlKOGVsZ2YwbEZEMWdwT3d6Mkt6VXBUWW15YnN4RGJ4dTZXX3lpN0VTeXR3UUtwaEVMa2l4bGQweDJoRThHV1FTb3l2d0M5YnVnbXdSeTFRaXpVT1FrSVRnZk5KU3E5QXVrQUZYWjVVSkpaOUE?oc=5\" target=\"_blank\">Weather to remain mostly clear in most parts of the country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "f414c55eb075942d054e",
+    "title": "Book Review: Rethinking Nepal’s geopolitical choices in an uncertain world order - The Kathmandu Post",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnNhOGlKOWdrTjRIdjc5ZkNJblFmdW1Fdi0zS1dGSi1zYXVXa252dXBXaFh2eURjYzJZQXBmY3BCWGdPVUR5Z2F0NVIwS1Ztb1NoVFF6MkREbDM0SXRkZ1lnZXpLMlY4T1J5UTFTUUtXaHZ3M19FcmdoNUR1ekIzdGNNWWllMEJpc3BmQndGZFZpcnM5UjBpbVJfTVl0bWUwblN5eW9sRGhLc2cybEtjOUtRTzA5bjBSSkxOVjBvVzdTWmptd3B3?oc=5",
+    "source": "The Kathmandu Post",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T03:17:05+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnNhOGlKOWdrTjRIdjc5ZkNJblFmdW1Fdi0zS1dGSi1zYXVXa252dXBXaFh2eURjYzJZQXBmY3BCWGdPVUR5Z2F0NVIwS1Ztb1NoVFF6MkREbDM0SXRkZ1lnZXpLMlY4T1J5UTFTUUtXaHZ3M19FcmdoNUR1ekIzdGNNWWllMEJpc3BmQndGZFZpcnM5UjBpbVJfTVl0bWUwblN5eW9sRGhLc2cybEtjOUtRTzA5bjBSSkxOVjBvVzdTWmptd3B3?oc=5\" target=\"_blank\">Book Review: Rethinking Nepal’s geopolitical choices in an uncertain world order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kathmandu Post</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "3377fea2825ce0903cc0",
+    "title": "Fact Check: Are Tom Brady and Erin Andrews romantically involved? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWNUVGtRbXU2NXZHUzgtNWJMWmZLLUtRUHdxT3ptZVVsR3YzM0JwSlVBVHJPcXhueFR5XzZ6REZMd3BJTmZZOFZwU2FfS1ZuNWN0UEdNREZwX09aNzNFeWlGeGk3UnF0QzhoTFc3RXg4WjZnaGgxOVA1QmhsbHBoelZGZ2ZQbDhTRHhPd29uSDliY3loWHdTQmFqMUJISVNDQVBZdlQwVFpDVkJkTm1Tdmw0NlZNZldMc3c?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T03:02:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWNUVGtRbXU2NXZHUzgtNWJMWmZLLUtRUHdxT3ptZVVsR3YzM0JwSlVBVHJPcXhueFR5XzZ6REZMd3BJTmZZOFZwU2FfS1ZuNWN0UEdNREZwX09aNzNFeWlGeGk3UnF0QzhoTFc3RXg4WjZnaGgxOVA1QmhsbHBoelZGZ2ZQbDhTRHhPd29uSDliY3loWHdTQmFqMUJISVNDQVBZdlQwVFpDVkJkTm1Tdmw0NlZNZldMc3c?oc=5\" target=\"_blank\">Fact Check: Are Tom Brady and Erin Andrews romantically involved?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "21437686b28c6a2642ed",
+    "title": "Colombia Falls in the Artificial Intelligence Adoption Rankings - ColombiaOne.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUhnMnNwVVFxdWcwQTE5c1JwSDM5dmNVeHlVRGE0cDBxR2RRODk1OVZoR2owaEhvM3R6eUFBVGlJb2xuRmEzS2NKU2JDMlIzTElYSGdUQmFlVjdhT3diNXZrZEEzWHFfUXQ2STJ6dzNBMkpleEoyT2duSHlqaWhKVUF1Z1BQZ285WHZSS2JLdWFhRW51WkE3VXlndHczOXBC?oc=5",
+    "source": "ColombiaOne.com",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T03:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTUhnMnNwVVFxdWcwQTE5c1JwSDM5dmNVeHlVRGE0cDBxR2RRODk1OVZoR2owaEhvM3R6eUFBVGlJb2xuRmEzS2NKU2JDMlIzTElYSGdUQmFlVjdhT3diNXZrZEEzWHFfUXQ2STJ6dzNBMkpleEoyT2duSHlqaWhKVUF1Z1BQZ285WHZSS2JLdWFhRW51WkE3VXlndHczOXBC?oc=5\" target=\"_blank\">Colombia Falls in the Artificial Intelligence Adoption Rankings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ColombiaOne.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "ba39b9bc67de72694f6c",
+    "title": "'Including women and people of color in datasets does not make AI systems feminist and antiracist' - Bianet",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMERFZ0ZaRGpPUGZfcU03Yzd1NmM0Zk1tMUI4WUpaNGJsUjRFOXJQUW9SY3JnWk5RemN0d3ZiN29vRnFJWnRIQlBLa3hiOUJMVGZseHhxUl9KR05JU0tFNDhuMnRsME4xVGxRenI2dVptY3lNVTlOYkhyTjVyVU93X29ZRFpYNUw5czlBeDJ4RmNVdWFrS2drc0JYUEpaQmU2eGoyaU5JRS1TV3dsLTZ0Yzk0SXE3TlQ5dzRwN0RLN3QxcnNLbDhZ?oc=5",
+    "source": "Bianet",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T03:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMERFZ0ZaRGpPUGZfcU03Yzd1NmM0Zk1tMUI4WUpaNGJsUjRFOXJQUW9SY3JnWk5RemN0d3ZiN29vRnFJWnRIQlBLa3hiOUJMVGZseHhxUl9KR05JU0tFNDhuMnRsME4xVGxRenI2dVptY3lNVTlOYkhyTjVyVU93X29ZRFpYNUw5czlBeDJ4RmNVdWFrS2drc0JYUEpaQmU2eGoyaU5JRS1TV3dsLTZ0Yzk0SXE3TlQ5dzRwN0RLN3QxcnNLbDhZ?oc=5\" target=\"_blank\">'Including women and people of color in datasets does not make AI systems feminist and antiracist'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bianet</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "b2470b400803a161bcff",
+    "title": "Auditions open for Grand Everest Ashram - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05WU1fRDRrem1TVDJORURtRUZabUhtS01RSG5fa3FHUXJyUEJiM1g5OWt1MzZDMUV0U09yMU10NHdpLVVWcWd0MUgzQUlPTzZr?oc=5",
+    "source": "The Rising Nepal",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:49:32+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE05WU1fRDRrem1TVDJORURtRUZabUhtS01RSG5fa3FHUXJyUEJiM1g5OWt1MzZDMUV0U09yMU10NHdpLVVWcWd0MUgzQUlPTzZr?oc=5\" target=\"_blank\">Auditions open for Grand Everest Ashram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "45d8942be4a8f9f26d71",
+    "title": "In the age of AI, Nepali brands under pressure to reinvent themselves - The Kathmandu Post",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjJjUU1iM2YtSFBiQmtIZTJ3RGFSVWloN244eUxEMHBXclZiYW1PUHh5LW1EUnFvcUJYd194OHVyRVI5bWl4SE1UR3NwTkRwNWVBOEJOV1h3eXh0OXI5bFQzdFU2b1BTQ0tVZUZ0M19jMEp3d0NMQ1gwQnFXaGQ5R25TV1ZrZk15eVNmTUgtcmpFYUU1WnFRQmk2UC1yV240WlNTR2s0TDJkYTFYOTdxSQ?oc=5",
+    "source": "The Kathmandu Post",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:46:45+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjJjUU1iM2YtSFBiQmtIZTJ3RGFSVWloN244eUxEMHBXclZiYW1PUHh5LW1EUnFvcUJYd194OHVyRVI5bWl4SE1UR3NwTkRwNWVBOEJOV1h3eXh0OXI5bFQzdFU2b1BTQ0tVZUZ0M19jMEp3d0NMQ1gwQnFXaGQ5R25TV1ZrZk15eVNmTUgtcmpFYUU1WnFRQmk2UC1yV240WlNTR2s0TDJkYTFYOTdxSQ?oc=5\" target=\"_blank\">In the age of AI, Nepali brands under pressure to reinvent themselves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kathmandu Post</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "5732797239b3faa2fbd0",
+    "title": "Fact Check: Did Zelenskyy, in a blistering statement, slam Trump for inviting Putin to Florida? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm4ycVQ5VVpIVEN3RnZFT0lqdlRrV3g4NlhpT3YtRm5pM2MtdmtvYXV3YjdvTnJoNGloVm5KOEVqWFRNaW16YXF6SmF2OWEtd1puVzN1Z3JXU1pENlVDQXlJLTFDUHI3Y1FWWnhoX1lvMlpBeUhONmVOVzUwNDM2Um5sRklveUFmLTlUR1lWVzgybjVrdG9XMHlyaENoQURSWlNjOURn?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T02:37:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm4ycVQ5VVpIVEN3RnZFT0lqdlRrV3g4NlhpT3YtRm5pM2MtdmtvYXV3YjdvTnJoNGloVm5KOEVqWFRNaW16YXF6SmF2OWEtd1puVzN1Z3JXU1pENlVDQXlJLTFDUHI3Y1FWWnhoX1lvMlpBeUhONmVOVzUwNDM2Um5sRklveUFmLTlUR1lWVzgybjVrdG9XMHlyaENoQURSWlNjOURn?oc=5\" target=\"_blank\">Fact Check: Did Zelenskyy, in a blistering statement, slam Trump for inviting Putin to Florida?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "329d2f05f5d62a760cfb",
+    "title": "Repairing Ruptures In Public Sphere - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXSnFKVWJoV0YwcUxKS2NzcmRQdEdkOVBTUThRZXBWX2hod1BJNmJRUHFaNER0aXhTblF0Y1ZIRUtmWFUtN3l0M1gwVlNMdTBp?oc=5",
+    "source": "The Rising Nepal",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:36:01+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXSnFKVWJoV0YwcUxKS2NzcmRQdEdkOVBTUThRZXBWX2hod1BJNmJRUHFaNER0aXhTblF0Y1ZIRUtmWFUtN3l0M1gwVlNMdTBp?oc=5\" target=\"_blank\">Repairing Ruptures In Public Sphere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "3883356f57d7dbea8e10",
+    "title": "Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit - The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYklERGMyS1JTb1lkaDlwbHdNc2MtckxpWDRmV21NZnEwU3ZzNXFIUUdRU2RyY3NObnNHNlpWZDlYY1E0VlZSa0MxbFlzWTgwdjZDZGZzMkR2cjBMTWFELUZTQUMxZTFJd3JUaGxXRDBjTU9BWjc2T3hlMnlCU0N6STNKUGNiVW5fVHYxbDI3ZGs3Z2VCQ053aU9FYUx2R0UzYjdVcFdmLUpKY1ZPcVdVbFdyLUJtcFFJZHRRZGJua3k4clFfT3B3dFN1TTR0SnZFMi1QVzlIRzRla2tfZ2poVmYxUktFNUHSAe4BQVVfeXFMTU81bzhlaUMweERITXF6b3FOeHctVllseE8zdGNMQXlMeG1RZld5Z3BIeFJidDRWTGdFSFJSSkphNTF6SloyWlRwbXI5Zk5tY3VrUG9kaGZNOFV6anNNYVdBOGNNbndRSl9CVWlEZ2hIS05YZm5oZExOTl8zem1JdGYzOVRqQk8yMlY3a3hDc0ZYYi13OUdlMlJWVXNid0FBdnVCcjJTRXJWWVZacG5ja1RoT1N1b0dLN19NeXppeWRsRzBHZnhyVFNNLUJOWktXcG5WMm1BckU4aUs4RlUwSEhpVFhxQ2VMU1Z0ZUZVQQ?oc=5",
+    "source": "The Hindu",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:36:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYklERGMyS1JTb1lkaDlwbHdNc2MtckxpWDRmV21NZnEwU3ZzNXFIUUdRU2RyY3NObnNHNlpWZDlYY1E0VlZSa0MxbFlzWTgwdjZDZGZzMkR2cjBMTWFELUZTQUMxZTFJd3JUaGxXRDBjTU9BWjc2T3hlMnlCU0N6STNKUGNiVW5fVHYxbDI3ZGs3Z2VCQ053aU9FYUx2R0UzYjdVcFdmLUpKY1ZPcVdVbFdyLUJtcFFJZHRRZGJua3k4clFfT3B3dFN1TTR0SnZFMi1QVzlIRzRla2tfZ2poVmYxUktFNUHSAe4BQVVfeXFMTU81bzhlaUMweERITXF6b3FOeHctVllseE8zdGNMQXlMeG1RZld5Z3BIeFJidDRWTGdFSFJSSkphNTF6SloyWlRwbXI5Zk5tY3VrUG9kaGZNOFV6anNNYVdBOGNNbndRSl9CVWlEZ2hIS05YZm5oZExOTl8zem1JdGYzOVRqQk8yMlY3a3hDc0ZYYi13OUdlMlJWVXNid0FBdnVCcjJTRXJWWVZacG5ja1RoT1N1b0dLN19NeXppeWRsRzBHZnhyVFNNLUJOWktXcG5WMm1BckU4aUs4RlUwSEhpVFhxQ2VMU1Z0ZUZVQQ?oc=5\" target=\"_blank\">Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "af9317bb5acbbcb8a4ae",
+    "title": "Myth Of Free Education In Kathmandu - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lVWRBZ0RUMTZ2blU3UFplOUJ2eGZVcGNjeU9tb1UxU2RJbml0LVQ4T1U2MzNJQjU5cnhXV2lEd3cxTk1LbVdhdjR3TmJqMWY5?oc=5",
+    "source": "The Rising Nepal",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:31:01+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lVWRBZ0RUMTZ2blU3UFplOUJ2eGZVcGNjeU9tb1UxU2RJbml0LVQ4T1U2MzNJQjU5cnhXV2lEd3cxTk1LbVdhdjR3TmJqMWY5?oc=5\" target=\"_blank\">Myth Of Free Education In Kathmandu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "24ec7328f68401166aa7",
+    "title": "Who Wrote That Thesis? - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94cHZlVlFDZHNPdnJNYVYyWl9ySF9mSjVQd0NTSDhrQXBMNy1PRkJacEIwazhlU1p4eXRGa2RuWDFTdHFCZDVqTlRDUEI1NUZD?oc=5",
+    "source": "The Rising Nepal",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:25:57+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE94cHZlVlFDZHNPdnJNYVYyWl9ySF9mSjVQd0NTSDhrQXBMNy1PRkJacEIwazhlU1p4eXRGa2RuWDFTdHFCZDVqTlRDUEI1NUZD?oc=5\" target=\"_blank\">Who Wrote That Thesis?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "da749a62566882f362da",
+    "title": "Major reforms needed in minor detention centres - Nepali Times",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ITlB1a05IU2hPUmhtQjZmWTNXcW1NZGJ6QklBTklpWkpfTVBna0JqMUNrVjZLTkJxdEFmQTdEZVhKSVdRLXlsMXd0bzNicWM5NFpUTFBia1ZOM1JYdnhCU0lFa0RndWlMcHRmTDZMVXFZclBtV2d0MDNtTQ?oc=5",
+    "source": "Nepali Times",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:24:05+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1ITlB1a05IU2hPUmhtQjZmWTNXcW1NZGJ6QklBTklpWkpfTVBna0JqMUNrVjZLTkJxdEFmQTdEZVhKSVdRLXlsMXd0bzNicWM5NFpUTFBia1ZOM1JYdnhCU0lFa0RndWlMcHRmTDZMVXFZclBtV2d0MDNtTQ?oc=5\" target=\"_blank\">Major reforms needed in minor detention centres</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepali Times</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "ee00ac5a70a3430647b8",
+    "title": "Korea Post confirms data breach affecting at least 113,000 customers - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUGpCeTEtUW1Hbnljb0tzU0wyT29kMl9BVXk1SUZTN3FldWRmV25fa3EyZDlsR1JHVV9tWllZaGREV242NWs3emZIV1JPVXRTSWs5MGF4RQ?oc=5",
+    "source": "The Korea Herald",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T02:13:20+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EUGpCeTEtUW1Hbnljb0tzU0wyT29kMl9BVXk1SUZTN3FldWRmV25fa3EyZDlsR1JHVV9tWllZaGREV242NWs3emZIV1JPVXRTSWs5MGF4RQ?oc=5\" target=\"_blank\">Korea Post confirms data breach affecting at least 113,000 customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Herald</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "d8e4277abadd90caefff",
+    "title": "Apple sales draw income over Rs 80 million in Humla - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObG5iNW11akpRaXpFdENIMk9xeGI1RmdUVTBqamFra3RpRVNVYTJ6NjV4aGxFOURqNDNfRW14a1pUV1p3dkVGWHZmNzBCMTZ5c3o4NEI1NUVOU2tSbmQ0d1hvOFNPelRreEhZV0tadmJqUzk1dWpQbVIwWjhIX2FCN0xqNVJMRFo4Qks4RlRKYmpvZE04eGRiZQ?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T02:13:03+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxObG5iNW11akpRaXpFdENIMk9xeGI1RmdUVTBqamFra3RpRVNVYTJ6NjV4aGxFOURqNDNfRW14a1pUV1p3dkVGWHZmNzBCMTZ5c3o4NEI1NUVOU2tSbmQ0d1hvOFNPelRreEhZV0tadmJqUzk1dWpQbVIwWjhIX2FCN0xqNVJMRFo4Qks4RlRKYmpvZE04eGRiZQ?oc=5\" target=\"_blank\">Apple sales draw income over Rs 80 million in Humla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "c3118e08720bf5e89c03",
+    "title": "Treat AI as a tool to augment human capabilities, automate existing tasks: Guy Kawasaki - Telegraph India",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQNzFyelVXNXdsa3VqVGNuVU1tcklhaEFCX0puYkpNOVZJcGdDVHhUemhGMHU3WjkxR1hrRFJZeHpLU3J0TFJJZU5DbjE1Z3lWOHEyaU0zSmN6TmlwYzdQNWYwekY4aV9BSUZySkI4blBxQXZtTXVkTW0wZG5aeUZyU1I1OHZob1U1Wi1faTh4RXlQQW9UeVRZTEVQLVd3UjNBU0xzeFVSTldLdXEyc2ZweGYzSlk3WVZwMXBWTkdVVWg1RkEtRk1sLTNaLTZtcV9qNFAwZVJsc1dFcHJPWFExd2RQQ1ZlalEtOVB4RkM3TmJjVDVEWlZVUnNLOEE0TUNwMk9BeE9Cd2RxWVZRY1BZUzN6MV9tT1BfNnhFSVhjaVhGSWNqQWdaT0xIaGtwRWhieXFJ0gG4AkFVX3lxTE1paTB3eUpIeVBhNnpaOUFzc3NKSlFIY0t4R1huMGI0RE85UHE1dDh4dHhJQzMxd1pNdzA1Nk9VZ3IyMThoZGpVclhaOGVYeUxZMWh4MUNCb1FkRmFvQ0FXSGdSN0hKbVVHUzZmazl4R2pGZnlzOHR0NW5USmxlc0hvYTZkd2oyVmg4U3hWUURvVEZuaTA1Vk5EdjExZFBYNXhTQzh4TjhRRWQ5T2xoTUMteWpBandPQXIzay04LXk5NVNKR3dxVkNTa1d5SDJKY3FhU2l1czZZakg5aW5MSEdmMEk5UmZCOWtyTXFhWVpQSlBkTGdFSF95eHYxU1BLWUhBaXA2N2MxZlplQmNmZjA3SnZiYW9QV1p1d2lqWGp6aUZkWkJzLWhjRmc0QzdsOWRhSEw4QzRCag?oc=5",
+    "source": "Telegraph India",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-28T02:08:31+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxQNzFyelVXNXdsa3VqVGNuVU1tcklhaEFCX0puYkpNOVZJcGdDVHhUemhGMHU3WjkxR1hrRFJZeHpLU3J0TFJJZU5DbjE1Z3lWOHEyaU0zSmN6TmlwYzdQNWYwekY4aV9BSUZySkI4blBxQXZtTXVkTW0wZG5aeUZyU1I1OHZob1U1Wi1faTh4RXlQQW9UeVRZTEVQLVd3UjNBU0xzeFVSTldLdXEyc2ZweGYzSlk3WVZwMXBWTkdVVWg1RkEtRk1sLTNaLTZtcV9qNFAwZVJsc1dFcHJPWFExd2RQQ1ZlalEtOVB4RkM3TmJjVDVEWlZVUnNLOEE0TUNwMk9BeE9Cd2RxWVZRY1BZUzN6MV9tT1BfNnhFSVhjaVhGSWNqQWdaT0xIaGtwRWhieXFJ0gG4AkFVX3lxTE1paTB3eUpIeVBhNnpaOUFzc3NKSlFIY0t4R1huMGI0RE85UHE1dDh4dHhJQzMxd1pNdzA1Nk9VZ3IyMThoZGpVclhaOGVYeUxZMWh4MUNCb1FkRmFvQ0FXSGdSN0hKbVVHUzZmazl4R2pGZnlzOHR0NW5USmxlc0hvYTZkd2oyVmg4U3hWUURvVEZuaTA1Vk5EdjExZFBYNXhTQzh4TjhRRWQ5T2xoTUMteWpBandPQXIzay04LXk5NVNKR3dxVkNTa1d5SDJKY3FhU2l1czZZakg5aW5MSEdmMEk5UmZCOWtyTXFhWVpQSlBkTGdFSF95eHYxU1BLWUhBaXA2N2MxZlplQmNmZjA3SnZiYW9QV1p1d2lqWGp6aUZkWkJzLWhjRmc0QzdsOWRhSEw4QzRCag?oc=5\" target=\"_blank\">Treat AI as a tool to augment human capabilities, automate existing tasks: Guy Kawasaki</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "e11531d9fe044c19739b",
+    "title": "Fact Check: Will Mamdani pay NYC residents $500 monthly to house killers from Rikers? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlFxSWEtNk9vZEU2MnRtZThvckMxd0t2SzlMODdkQy03RkN0aTlVZUVuZ2lZS1Foc3NGelRISWg2TGpmZDBONUc0THdmdldYZmhvSVp5dTZiMW5Ra2FrOEFyaTEwMnI4R2VBZno4SENVVmx5ZERtWFpRYTJWdndsenl3aFAxeHlma1NWbG1VSmltc0tBSFhFVHdjaU5CY19WT3psbUhHVEI?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T02:05:05+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlFxSWEtNk9vZEU2MnRtZThvckMxd0t2SzlMODdkQy03RkN0aTlVZUVuZ2lZS1Foc3NGelRISWg2TGpmZDBONUc0THdmdldYZmhvSVp5dTZiMW5Ra2FrOEFyaTEwMnI4R2VBZno4SENVVmx5ZERtWFpRYTJWdndsenl3aFAxeHlma1NWbG1VSmltc0tBSFhFVHdjaU5CY19WT3psbUhHVEI?oc=5\" target=\"_blank\">Fact Check: Will Mamdani pay NYC residents $500 monthly to house killers from Rikers?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "64a5b70bd769cd04d816",
+    "title": "AFP Confirms Cyberattack on News Platform Used by Media Clients Worldwide - Howl.Link",
+    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBVT3hsODhlUTZ3Y0xPZW9ZV0J6U3M0eEtpUEpXU3Nsd1YxQmVfSUdYdGpDQWR4NXRxSzhB?oc=5",
+    "source": "Howl.Link",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T02:04:33+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiO0FVX3lxTFBVT3hsODhlUTZ3Y0xPZW9ZV0J6U3M0eEtpUEpXU3Nsd1YxQmVfSUdYdGpDQWR4NXRxSzhB?oc=5\" target=\"_blank\">AFP Confirms Cyberattack on News Platform Used by Media Clients Worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Howl.Link</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "2739f54876762cc47634",
+    "title": "SAP investigates suspected attack impacting source code - Cybersecurity Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnlqYmNpYnJYOHBBYzljanhaR3RiaW94OXVKYjVQbjAwZzJQUHlySHV1VURUbGhpUkRSX19SVDZOeUVPMTI5WHhGdkJwci16TVp0TjFhUENjVjZ2dFhndEg1TmhDSHBnMUJNSzlyTkdsWEQ4bUhTSHJBNzc3d2dVWEtqQ0xwa3YyTWc?oc=5",
+    "source": "Cybersecurity Dive",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T02:01:44+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnlqYmNpYnJYOHBBYzljanhaR3RiaW94OXVKYjVQbjAwZzJQUHlySHV1VURUbGhpUkRSX19SVDZOeUVPMTI5WHhGdkJwci16TVp0TjFhUENjVjZ2dFhndEg1TmhDSHBnMUJNSzlyTkdsWEQ4bUhTSHJBNzc3d2dVWEtqQ0xwa3YyTWc?oc=5\" target=\"_blank\">SAP investigates suspected attack impacting source code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "f12f47de5e3c4d586dc4",
+    "title": "US claims to disable Palau-flagged vessel in Gulf of Oman over blockade violation - Nepalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQajdhRWs0eGJNemw0RUowbWtDclNvd2h1RnE0TVRTVG1EbVIzam91MGhiSmNKVndiVks2RVp1aFgyLV9NUk5PUEpteEtDMXZYSnVleFBfVm56Um43YjRWdXlpNWZCR21VbXRnbmNjYWVJSkxVWmt2YWxPOXNXdnlCZXhsc1hWdENUd245YldpWDhnejlFMkJoRVR5bFFEUVdTcUx2M2RLT0szSVdCM1pOTEt3RFJ2M0F5UEVDQmdweVJNazhkZ2I0?oc=5",
+    "source": "Nepalnews.com",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T01:58:03+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQajdhRWs0eGJNemw0RUowbWtDclNvd2h1RnE0TVRTVG1EbVIzam91MGhiSmNKVndiVks2RVp1aFgyLV9NUk5PUEpteEtDMXZYSnVleFBfVm56Um43YjRWdXlpNWZCR21VbXRnbmNjYWVJSkxVWmt2YWxPOXNXdnlCZXhsc1hWdENUd245YldpWDhnejlFMkJoRVR5bFFEUVdTcUx2M2RLT0szSVdCM1pOTEt3RFJ2M0F5UEVDQmdweVJNazhkZ2I0?oc=5\" target=\"_blank\">US claims to disable Palau-flagged vessel in Gulf of Oman over blockade violation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "65d807672d4535f5db7b",
+    "title": "Apple is going all in with the iPhone 20 Pro - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemFMUmNacFBtN3JxZnZjNUs1MVJhcEZpMUFHWGRTN2RUbHpELW0ya2tYMlE5NWkwRFVsZV9VWnBJMXpBQ1h1aVpMVVAyQjNDcHZEaV8ydkFlRmtlNnBZdHFPTldIMThhbXp3RVFNSnkzX1I1UGNMMk5vXzROT0Z0NEJWcVY?oc=5",
+    "source": "PhoneArena",
+    "category": "Tech News",
+    "published_at": "2026-11-28T01:52:17+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPemFMUmNacFBtN3JxZnZjNUs1MVJhcEZpMUFHWGRTN2RUbHpELW0ya2tYMlE5NWkwRFVsZV9VWnBJMXpBQ1h1aVpMVVAyQjNDcHZEaV8ydkFlRmtlNnBZdHFPTldIMThhbXp3RVFNSnkzX1I1UGNMMk5vXzROT0Z0NEJWcVY?oc=5\" target=\"_blank\">Apple is going all in with the iPhone 20 Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0Jra0FUWlN4SmdWSmRpUWxrckFHOVViRE5JUW9KVXdvQUhJTk5XR2pqNHlYS2NoQW0tYW45emZ4WVFTRl8yUFV0bEEzam1vX2M1cVVBb2ZRa1VKTnZqQ21mbFcySFprRHJwY0pfRURGQ0RHZURMMktTajhNd09iN0RheFAxUGFz?oc=5\" target=\"_blank\">iPhone 20 Pro Could Feature Ceramic in Limited-Edition Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVVIaXhqeDdrTkdhdmZmYzNLS0dBb2tkRVJjeHdKUGpoRVJlU05lcnExanlROHFmTzkzbW5sTG11UE9OazFHZXBXLTA3TVdoR2xMUnlLcEMxazRBWHpIRTJ2NmVWZnQ1LUpmMzU1WXdjbFp0ZzdoaVNxUjYtVWhGWWhHM3F3VEZhbWVGT1pjeWxwVER0bk9sckxyX0RNeGpOV2dXbFY5RDdXX3ZoRE50SQ?oc=5\" target=\"_blank\">Apple's iPhone 20 Pro could bring titanium back with a futuristic twist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGhoRXZORlAwR0thZVdKTUFYZWQ3LWNSdktxTUp6a05LZW04RGJlM3NnS1JQTElXdHpOZDNOMTJTckdaVEpvMmJ0XzNnT3gzeDRJT1dsYVZkUjJOYWF0elNqNzk5anh6VUZibVRnQzZjT0pUU3V4OUkzNWhydDJaZnZIYjJ6SUtTdXgwQVA5QnpjUkJxMVAzRGY2SkJKSDBIYVE?oc=5\" target=\"_blank\">Ceramic iPhone? What is behind the suspicious rumours about the iPhone 20 Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1wRTR3SmZQVUp4eWU3dTBGSW90T0w1UjdtV3NycGRvcXNUQVRTSVA3dmtGZUlmQ0c1TTVoNlVRbnBYcHZyNGM4eHpyS2pPTWpOVlIyWEdfT0xBbTEzdm9JM0FOSDhVZnpFQkl3aUcwMFVhdTQtRW9MakJ3OVY?oc=5\" target=\"_blank\">iPhone 20 Pro and Pro Max: Leaks Point to September 2027 Launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "0d1a37e4a38ef5fc4ef7",
+    "title": "Fact Check: Did Texas ICE facility serve employee Thanksgiving dinner in front of detainees? - MEAWW News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmxJcmZHQkZ0Q1NrVndoRFhuN0VvZENZZ0pXdnJpMnA4VndCLVpYSi1jU2RoT1pWQ2VQUzEwcnozWTZURUVDTWFMemt6WlNFNkJUTFpCZmpzT0Jpbk1zYVREZTJrOWRrYTRKMmtyckRzbDJkdERsLXJDeUVFUkhtWllETHdmZ1k2VGZQdllUaFF5elpBRmVnS2VuYnZHWnZ0ajFYb1NSQVVRYzlDQUgtYkh4VQ?oc=5",
+    "source": "MEAWW News",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T01:50:12+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmxJcmZHQkZ0Q1NrVndoRFhuN0VvZENZZ0pXdnJpMnA4VndCLVpYSi1jU2RoT1pWQ2VQUzEwcnozWTZURUVDTWFMemt6WlNFNkJUTFpCZmpzT0Jpbk1zYVREZTJrOWRrYTRKMmtyckRzbDJkdERsLXJDeUVFUkhtWllETHdmZ1k2VGZQdllUaFF5elpBRmVnS2VuYnZHWnZ0ajFYb1NSQVVRYzlDQUgtYkh4VQ?oc=5\" target=\"_blank\">Fact Check: Did Texas ICE facility serve employee Thanksgiving dinner in front of detainees?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MEAWW News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "cd27b2c7bf11f78760ea",
+    "title": "Report: Hackers breach Air Force cloud platform, military data exposure under investigation - cbs19.tv",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWFPalVKbWtrc3ZMYUlXejZFOGZuRmNsZXJOanRzci1WdTlqTVNPbXJzRFpYS3BSRmlWSGY4aHZidm9nN0toU3locFlLeXFmNmR4aVNjVU9RWC1pNkpJdklDeWZ4NDF0SXVBNjB3TG5Gbl9vZEdyTGZ0azVSTVJzRENidE0wcTRJU05wUXU1QlUyYllYcm0xUGFiRWNvLWJodUEtUG1CcEFaN0tKeWxUR0I3NUhCREZB?oc=5",
+    "source": "cbs19.tv",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T01:48:23+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWFPalVKbWtrc3ZMYUlXejZFOGZuRmNsZXJOanRzci1WdTlqTVNPbXJzRFpYS3BSRmlWSGY4aHZidm9nN0toU3locFlLeXFmNmR4aVNjVU9RWC1pNkpJdklDeWZ4NDF0SXVBNjB3TG5Gbl9vZEdyTGZ0azVSTVJzRENidE0wcTRJU05wUXU1QlUyYllYcm0xUGFiRWNvLWJodUEtUG1CcEFaN0tKeWxUR0I3NUhCREZB?oc=5\" target=\"_blank\">Report: Hackers breach Air Force cloud platform, military data exposure under investigation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs19.tv</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "c2395b0b5dcf50125a6e",
+    "title": "Benefit Art Sale And Cultural Celebration Nickels For Nepal Set For Dec. 13 - Chattanoogan.com Breaking News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2hoRlphRUxQU0xWTjFLbzJEUDJCLUVlVGNrb1plUXhhaFJjNzd3SjFzUjhtTVhYckNkNUxnZUt5aEN2dS1MQjI2Sm5MMjE5RzlQR2NOdWxXNk9BQ0RuaER0MUE2Q3RlWkJvUDNhbzJGanJqRERGUmo2VHZDbG04SEI0UzllTEFG?oc=5",
+    "source": "Chattanoogan.com Breaking News",
+    "category": "Nepal News",
+    "published_at": "2026-11-28T01:38:09+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc2hoRlphRUxQU0xWTjFLbzJEUDJCLUVlVGNrb1plUXhhaFJjNzd3SjFzUjhtTVhYckNkNUxnZUt5aEN2dS1MQjI2Sm5MMjE5RzlQR2NOdWxXNk9BQ0RuaER0MUE2Q3RlWkJvUDNhbzJGanJqRERGUmo2VHZDbG04SEI0UzllTEFG?oc=5\" target=\"_blank\">Benefit Art Sale And Cultural Celebration Nickels For Nepal Set For Dec. 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chattanoogan.com Breaking News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "1c8f9ef3a8cdaf01cd9a",
+    "title": "GTA 6: The AI race to clone the world's biggest video game for PC - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdGFSMXE0OHRvdWlRZ0tyT1lhakVJM3lzbmlibjJ0Nm8ydDNOWlgydVJxcWd2SHQ1cUtoeUtmNnFUem9kcUFlcVJnVGpTZ1Zpa25IYjVhUVkycTg?oc=5",
+    "source": "BBC",
+    "category": "Tech News",
+    "published_at": "2026-11-28T01:30:50+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdGFSMXE0OHRvdWlRZ0tyT1lhakVJM3lzbmlibjJ0Nm8ydDNOWlgydVJxcWd2SHQ1cUtoeUtmNnFUem9kcUFlcVJnVGpTZ1Zpa25IYjVhUVkycTg?oc=5\" target=\"_blank\">GTA 6: The AI race to clone the world's biggest video game for PC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBfRUZDMnRtZXVsZ09ZTjdJRm44SXNzY29HQzF3YUx5cXNHZ2ZhOElPcTlmbXhBTFBLSzh4Z1RVSWpOWkd2WURYS0lYeDh5NGp1RkxmTWlWb2pSQW5BeUEyUDNnaGdRUlA3em43SGdDOVZXMVl4X0tvaFI5aGhfYUXSAYQBQVVfeXFMUG9FbEU0bzgyT0ZUSnNUU3AxSmJwTjh6SGQ4aDFWTGRkQ0haZWdDTEZ1SGFrNFB2dUZadHQxQlgyQnpxR001czRRa3FsX2t5RzJCVXBNdlBVWUY1VkFvU3VMa2U3WFFKWnFCSk9tck9UZEFKRjFaU3dQa0dZN0lkV1N5R19O?oc=5\" target=\"_blank\">We Got GTA 6 Online Before GTA 6 Online</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEJIVTE3NGZtUVVGd2piZDJwaFZrdnltM0tPU2pMc1NpejNIRXJFS2h0eXlHSzMycy15dHNjNFV4N0JZanVMR3BnY2h2Q3B2QkZ2cW0zT2pydWs3TG1uQ1JtQ3hLTDVILVZkRG5wVm5keFA2UjR5aXZvVll4TlY4aTBCSzJiNzhuaG1rUm4xenhZR1ZtRzJCSVVpNWw?oc=5\" target=\"_blank\">GTA 6 PC Modders Test Multiplayer with Vehicle Syncing, Proximity Chat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PCMag</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVzdFQWF2UjZrOWpDQVpzd3ZTcTQzTGk2N2NTNHpIZ3JMMGpDaTE4UDduWk9ERjZZYllXRjJmMm5EdTRJeUhTQjNLZ2UxMmUzbmdodENzWEtjbDduWTVSNWJBTml1QnVQeUZtNE9rMDB3V3NsU0l5b2U4b3AtZzZGVnkxR0thUm5hYUJRN3d5dkNUS2tGaVpLcHNVLWxjX2VGclFmOURmWmF0NVkybEFUeGtIREtiaVNGRXNjSG1HZlBhd2d5cVpmanNTdHB3RjZFUDVjcnVaN0ZLQWY2SThWdGNxVENYY3lDNDEzc1BfeWhOcGM?oc=5\" target=\"_blank\">Cyberleek Reportedly Releases .exe File for Xbox Build</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1BRZTFLVjRYRDRjSnE5aTRPRkE1WUcyMHdIcGdHaHMxNHVvcnRhNWRqU3ZsWEZwdXJzTHdpUkIzQWRSQV9FSGUydXJzUzBOektfWkw4empRZHJ2SGNlZGxSejBILXN4S21XVV9oWHppOXA0TDR6eWlKZG9zMVIwakZ2U1RBRFJqUUE?oc=5\" target=\"_blank\">GTA 6's pirate PC ports: new tools, old problem | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamesIndustry.biz</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "39289aac19a03548918d",
+    "title": "Earn Cashback on PS5 Games in Sony's Black Friday Sale - Push Square",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWprYmxVVkdiMUd0bWJ0U1NUcHlEbnZoS3VfNURJU1JWM240S3dJZWpSaWpxeHo0WGpNdUtoTGZ2UDVGTWpHam9YQkNJUTE5OXFqMXZwTm54WmJBNXdVN19Kc01tSlZEMk9qa0xEVl9HTW5aNEtVb012VnlTMGN6dEpiR3NzcDFuUHdCR2R2amJzdEpjakpiRg?oc=5",
+    "source": "Push Square",
+    "category": "Tech News",
+    "published_at": "2026-11-28T01:30:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWprYmxVVkdiMUd0bWJ0U1NUcHlEbnZoS3VfNURJU1JWM240S3dJZWpSaWpxeHo0WGpNdUtoTGZ2UDVGTWpHam9YQkNJUTE5OXFqMXZwTm54WmJBNXdVN19Kc01tSlZEMk9qa0xEVl9HTW5aNEtVb012VnlTMGN6dEpiR3NzcDFuUHdCR2R2amJzdEpjakpiRg?oc=5\" target=\"_blank\">Earn Cashback on PS5 Games in Sony's Black Friday Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Push Square</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmM1cnd5VGRIRy1wS09WM05mWmhlMWNBaWktdVh6d0tlaVQ3Q3c3QXljd3ZUWUJIdFd1V3UxV2tYTm40ZmtKQVN4eUl0LUtzXzRrU0VFRlgtVUNJa3FoMENrVE9ZclExQ0JIZEhtbmdOZFB2REZGS3VhdTZ2clRmQQ?oc=5\" target=\"_blank\">Black Friday PlayStation deals are selling out fast: See the best of what's left</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVhmTWdCNzU2M0txZlFyZzhxWi1IYmNQZ2ZJN3d2SmEzSnJ0T2NzU3U1V3dDR1FXb3I2MjQ2UkdwcXhYZW1fS3F0ZjNnbWtydWkyNFdubUxoWGp1U0N1WC1PNzh2VkY3clJLYktoSW4xLXRwMkVhV2lUaDRwdjkyT2s4N0VhejlZM3VMU3YtN1BMY29C?oc=5\" target=\"_blank\">PlayStation 5 Is Hot Item as Black Friday Shoppers Hunt for Deals: Full Coverage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdl9FX0NBWW8yMXRSNlQta0ZFamJhNTBWZnBDdFE5SXZaQzlWTGQxTm1Ld2Jvck1DOUtGUWc2cnlDV3V6bjhzZEd2TGN4VXNCUlBIVUFfamt5TVlQN2xVeFlJMmRNdERIZWxJSzl1UVBpTGM3ZHdmNWJTV0tNVThOaA?oc=5\" target=\"_blank\">The best PS5 Black Friday deals still available — latest console stock, discounted controllers, cheap games, SSDs, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEZOUUxNcEJEeWZzZExKVVBNRXJMQ3FkRTBqNy10VjlWN2pqT0otTEN2THFXSGVXWGQtd21iZEI5dUYyaXRQSHdsV1hicF9YRXBOQ09jZFJmVENfdGlEN3NBRzhnOWhpR2JFODdFdG5PWEJ3YTJib3pXMEhac1RscGRLakZ3R256MTNuV3NHR19MUDduV0E?oc=5\" target=\"_blank\">I found a DualSense deal that knocks 28% off this wireless PlayStation controller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZDNET</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "e9717a20305515698abd",
+    "title": "Utah Expert on Air Force Cloud One Hack: 3 Sources - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUpueFg2NVJzOE1KQ05fRkRhakc2TjN1c0ZfUFY4VzNETExrc24wR2xHT1Y2THB0cjZRMnVILUotVW8wQThWZ2FldWg3anFhejhGMDlKQ0dubTNkR19TWjFCRVJ1WWEtTjF3NVJYTGp3N2lKWHBjZ2dOakdwbHJTd041RlcxdUJPbEFZSFE3bUNtSTExWmN3clZEVmRvY0JIangyaTVB?oc=5",
+    "source": "shattered.io",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-28T01:20:07+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUpueFg2NVJzOE1KQ05fRkRhakc2TjN1c0ZfUFY4VzNETExrc24wR2xHT1Y2THB0cjZRMnVILUotVW8wQThWZ2FldWg3anFhejhGMDlKQ0dubTNkR19TWjFCRVJ1WWEtTjF3NVJYTGp3N2lKWHBjZ2dOakdwbHJTd041RlcxdUJPbEFZSFE3bUNtSTExWmN3clZEVmRvY0JIangyaTVB?oc=5\" target=\"_blank\">Utah Expert on Air Force Cloud One Hack: 3 Sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "61198fb7b8afc66b5b0c",
+    "title": "Fact Check: Video Does NOT Show That Church In Europe Became Gym -- Spinning Club Fundraiser To Restore Church Organ - Lead Stories",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONngxZTBYMHhSZ3NCZFoydmlDTWEtS25udGU4UmlQOFBvZGt5eWR4d0xhNXN0MkdQZmNKRFBPMjljYnNPNHJqcEFIZmxQVHhlQkJkSVhmXzFTNGxkR3dGR1pjQXpaVUpyTzExVkNmQmF6eDYxdUFJZUFkZHE3aF9FMmFsblNTWlE2NUdReXNCWXlENVM3bXN3UXVXZkxVRF9MNGY4a2tDNDVwQ1FHdk5MeVY3eU5wX2d4WHdiWkwySERqM1dQNDF3YVBUUE1sbjFzeGw3SjBtV2JaRi1CSEdJSG0xYmU?oc=5",
+    "source": "Lead Stories",
+    "category": "Fact Check",
+    "published_at": "2026-11-28T01:06:20+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxONngxZTBYMHhSZ3NCZFoydmlDTWEtS25udGU4UmlQOFBvZGt5eWR4d0xhNXN0MkdQZmNKRFBPMjljYnNPNHJqcEFIZmxQVHhlQkJkSVhmXzFTNGxkR3dGR1pjQXpaVUpyTzExVkNmQmF6eDYxdUFJZUFkZHE3aF9FMmFsblNTWlE2NUdReXNCWXlENVM3bXN3UXVXZkxVRF9MNGY4a2tDNDVwQ1FHdk5MeVY3eU5wX2d4WHdiWkwySERqM1dQNDF3YVBUUE1sbjFzeGw3SjBtV2JaRi1CSEdJSG0xYmU?oc=5\" target=\"_blank\">Fact Check: Video Does NOT Show That Church In Europe Became Gym -- Spinning Club Fundraiser To Restore Church Organ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lead Stories</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "27f89a84601d390f4b70",
     "title": "Switch 2 Black Friday deals LIVE! Get $50 off console bundles, top Nintendo games from $9 and 50% off accessories with these last-minute deals - Tom's Guide",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUczSVNBcUJiRi1YU2pjQmF1c3pVVkR6bmphM21nbzJSczlSanRZTkJCLWZQV0ZKMDFicTBZQ21iVC1SNzExdDhncWV5ejk4T09RRzZMenBBaU9xR2d3bWhOTTk3REE1VDdEV3lIbDNoaHJobDFIVEZXOU5nTWV6QlY5THJENklEZWxKRDl6dkw2Q0VHR1h3b0pObEJDQk9s?oc=5",
@@ -7,6 +687,16 @@
     "category": "Tech News",
     "published_at": "2026-11-28T00:58:32+00:00",
     "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUczSVNBcUJiRi1YU2pjQmF1c3pVVkR6bmphM21nbzJSczlSanRZTkJCLWZQV0ZKMDFicTBZQ21iVC1SNzExdDhncWV5ejk4T09RRzZMenBBaU9xR2d3bWhOTTk3REE1VDdEV3lIbDNoaHJobDFIVEZXOU5nTWV6QlY5THJENklEZWxKRDl6dkw2Q0VHR1h3b0pObEJDQk9s?oc=5\" target=\"_blank\">Switch 2 Black Friday deals LIVE! Get $50 off console bundles, top Nintendo games from $9 and 50% off accessories with these last-minute deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTjlJM3ViSzd2OWd6VTlSanBOQXBCRDFHMmpuNGJwUnpvQVZuRzNqcTAwWXZ1T0tsZlVxRGlDLVVTTFZkaXJPa0RvcFdOMjYxV1BNQjY1aEx0OVBveHJXeS0yTXNUZ2tQcnN4QnpNTWF6b1hOSURvZWZnd29qR3Y4S0l3ZndjS1c4TTY2ZFI5a0Q3Sko5eC1NcmlFbkZXOERtOE9NM3AwX0J5WnZqRW90VXVLSGVUYTR0RDVFazNsaWFqZWVYMHVLVWF6SXFhdkt5REhKQmdhMGkwWUNWR3lLWXdn?oc=5\" target=\"_blank\">The Nintendo Switch is $499 today (plus all the best console deals for Black Friday)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2hDb0FNS1RyTXZTNEM5TVA0bExHN1YwLWh2TE5iTmpIUFIzNWs1NEVocXd4YUI3OUdDWHlCN2szU1BCNGZTTjRyekFvcTJLVXRxaVhBUG5PVWhBcWFOVnpINDh3cDNyRTRRMHZFODNrSmJrVHNfa0QydUNkOXhmbnp5WW5GRC1Rc0x5QzBDTnljS29mZzFHN05FS0RGQlpPZjJid1VXbXl2RDlGcTJN?oc=5\" target=\"_blank\">Nintendo’s Switch 2 console is $50 off for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHRUQWNmb1NzOXRPQ3Nzb19wRk4tM1hIYlhmeVJhYlUzT1c2TFkzYlJ2czR6cDlkTVA1Z2NFay1zSFRqd1Y1Q1JWeVJBbVU5LUEtMkNwV21aQkpLV1VsdUZGVlVnbWRyY3hERnMtNVNINVU4clJQc252emFMT2x6MFJsYU9RQW5jdFU3cjBYeGVOUlpfR1E?oc=5\" target=\"_blank\">Here are my 18 favorite Nintendo Switch Black Friday deals based on hundreds of hours of playing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQMXJrQjRDTVN5OUZucGMyLWtPUVFhWjhDdXczM0NwQWwwRUJKWkpxSjg2aGtIR213NnhBSnVMMGJXQ1FfSlVfNmZMSHUzQmRVWmx1NHRPcHFUZ2lDT3JOYzFfSVZkZ3R6bENXZGxWMEt5Z1lydWt5dm1TenN0ZDNKMU9SRm9VQQ?oc=5\" target=\"_blank\">Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "918521ddb302ff480e75",
+    "title": "Pakistan to host Saudi-Turkey talks - The Rising Nepal",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKc3c5OWVqOXRMaTJ1eV9oYkl4Y2E0WnE1dUh6c3pZdGd5azdtUWRmSlA5WHlWV0hueHNWZXhPNWhhUEZoU1JlaDVuajBrMlVfcklWU2F3?oc=5",
+    "source": "The Rising Nepal",
+    "category": "नेपाली समाचार",
+    "published_at": "2026-11-28T00:55:29+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKc3c5OWVqOXRMaTJ1eV9oYkl4Y2E0WnE1dUh6c3pZdGd5azdtUWRmSlA5WHlWV0hueHNWZXhPNWhhUEZoU1JlaDVuajBrMlVfcklWU2F3?oc=5\" target=\"_blank\">Pakistan to host Saudi-Turkey talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
     "status": "pending_review"
   },
   {
@@ -90,6 +780,26 @@
     "status": "pending_review"
   },
   {
+    "id": "c19daf2aa888cc062f5f",
+    "title": "DeSoto County sheriff’s warning to parents about GTA 6 - WREG.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbE9UQ3RDMWI1SFg0WXg2ZklUU2xPSkNDWW9QVFg1YnR2OEU0dW54aVNONWpMZUktdFBKQ1pDMERsMi1yeWhDMmhjZUJ5QzdfNEkwOURibXpzV2Z3bVhidUFFVEtQMHhWNGhsODZCX29mVDBPN0M0SkJ5RXNsa3ptSGlHZ1hQQ0XSAYwBQVVfeXFMT3l1cEVDaEZoN1VoWlFXOWpRalRweWlDYk1GbG5nWkNRWjB4LTFNOWNEWXZBUFQ1QlEzRGx5MUsxUThlX2RyOU5FbzNFTk1wWFU0a0gwS01UUUotdGczUmNFVWJPaUJydUozR1JuTXJuS3Fma3pLQ09UVEVISDhlQ3dEZ2VBVGJ2WjFSUlY?oc=5",
+    "source": "WREG.com",
+    "category": "Tech News",
+    "published_at": "2026-11-27T23:53:49+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbE9UQ3RDMWI1SFg0WXg2ZklUU2xPSkNDWW9QVFg1YnR2OEU0dW54aVNONWpMZUktdFBKQ1pDMERsMi1yeWhDMmhjZUJ5QzdfNEkwOURibXpzV2Z3bVhidUFFVEtQMHhWNGhsODZCX29mVDBPN0M0SkJ5RXNsa3ptSGlHZ1hQQ0XSAYwBQVVfeXFMT3l1cEVDaEZoN1VoWlFXOWpRalRweWlDYk1GbG5nWkNRWjB4LTFNOWNEWXZBUFQ1QlEzRGx5MUsxUThlX2RyOU5FbzNFTk1wWFU0a0gwS01UUUotdGczUmNFVWJPaUJydUozR1JuTXJuS3Fma3pLQ09UVEVISDhlQ3dEZ2VBVGJ2WjFSUlY?oc=5\" target=\"_blank\">DeSoto County sheriff’s warning to parents about GTA 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WREG.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUZaRHFXc3kxS0NhOG5nQVhCcWRfbUhlMnQzc3JZSDN4dVB4ZUVZeXdsM0tnVTc3QWRsM1A0OUpDX0R3X3hOWTBzbVhFTjVOYlpXVVU0QnFBYVBxSVZuVG45Sk9Ebm9PV01jU1lLeW9BS1M2eFZBQ2lsZm44eEtSa0JZck1UZWlzZGNJ?oc=5\" target=\"_blank\">Teachers urge parents to look closely at Grand Theft Auto VI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Leaven Catholic Newspaper</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOT182Q1o0S1hUc1FZcS1jZEZRQUs4X3ZrX2xPWm00bTh1aHg5MGxRSW5FUFluVjQwZGoxYmwyelZNZWxOd25uUVdZcHE0dm9UN3dhTWRRNkF1Y0Z1N24zSndqZ1FJbk1MM05YWlhkcTJwNTUxWGhqdmF0MGpEZkkzZ09pRjExSXhnS3hYZkE1QzByR2JzNDNmYUVra1VYQTA?oc=5\" target=\"_blank\">There’s a Myth About Grand Theft Auto That Started in 1997. This is What the Research Actually Says.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Slate</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE43TDBGVWlwX3M3SXp6YkhtYmZUUVpDLXpRZnVzNTFXNmhpVGF2SUlqcDVLX1EzWDFGcTFnTV9PeWpjMkM3cHExVHd4OC1tYlNEN0I0ekx3?oc=5\" target=\"_blank\">Cal Thomas: The poison of Grand Theft Auto VI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TribLIVE.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzZaWEdlUGNJYk5FQUlvUVVzUF9jSXJuejN3S0wtV01WelF5OEM5MkFSQ0hCaDFfWnRtaVlQNGthUGkxdGR2YjhTRDNQTWY1cjRMeGpvZnh4eHNHOEVLbjNNckF3Q09PWTVvWFFFZ3NxMzhhaW5xTFI1SnVJOU12WnNqc0pPV054Si1KcEt1dlRDYVpHZEJTVEdCNFpmNG8?oc=5\" target=\"_blank\">GTA VI and the Moral Dilemmas Behind Violence in Video Games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Open Magazine</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "d61ece1b3340d61f4edb",
+    "title": "Hackers breach Air Force’s “Cloud One” computing environment - Federal News Network",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3NGdmE5RlhiWmxabVJlaHZ0SzVJOUlfSmUzVUdMRVVvc0gtSWM4LUstX05wZ1NNQ0RlcG5YZ3U1WnF2WkduLXB6NEV0YWJrYjVyS0xJUUZ3QTlkSlpWRmlROUJCMEFWbXRuQ2RIZUhGQnFhUWQ3VmpWN0VWc00zZHRzVjFlNDRkdlRmVjV5QXBxNEsxQnJxRlg4V3Uxdi1EaDZhQUc0bnVISDg?oc=5",
+    "source": "Federal News Network",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-27T23:47:36+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3NGdmE5RlhiWmxabVJlaHZ0SzVJOUlfSmUzVUdMRVVvc0gtSWM4LUstX05wZ1NNQ0RlcG5YZ3U1WnF2WkduLXB6NEV0YWJrYjVyS0xJUUZ3QTlkSlpWRmlROUJCMEFWbXRuQ2RIZUhGQnFhUWQ3VmpWN0VWc00zZHRzVjFlNDRkdlRmVjV5QXBxNEsxQnJxRlg4V3Uxdi1EaDZhQUc0bnVISDg?oc=5\" target=\"_blank\">Hackers breach Air Force’s “Cloud One” computing environment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "ef06e26b0b201d3c5834",
     "title": "Sad detail at home of missing Aussie family - News.com.au",
     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVjM3eU1rX0ZsTjFHdm5lSlNtSVJ5bHhQNldWRkhPZWJGank3STVnXzV6YVYtYmw1ekNhZTlyZFo3WDVlaVJka3BuNnpMeDdvRzdlYVB4d1hRZDF3dUFVX2NJdHo3NXZNeHc0U3FJS2pvOWx5SFc1WlNBZTR5R0x3SjVyNVFZcWgzek5rYWVuTV9URmZhTVNTZlI1LW1JYjBIX2Z1SHpXeTI4NHkxVTdibkFpRGFRU0FEMmRIOTEwVDdUZmtRT2tZYmZyLXlsSTBoUjdnN0lQZHhuajBvOER6Tmw1NXIzN3NKQjllUXptTHdKTHhLSkJjZWJuSW5IVl9MWnZ6a0t3YkhZVUY2Q0xUY0NQaEZjQdIBmwJBVV95cUxQSk5zY0NOLUtNUkxUM3BpNFBZT3hpTXpzc0l2dXdQVzFMb2FYV080YVl3QkIwbVloU2lUNEp3blBWQlVRbDgxMnJGcS1SUnc0elEwaVRwSVFOalpxbHRLWW5mck9NLXp2dm5oWlJYVGZoR01fM1pjZFdRZTZvSE54anhCYkttMFNmeU1abmVLdWN0cUZfMmd2bVpPZUhSd0RSODlZRk5zOTVBVWswSkxzMkp6anNERE44Vmt0SkJpdFByN3RJLWdqZ3ZSWnFyUU5JQmxNTU9JV1NsNFYzVzJremJkVTZyX3drTGFodk8wSVAyZDBkZXhibEFwV1ZTZ2dPSUJWNUZsNVRzcjQ2MjZGMFdpTVh3bmprT3dV?oc=5",
@@ -97,6 +807,16 @@
     "category": "Nepal News",
     "published_at": "2026-11-27T23:43:17+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxNVjM3eU1rX0ZsTjFHdm5lSlNtSVJ5bHhQNldWRkhPZWJGank3STVnXzV6YVYtYmw1ekNhZTlyZFo3WDVlaVJka3BuNnpMeDdvRzdlYVB4d1hRZDF3dUFVX2NJdHo3NXZNeHc0U3FJS2pvOWx5SFc1WlNBZTR5R0x3SjVyNVFZcWgzek5rYWVuTV9URmZhTVNTZlI1LW1JYjBIX2Z1SHpXeTI4NHkxVTdibkFpRGFRU0FEMmRIOTEwVDdUZmtRT2tZYmZyLXlsSTBoUjdnN0lQZHhuajBvOER6Tmw1NXIzN3NKQjllUXptTHdKTHhLSkJjZWJuSW5IVl9MWnZ6a0t3YkhZVUY2Q0xUY0NQaEZjQdIBmwJBVV95cUxQSk5zY0NOLUtNUkxUM3BpNFBZT3hpTXpzc0l2dXdQVzFMb2FYV080YVl3QkIwbVloU2lUNEp3blBWQlVRbDgxMnJGcS1SUnc0elEwaVRwSVFOalpxbHRLWW5mck9NLXp2dm5oWlJYVGZoR01fM1pjZFdRZTZvSE54anhCYkttMFNmeU1abmVLdWN0cUZfMmd2bVpPZUhSd0RSODlZRk5zOTVBVWswSkxzMkp6anNERE44Vmt0SkJpdFByN3RJLWdqZ3ZSWnFyUU5JQmxNTU9JV1NsNFYzVzJremJkVTZyX3drTGFodk8wSVAyZDBkZXhibEFwV1ZTZ2dPSUJWNUZsNVRzcjQ2MjZGMFdpTVh3bmprT3dV?oc=5\" target=\"_blank\">Sad detail at home of missing Aussie family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News.com.au</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "4a556a1d5a0b62c57559",
+    "title": "Japan to revise AI law to introduce penalties - The Japan Times",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXpMcEdaaDRhWS1Jek1FNE1oLU9lNzFNc3h1REUxRlQ0aEZ2UC1CUi0wLUtoa29xVnNhcG5POXRZT3FDZE9qT1pVc0xydmZzd1A3bmVUZHVsUHoxM3pocUdWb0dHbUhkLTFFWk1PZG5IaUk3RVFQbHJnZ2dGcE53cW91Uk1oeGs0aDdPYU9DTVk0aC0t?oc=5",
+    "source": "The Japan Times",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-27T23:39:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXpMcEdaaDRhWS1Jek1FNE1oLU9lNzFNc3h1REUxRlQ0aEZ2UC1CUi0wLUtoa29xVnNhcG5POXRZT3FDZE9qT1pVc0xydmZzd1A3bmVUZHVsUHoxM3pocUdWb0dHbUhkLTFFWk1PZG5IaUk3RVFQbHJnZ2dGcE53cW91Uk1oeGs0aDdPYU9DTVk0aC0t?oc=5\" target=\"_blank\">Japan to revise AI law to introduce penalties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
     "status": "pending_review"
   },
   {
@@ -180,6 +900,16 @@
     "status": "pending_review"
   },
   {
+    "id": "9a7d5bc4037b9ad7373b",
+    "title": "iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEtsS1YwcDgtVVVXazRBODJkcW5aZWNDTWRLYTA1YTI4VDhPLWVoYnFZX1BManJaRjFKMGRDZjM3WFBtZUZBTGUwYXhQR3M5UE1TVWtYRVRBbW0xckNDemsyV1hmejI1MnIzNjRYcUNiNGFscVl0ZUdnVnltVFpZWVBwQ2pBaFdGUWxIQ0paaDZJOXRNV2NCWmU3YjNRajU0WmfSAZ4BQVVfeXFMUENGeUgyalJVYXhJU0h2b3RmNndjQ1pkWERtTl9ueEpFTVV6Y0c2WGpBMzR5eDl4UXlCOHZqWklTZFBIWUxHWTFVUGFtQ3JZb1hSdkNKckpMSXlDUV9ZUW0wdnp4aEFqX2RyV0tRN2tqNDgtdEVkTDVVTXUtTWUyY2tMamR2cnprbDctOG4zSTZpMVhEMTd4NW03VndjWkE?oc=5",
+    "source": "GSMArena.com",
+    "category": "Tech News",
+    "published_at": "2026-11-27T22:39:02+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEtsS1YwcDgtVVVXazRBODJkcW5aZWNDTWRLYTA1YTI4VDhPLWVoYnFZX1BManJaRjFKMGRDZjM3WFBtZUZBTGUwYXhQR3M5UE1TVWtYRVRBbW0xckNDemsyV1hmejI1MnIzNjRYcUNiNGFscVl0ZUdnVnltVFpZWVBwQ2pBaFdGUWxIQ0paaDZJOXRNV2NCWmU3YjNRajU0WmfSAZ4BQVVfeXFMUENGeUgyalJVYXhJU0h2b3RmNndjQ1pkWERtTl9ueEpFTVV6Y0c2WGpBMzR5eDl4UXlCOHZqWklTZFBIWUxHWTFVUGFtQ3JZb1hSdkNKckpMSXlDUV9ZUW0wdnp4aEFqX2RyV0tRN2tqNDgtdEVkTDVVTXUtTWUyY2tMamR2cnprbDctOG4zSTZpMVhEMTd4NW03VndjWkE?oc=5\" target=\"_blank\">iPhone 18 and iPhone 18e production reportedly delayed again - GSMArena.com news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSMArena.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWRKLV9JOWdFQzRwdmh4dDZCQlBXTldNWFZ0V3pDbjliY01aQ2REVndzc2N5QTZ3bk1Dck4zYmZ5bWlyekVQek5ScHZRMHJHbTVsWXMwMTAtQWF2Q2FnOVUxLTdyRXhrbFlaallEd3htVlRNMG9jZEJTbnJWVkxCb2VR?oc=5\" target=\"_blank\">The MacRumors Show: iPhone Air 2 and iPhone 18 Are Coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE0wUjFWR1NLLTFHMG1IOWtVNWJFRzkzOFNmLXVnek5MQkZsWS1DQ2pndllxelJRVEZZQUxpRHpjTVdBRlBFc1ZxQ0ZBM00zU2dzQmh3QkFRMnlrcUR1UWFObHNxNHY5S2pzSkFEYzNKTQ?oc=5\" target=\"_blank\">6 New iPhones Coming Out In 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SlashGear</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0xISVMycVVvQlNzckpiY2RWNHM2N1VpMGlOTFNqb0xPc0t6OHpFNzVTTHp4QXpDZWtVdDJJTl9BbnUyYTVrRmF4bENYazBWbUlVVXpOQ3IycFprYVF2Rzg3REpoZVNKOFhhck8wa05SemFfa1c5bnBjekduVTlyMXh1dXFQdmhmRjhGUUNxYXNTNk1fMnNPSzl1Tmw?oc=5\" target=\"_blank\">Three new iPhones will launch early next year, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHJpeUxsZExQREJGTE80V2RCazRpOEM2akhEakw3MUNOWHRlZ2t1U1hzLUpId3dqYl9IeEZGLV9QSXdrQWs0OThSb2toUy1XRS1hbTY1TVpWV3JSTndYN0xvNS1GelNzMDlJQmNlUnNpa25udE81LTl4ZTBSV3FydDdxeW95YXdSLUZsOFpSaWNWYjFacnUzMGluT3ZjZ3BmMmRWRzZB?oc=5\" target=\"_blank\">2027 product launches and beyond on the AppleInsider Podcast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
     "id": "2e818f92798e9f6ec7d7",
     "title": "Did Burj Khalifa Collapse After Dubai Earthquake? Fact Check - Times Now",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlpaMjFDRHFuZUhmQS1Rb2NHNmhSTmxteVFhQldMVEtZdmdsSTdqWTB1NmZLbEtHZGFKWk05aFVEZGhSZ18tR2trSG9zVmdJQXAxbnZXdXlENnYweTBqTndrS1pFaUJFTEt1clVDNWliUmVRSDRFTzRkZGxaMV9feXBYSXR6cncwM2pDQTQyNzZoQU9qcUg2c1ZtUUJKZU9uOUpRbTc3SVh1b0FoTUx2NHk4ZlZMaTVzWWNvMGJyLWhMd9IBxwFBVV95cUxNV0dKM2VsMTFfWEJzRGsxY0poNDVaQzdmZ01lOXhHelJ0VXJSalJuUFNpSXJuWXY1UDFiaXhER1FSYkMzWkVMYjVXSlZmdXk0ZU1PVTFmajNJTkVmakVGM1l2eUdOOTA1d0VkcGVuRXo0SWM0YjVDdDJxMHBOWDc2djZZWTlCN0l5WktMX2tJcDVrUWZvWGNDNzA1bjR3NzJFM05uRTJ1NkNjeV9DeW1JWGI3NjRVaGIySFVnNmhQN0taOGZ1bHY0?oc=5",
@@ -210,6 +940,16 @@
     "status": "pending_review"
   },
   {
+    "id": "e5a56d2d18e486748f34",
+    "title": "Last-minute Black Friday TV deals — lowest prices on LG, Samsung, Sony, TCL and more - Tom's Guide",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTVlSbGNwM0JscEJESThOLTFLMVppU2RqUGJ2d3V5Y09feDhiRXI2TGY1aDRVWTR2N01TczU5RXlBMlZVSUxHYWNnaldROGxsS3JtZFR0UzJuTWZYaldsY3c5TFBlM01MT3J0c1pSMXpfbkN4RHpQNHZXZ3Q3RGE1dHlrbXdvUQ?oc=5",
+    "source": "Tom's Guide",
+    "category": "Tech News",
+    "published_at": "2026-11-27T22:29:28+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTVlSbGNwM0JscEJESThOLTFLMVppU2RqUGJ2d3V5Y09feDhiRXI2TGY1aDRVWTR2N01TczU5RXlBMlZVSUxHYWNnaldROGxsS3JtZFR0UzJuTWZYaldsY3c5TFBlM01MT3J0c1pSMXpfbkN4RHpQNHZXZ3Q3RGE1dHlrbXdvUQ?oc=5\" target=\"_blank\">Last-minute Black Friday TV deals — lowest prices on LG, Samsung, Sony, TCL and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9CSHlSQzQyOEJ6SWdnT1RGLWRReDA4VDNOUm1RMW44bC10MGw0dFlBWjd1S2NBSXowWFlmVGFYellNMWR5dW1RdmlOa1VlWm8tUHhxRG1zZnh2aklKWGNIcnhxMk1FR1R3ck5CU2ZSbE55QkNU?oc=5\" target=\"_blank\">The Best Black Friday TV Deals: Up to 60% Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE16TFlBTlgzWVVoVWxnS1FLWjNBQzNQcUFHaWRxZnNIRW5tZkYzckZxZ3gyT2lycW9iSXo3WHlUYUZPVUktSm9qNlVjRkFYb0lNdFMxQVY2M2N3WWVVVUVMamZGclI4a1FUR2VNenJzR0VvQ21lSHNrOUVFcUE?oc=5\" target=\"_blank\">Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOaEVPUktIOFlKNFZYSUZsQ0xCeFBuUV9vU3dsQzdSaHdkdktrNjNRckJ5U0F2dXJkTGZTZDF6T0hhWUxKSm9HWWR5OWFnb1VuR3FlWGlmWF9jZXZpdnBuS29pLUtyUXhwYnVLTUFLcVlvR01NLTlSaGpnakYwVjFYYTA4blJCU2xLRWp6Q3pYVXZTTWI5dllReWZyd3lobjBRYlFCYWtyV3VBUmtNUldlbkkxNXp4QVBGQ1QtRl9zVzNSRmxOZkJmSlA3eU93dEE?oc=5\" target=\"_blank\">Walmart Black Friday shoppers are rushing to get massive 85-inch QLED TV under $500</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBQRDN1ZWlYaDhnaVROSEVRenpMNldzSW96eGt2UF9FaWhvd0VYc1ZFbHFmLWRfUjR4ekxEOEYyTG1RQVdVdjNYd2p2YjdGOVFPb3hYb0lzSDQ3TXRqbjM2ZDJnLWhteWJxbndyOFR1NUU2UmFOaVNFRl9kSlkxVHc?oc=5\" target=\"_blank\">I’ve tested the top TVs, and I stand behind these 22 Black Friday TV deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
     "id": "785b5b12d582fb4a0085",
     "title": "Utah technology expert discusses reported Air Force cybersecurity breach - KUTV",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEM0UUpBUlNzTzRkYUVDcTJsdnRlYThSaEtDQUJEU1kwZGN0Zy1iY1hsUWVUOTFhcXBPemxkVUtzcS0xYXFRd3RUblV0Tml0R0dHLVl0SllkVHllZElaN1NRMjJLNjVjNEQ1Y2FaNUtaNUo5Ukt6VlAtcmE4M2lUWG9ENnBRcm5CY255bDd3Z3RjZWh1OFJfeTVrTnMzR0xNT2dpQWpxVzBFNHgy?oc=5",
@@ -227,6 +967,36 @@
     "category": "Cybersecurity",
     "published_at": "2026-11-27T22:12:55+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWDhacnlNeHNmZnQtQlB6Smd4cFdjUzhoQ3pEbG5RbjVxemRJN1UxLWZhMXlrU195ajRSbm9WV2NWTDluSU5tc2xfcUpTeENxRHdDNUM5SmlNb0g3VG95VHA2WWU0OUgxM3Z4dTQ2U19PYlRnWHEzWjFwNnVsaVhFTmstcTExOEZfUFlGemQwQ1VPYzJtMGZsNEd5SnNBZXJFN0E?oc=5\" target=\"_blank\">Utah technology expert discusses reported Air Force cybersecurity breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "39bbb2a388469f981140",
+    "title": "Bay Area Nepalese Support their Motherland after Devastating Flood in August - Peninsula Press",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVE1S3U4Q0pCbzhNMEhhTmhzX1Jvb1RkQ3FiRXJXY0RmWkNnS0FUR0VETGxyWkhJNFJ0UFMtbVNDdUp3dlhyMFdZcmp1RzlWa2JzU3lsOUNOMWFxODlIbk1hbzBBRE5xQjdNazlEWTRJMUhCZlFQRzR1YzU2RU00WDdjdm5NbmM3Nzl0emlZZUNsTUdaelhDR0N6UEJYLWFldHdnQlFMblIwM2dCbG1mUFA1c3dtQQ?oc=5",
+    "source": "Peninsula Press",
+    "category": "Nepal News",
+    "published_at": "2026-11-27T22:05:56+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVE1S3U4Q0pCbzhNMEhhTmhzX1Jvb1RkQ3FiRXJXY0RmWkNnS0FUR0VETGxyWkhJNFJ0UFMtbVNDdUp3dlhyMFdZcmp1RzlWa2JzU3lsOUNOMWFxODlIbk1hbzBBRE5xQjdNazlEWTRJMUhCZlFQRzR1YzU2RU00WDdjdm5NbmM3Nzl0emlZZUNsTUdaelhDR0N6UEJYLWFldHdnQlFMblIwM2dCbG1mUFA1c3dtQQ?oc=5\" target=\"_blank\">Bay Area Nepalese Support their Motherland after Devastating Flood in August</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Peninsula Press</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "5c4bfba305cf6dfb4735",
+    "title": "The 25 best gaming deals we’ve found so far for Black Friday - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVRTXzF1YWstVXUxWjJZb1V6ZFVUaEN3TGMwQVV6WHNsOU85MmtaRHM0ZmIwX0taand0eDRERHBhMVdnVjFkaFR2cTVOc0NOQ3VMSnlfVkgtdC10UTlEQnBtaTMzSjh5WEZGSWVkMjJJNEhyVlU4cGI4UTJreEQ0cmJWSzl3eExVMXNKSlpkVVYyb3lrd3Z5Wl9n?oc=5",
+    "source": "The Verge",
+    "category": "Tech News",
+    "published_at": "2026-11-27T21:50:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVRTXzF1YWstVXUxWjJZb1V6ZFVUaEN3TGMwQVV6WHNsOU85MmtaRHM0ZmIwX0taand0eDRERHBhMVdnVjFkaFR2cTVOc0NOQ3VMSnlfVkgtdC10UTlEQnBtaTMzSjh5WEZGSWVkMjJJNEhyVlU4cGI4UTJreEQ0cmJWSzl3eExVMXNKSlpkVVYyb3lrd3Z5Wl9n?oc=5\" target=\"_blank\">The 25 best gaming deals we’ve found so far for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VzlBUERVcVRwV1FSU2tDd29fSEVWLVlYWWEzX2RLbC1NTVRZbVVCX1ktU1VqZDVUVndNaE5QOFVEV3F2dTZyalFfVG5qYUFCQTVTb2hXVFBaa3RZNE15WEw3QTBINFROTlJjVEJ1cnhxQjg?oc=5\" target=\"_blank\">The Best Black Friday Gaming Deals, Curated by Our Resident Gamer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE13bzhSRmZiT01sWU1MbEJ3T3kzNkViTHBfazZQUWEyU0hpTUg4blJkWUE1SDBBeUs2RUpMbldCdVdXOWlHMkN2UzViYXJKSWpvX2Q4RG9RU1pXT2lRVHZPNDNJYjVTSlhpMzBPcExHdVVMMkk?oc=5\" target=\"_blank\">Best Black Friday 2026 tech deals live — PC hardware deals on GPUs, CPUs, SSDs, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1fMmktUGNGd004MWdhQl9zeVpPbG1Fcm5kTk1nYjFlUjdtOWo3M283WTVSN2VqenloMWE1X0lad3A3Ri1lVFFjR3VWc2tncWdkYjFvLVlkclhRTVgzT0R0RFBaSVJMZkpJZUdIRlo0NUNpQQ?oc=5\" target=\"_blank\">Black Friday 2026 Handheld Deals (and More)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Buttondown</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVFJYYlZ3bHNrS0xqQlpvVndFcjdLR1FhcjFyVjJyZGRKN1NBSERSS1BHd0Vzak8zU2pPSUtPRTExLUg1Ul9jOVZaTDhoenlUWmJDbXZrOGo4UlVrSUl4aExoSmhyUTRmRzJoNFU0Q0dRa0lETWh3LXJDNlk0OGpaRWVxcFk?oc=5\" target=\"_blank\">Black Friday live: I won't stop looking for the best Black Friday PC gaming deals until I'm a withered husk. At least that's what my boss said</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Gamer</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "4c287961c0c164fdd0e0",
+    "title": "The Best Black Friday Apple Watch Deals Still Available - MacRumors",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmhQOG1TckJnbmxZc000eWxuZ0FXTWc0WUZBYUtvUk1yb1prZjdVQjRDSzV2dGFVTzhVUWJWSmNBTUF6RW1PcjE3OVVSUXZiUzNfTkMwa1FtX0M3Qjl6VHV5emROdlR5Z1ZuNW5TN3VISUVJZXVBNnNMTnIxNThZd3BCNmI?oc=5",
+    "source": "MacRumors",
+    "category": "Tech News",
+    "published_at": "2026-11-27T21:43:36+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmhQOG1TckJnbmxZc000eWxuZ0FXTWc0WUZBYUtvUk1yb1prZjdVQjRDSzV2dGFVTzhVUWJWSmNBTUF6RW1PcjE3OVVSUXZiUzNfTkMwa1FtX0M3Qjl6VHV5emROdlR5Z1ZuNW5TN3VISUVJZXVBNnNMTnIxNThZd3BCNmI?oc=5\" target=\"_blank\">The Best Black Friday Apple Watch Deals Still Available</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MacRumors</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9DZEVodTAwVm9pM0l3T2FEQVlTZ2U1Wm1DS0FUcXdrNURzck1Ka3czX0hwTEZ6Sll0bmo1RFE2VFlwQml0UW5DY2FjMmxnYmhlOVBLSVZUOUtDRG5xalJiRUZqTTBfeW5wem45VUhncndhU2h3MTRKLS1n?oc=5\" target=\"_blank\">Save $100 on the Apple Watch Series 12 for Black Friday 2026, a record-low price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2lTRFRNeG5Xdlhsc0hWVldHeTVrOWpZdGxTV1RoMzYyTHVpRHRUZmhkQ0FyZm9tUmFtX2JJLTdVQ0JHaGZyUWpnSVNjeVBYR3NHQ21pSGxXTjBpZ3Jya3AtSXhSNGE5dHl5TnNPQXl1RWtyTXBVWUEyVDNrQVk2WkowbjFEd3NOYmQydWswNlRHYlhBbm1SMjNxNTU3ZV9UU3d5eGlwYXZjemZLdkdmTExPSkhlYTM0eWRF?oc=5\" target=\"_blank\">Apple Watch Ultra 4 falls to best $649.99 price with Amazon's Thanksgiving deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzBJemUxTjlDZVNHMVF1d0Z3SU5UUlZ5amRBYThaMUdhX2c5VlloT0N2NVBNNWhrWEs5eTZHSmZRRHRhSFFfQ0RQMzJpdVNWcU8zVThTdHNEcV81cl83anNtdmVGTFl2bEwzQnI5VWZRRkVDS2NFVTlaTTVKSHE1OUdMY01HWDg0Q090UE84eVkxT3N5b2gw?oc=5\" target=\"_blank\">Apple Watch Series 12 is $100 off at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnBFbjI0U3ZpaUhjNVBQeW1BUHp0S3FrSXZjQTN1am5HOEFoUUh0a2hoTmZ4ZlVqS0V3OHRuaWpIa0lxT3ZyRUh3WHZTT29BZkhvaWNsXzhTdlRYVHE1aTgyVzhPdGZtMkNZMHFtOHZkeE43UEk0d3JjTDQ0NHRpeWN6a0hrdlB0MlE0ZmZR?oc=5\" target=\"_blank\">The SE 3 is the Apple Watch most people should buy on Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -330,6 +1100,16 @@
     "status": "pending_review"
   },
   {
+    "id": "83d1a3a96304692a6143",
+    "title": "1Password confirms data breach involving employee account - SC Media",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk5kYVdyd29Id0NEWTFqQ2hEVURHSEFJWTNYRUVrLXRuejRWbVRBVTk2S1Y3cHFCaU81QkZuSUt5anBZTlZfcjA1ZFQyd3hCRDA2ekJWUmhud0ZMZzdTNGRRUkxJSkdqUlhHM1QzemkxLVgySzJpd29oWEp0bl82M19FcTVEcER0OE5tRkNFWEk?oc=5",
+    "source": "SC Media",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-27T20:07:04+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk5kYVdyd29Id0NEWTFqQ2hEVURHSEFJWTNYRUVrLXRuejRWbVRBVTk2S1Y3cHFCaU81QkZuSUt5anBZTlZfcjA1ZFQyd3hCRDA2ekJWUmhud0ZMZzdTNGRRUkxJSkdqUlhHM1QzemkxLVgySzJpd29oWEp0bl82M19FcTVEcER0OE5tRkNFWEk?oc=5\" target=\"_blank\">1Password confirms data breach involving employee account</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SC Media</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "f8cc144556e7c476ef7c",
     "title": "London Gatwick Airport warns of data breach in drop-off payment system - SC Media",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHRrNHFEREZlZU1zd2lTNF9MdzJBYTlvVE1sLS1MX0dPMnpNcWhGUDAyRk11WXFLMnhEbU5YMUtYQkgzb1JGR2RTTnpEVUdaQkI0THlkcTNGUy11MGN2Ym55TnJsNzZPRm5rS2VkY04xSU9tUVFQVU1QS18xUVh1NUVLLTUwOHE2UWdSNjE3bVZORnFjdXNEUmZGTkppbFdWSGc?oc=5",
@@ -337,6 +1117,16 @@
     "category": "Cybersecurity",
     "published_at": "2026-11-27T20:06:28+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHRrNHFEREZlZU1zd2lTNF9MdzJBYTlvVE1sLS1MX0dPMnpNcWhGUDAyRk11WXFLMnhEbU5YMUtYQkgzb1JGR2RTTnpEVUdaQkI0THlkcTNGUy11MGN2Ym55TnJsNzZPRm5rS2VkY04xSU9tUVFQVU1QS18xUVh1NUVLLTUwOHE2UWdSNjE3bVZORnFjdXNEUmZGTkppbFdWSGc?oc=5\" target=\"_blank\">London Gatwick Airport warns of data breach in drop-off payment system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SC Media</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "a806fceb4f1a276a2ee7",
+    "title": "Hackers breach Air Force cloud platform holding personnel and military data - KUTV",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObVBFWGRoNldGcUdYeF8xeFp1bnRIQzRXVXVOZ0QyeS1zQURrRHFzaHBFTUVTTEEzX3VQTXFXZ3pUZ3lOTzBOdE1RZEIwLS1tdFRnSDc0Mjk1Z0p4ZmhyMlRXT2I0N2pjNzVoNXA4eTlFR0F0dXZ1NWRObHFXdzFqUmt0djNlRHJ2WlZhcHQtSUFSOHgtSjlDdnpHejd0QmJua0ExOWNRSi0wNTlJTjJn?oc=5",
+    "source": "KUTV",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-27T19:57:29+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObVBFWGRoNldGcUdYeF8xeFp1bnRIQzRXVXVOZ0QyeS1zQURrRHFzaHBFTUVTTEEzX3VQTXFXZ3pUZ3lOTzBOdE1RZEIwLS1tdFRnSDc0Mjk1Z0p4ZmhyMlRXT2I0N2pjNzVoNXA4eTlFR0F0dXZ1NWRObHFXdzFqUmt0djNlRHJ2WlZhcHQtSUFSOHgtSjlDdnpHejd0QmJua0ExOWNRSi0wNTlJTjJn?oc=5\" target=\"_blank\">Hackers breach Air Force cloud platform holding personnel and military data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
     "status": "pending_review"
   },
   {
@@ -400,6 +1190,26 @@
     "status": "pending_review"
   },
   {
+    "id": "a63a4826a25ee9eb9cd7",
+    "title": "I’m so glad I didn’t give up on the Galaxy Z Fold 8 - 9to5Google",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SUWpTT0ZhTjMwR3U1TkZfeWNaRktLRDZUVEE4VHpBQWpYNTZVLWV3QW91amN6eFhNWjhUUXJnSWhNT1BNVkVIdlVmWTN5azdtY25UMUJWRHM2aEJyekIzQ2o5VkxWSzhwamtVZGU2TklXbWlGSjVzbmFXT1JZUQ?oc=5",
+    "source": "9to5Google",
+    "category": "Tech News",
+    "published_at": "2026-11-27T19:15:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1SUWpTT0ZhTjMwR3U1TkZfeWNaRktLRDZUVEE4VHpBQWpYNTZVLWV3QW91amN6eFhNWjhUUXJnSWhNT1BNVkVIdlVmWTN5azdtY25UMUJWRHM2aEJyekIzQ2o5VkxWSzhwamtVZGU2TklXbWlGSjVzbmFXT1JZUQ?oc=5\" target=\"_blank\">I’m so glad I didn’t give up on the Galaxy Z Fold 8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Google</font></li><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSnpWQ0xVaEN5M2tRTERTTldtRUlrdi05RTYtR0F3dlF6ckFuTXFGTEdBUGZXWjJRai1JbG5aTGJXakhhQmd1eEExYm1OZjVGT2ppQUtaRk1xY0M2cmNvajhlTlRyRHVTZ0djVEFCYS1aZTlpc1VsQjVMVzlvVHM?oc=5\" target=\"_blank\">The 512GB Galaxy Z Flip 8 hits a new all-time low for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdjhRSlZ2MWphVy1nbl9HeHpVWTItbDh5MlVCLVQwM2ZWTVlMaDFZNWtyNUJvaE9ESERTaWtGOFE5MlVLX0FOeWp6WmU4MnVtdjF6Sjg3N1JhUy02dS1oQkt4WlV3d2JXZi10TE94UzlhS1k0S1ZhNF9OUXh4cDBJVzNqR0VscFp2cV9NQVBMMU9pUlBYeHBJdGRhMGpsVUpoZXNnMlBjR3dnaHBaTi1DLUJ0MUxSenBHdHZ2clJfUTA2R3RwM254V1dNdzVmcjgzNEdEM0k3VXRRWUtEdzczTkdpWm9RNGp3b2prRTFmVndMclU?oc=5\" target=\"_blank\">The superlight Samsung Galaxy Z Fold 8 Ultra is available for a near-unbelievable Black Friday price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNaV9ZN01rZFppUGhRNE1RbUFZOEFVbW44UEpBTHloTXlhcnNqck4yQVlDX19xM2gxNVpEY0dTRHhaelYzOWxBblhxUFhmbXY3eVFmbWlfSnBqMTVyVzB5RW1iclh1cU9scDZyS3VVNVV0Y0V2d01DUHJyQ3NEZlRRc3BTQm1KdTA?oc=5\" target=\"_blank\">Samsung Galaxy Z8 series: Optimized for Everyday Life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">samsung.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNHhJaUVrLUd2MEMyNFVFVnBLZ2VFbUExcVc4NVVPaVR5dUtzek9tZkdfVjdpel94a3BBNlRZX3pHaFNST3dvRGZydl9qczdUb2VlM2VHakRVazNEcFUyOEZVMnBXVk5fZzBHWmFQcmhPeWI4aUc1cjJ2Tk5mZkE5bndtQXBHYWNOS0swREFlNWI1aW1OWFJZMXRmWFNHQQ?oc=5\" target=\"_blank\">Why the Galaxy Z Fold 8 and Fold 8 Ultra are about more than just camera quality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SamMobile</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "4ef7a79c21b979b18ba2",
+    "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial - The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNck85T2V2MDhYbndMQnZoUE1qRHB4a0FnUmRfS3FhemZZMlJaZmtmb0hWVEhIaTZVX09TYlprdExOMGcyNFZlM2h5X1JQZXNuUHAtT1dDWGYwTjNRNkZLUm1tX082bjFLSThPYVF6ZW4xU085dWZOXzA2ZGRFUTlQekRtaDhzNEZmYldIM09oTjVuV1VfYlRmcm04T2FoTnlGMnIwMkQ0YmlaZnpTNDlfU2NnTnpjTHgwcG9YM3pCWFQzVW5SeXJEQjJYNzFnYWJlcC0tdElYb0lHUVlqMXk0NkVndTU?oc=5",
+    "source": "The Guardian",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-27T19:11:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNck85T2V2MDhYbndMQnZoUE1qRHB4a0FnUmRfS3FhemZZMlJaZmtmb0hWVEhIaTZVX09TYlprdExOMGcyNFZlM2h5X1JQZXNuUHAtT1dDWGYwTjNRNkZLUm1tX082bjFLSThPYVF6ZW4xU085dWZOXzA2ZGRFUTlQekRtaDhzNEZmYldIM09oTjVuV1VfYlRmcm04T2FoTnlGMnIwMkQ0YmlaZnpTNDlfU2NnTnpjTHgwcG9YM3pCWFQzVW5SeXJEQjJYNzFnYWJlcC0tdElYb0lHUVlqMXk0NkVndTU?oc=5\" target=\"_blank\">The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "660b46d9c67c78bf65af",
     "title": "Air Force cloud breach may have exposed sensitive military information - Scripps News",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNi1QOFJWdzBMc29adHJiaW1qR3I4M0paeFFha2hTbllkdzZJLTdlMEpEb29BUWY4bl9MTmJFWHJwelRNZ0RveGp3a1VFOEtKaW1Gc0tyc25ubHEzOFVWcGd4enZvb3E4VlAwWFJUN1BzbmE2em94VUdMdTNJRXdEbWNXajRqcksyRnFfc2lQOEpSLTFIM3NnQWZHM2RvcjRENEtpMHRZV0NwSkNaUHFrVW9OWmd0OFRzU2pwTG13S0xVdUZTV3JPd2JGNGtJR1dGQTNpdmU2T3BZV3BmbTRz?oc=5",
@@ -407,6 +1217,16 @@
     "category": "Cybersecurity",
     "published_at": "2026-11-27T19:08:16+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNi1QOFJWdzBMc29adHJiaW1qR3I4M0paeFFha2hTbllkdzZJLTdlMEpEb29BUWY4bl9MTmJFWHJwelRNZ0RveGp3a1VFOEtKaW1Gc0tyc25ubHEzOFVWcGd4enZvb3E4VlAwWFJUN1BzbmE2em94VUdMdTNJRXdEbWNXajRqcksyRnFfc2lQOEpSLTFIM3NnQWZHM2RvcjRENEtpMHRZV0NwSkNaUHFrVW9OWmd0OFRzU2pwTG13S0xVdUZTV3JPd2JGNGtJR1dGQTNpdmU2T3BZV3BmbTRz?oc=5\" target=\"_blank\">Air Force cloud breach may have exposed sensitive military information</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scripps News</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "68f35287b6011f01b205",
+    "title": "Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans - Eurogamer.net",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fZmt2ZzdDczA2U01qWW1XVUhuQWJ6QTlPTU4tOGx2aXpRbDJ4dnlxdTBfbk93OGhaaFNHbnJTUVViejl5WDlZQ3VYVDlybjE0X21kS1RPZWI1bzNZSkNIanhGek9FUU9TU3c?oc=5",
+    "source": "Eurogamer.net",
+    "category": "Tech News",
+    "published_at": "2026-11-27T19:08:10+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1fZmt2ZzdDczA2U01qWW1XVUhuQWJ6QTlPTU4tOGx2aXpRbDJ4dnlxdTBfbk93OGhaaFNHbnJTUVViejl5WDlZQ3VYVDlybjE0X21kS1RPZWI1bzNZSkNIanhGek9FUU9TU3c?oc=5\" target=\"_blank\">Yooka-Laylee studio explains upcoming Definitive Edition's absence on Xbox to 'frustrated' fans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurogamer.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEFqb2RreWw2VU5PWEMwUGRBdV83eml6Y21kNVdDbnFGanRLZEtOVjh5ZXZra01FaFpTaGF6QXE1STlRcXFuMWxZcFpFZXVLOV9VSEo0ajIyQTNIM3RSb0I3ckdFR3ZGa0JQUTYxemFCTEwwVkFMZjRSVURpdXJnQkJFTEE3MDNWYkE?oc=5\" target=\"_blank\">Yooka-Laylee’s free upgrade is skipping Xbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTFl2M3dtZnVULW9uOXM2Zmw1UklHM2pzVGJjX0poejRLX3E2SlV0NnlhQ1g2UU9XLU9fWlZWWEhOaTJfazBNaHNGMTU0ajZ2OXRWRWlrSkN6YUptQzNUSjV2TGg0VTdpN3paWWVCOUU4TlYtdjFkMWZ3WU9ES01HVkwyelRSNjh3ci1kSFR6YTFVdFFnaV9fbUNSV1FsTlNmVW5wWlRzRU56b2wxNTZHYThNcUZpazdTM1JRVHpNRF9qSFVsN19sSTBiTkVRRWEwb0tWMnlUdEgtSWFCNEp6X0pLVDhKWW9V?oc=5\" target=\"_blank\">New 'Yooka-Laylee' won't ship on Xbox due to \"tech challenges and costs\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnhSN2Q4VjBoam1naEZzOUZ2OHo3YlZBemEzU25ZUnZBN2FpRUFhSXNqWE1UMkJjWEI4NS1DVHpMbzB1RXhJdzd6VU92MjZfa25qM25VN2lOcWZQYjk3TnpnSzhjcFZFMVhSVk9rdl9qSDhaTnktdmswalFmSDktNmxHUGdtWGNuTzMySXJXQ1I?oc=5\" target=\"_blank\">Ambitious PS5 Adventure Game Gets 4K, 120 FPS Upgrade for Free</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORVlLZDhhbHhoRlBBNDBmakZYTUgzc3Z6ZVJhVUFsdnJhOVdhMVgwbDJkRUMyWTQzTjdBM24tZ3dkOHRwMXowaVBSM2d5WV9yQlpiZVpYdFp2QmhRdUhhZXdRckFqRUo5cjFWbmxtVl9sS0Q2WWVJZkY3Q3BKZGNuLUtCRkY5aGhyQjFlYXdTd19KOXY4Q0tKRHJjdER2MThocE9GRE1FVUFtNVBlckd6ZVRzdEg5dVU0eXhTWQ?oc=5\" target=\"_blank\">Yooka-Laylee And The Impossible Lair: Definitive Edition Launches On Nintendo Switch 2 Next Month With A Free Upgrade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nintendo Insider</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -580,6 +1400,16 @@
     "status": "pending_review"
   },
   {
+    "id": "fd119827113ab617d8ab",
+    "title": "Site News: Nintendo Life's Black Friday Sale - Nintendo Life",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekhLRXhENURvRkpzSXJhWW1aaTlBemRzODg0R0FiNmFYOWZpaEZ3aHFVclFnQnAzSXdFQUMxWS1DcGJiNEJKZ01nZURIc3A4RkNhZlZmb2FYZ0lCZzREc01ES2dyMERmdUVlZTgwLUZneUpyT2c1TUd0bkpKaXlVLVRJNUV3N3pod3BJMw?oc=5",
+    "source": "Nintendo Life",
+    "category": "Tech News",
+    "published_at": "2026-11-27T18:00:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNekhLRXhENURvRkpzSXJhWW1aaTlBemRzODg0R0FiNmFYOWZpaEZ3aHFVclFnQnAzSXdFQUMxWS1DcGJiNEJKZ01nZURIc3A4RkNhZlZmb2FYZ0lCZzREc01ES2dyMERmdUVlZTgwLUZneUpyT2c1TUd0bkpKaXlVLVRJNUV3N3pod3BJMw?oc=5\" target=\"_blank\">Site News: Nintendo Life's Black Friday Sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nintendo Life</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFVQSGxNZXN2a0xuRzdtR1lTLWNPMl9lMjVWRV9TZmNXLW9jb1JRTFZGdjBQNmpSMEJCNFlscWVmbzRrZDdXZmpYaHBLS3FEV0d3OU5vbWUzaFB5T0t2YzZZTFc4QndyVTV3c0lmY0pEOHJmNTlyZFR1cXk4OHdnT1NLdEJEUldhaVdlQk1zWDQ?oc=5\" target=\"_blank\">I’m obsessed with my Nintendo Switch 2. Here are 29 Black Friday deals you should actually shop for yours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2hDb0FNS1RyTXZTNEM5TVA0bExHN1YwLWh2TE5iTmpIUFIzNWs1NEVocXd4YUI3OUdDWHlCN2szU1BCNGZTTjRyekFvcTJLVXRxaVhBUG5PVWhBcWFOVnpINDh3cDNyRTRRMHZFODNrSmJrVHNfa0QydUNkOXhmbnp5WW5GRC1Rc0x5QzBDTnljS29mZzFHN05FS0RGQlpPZjJid1VXbXl2RDlGcTJN?oc=5\" target=\"_blank\">Nintendo’s Switch 2 console is $50 off for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDF4YW1DSm84T1RYUEhxNlZVQTJkcjNJQTFCQ0lGMlFsR1pWMktKNTI4SHdHSC1KcGxXdnluZC10T3RHc0VBTnRiS1h0VkkyUy01TzRPcjVMT2hJVktIVG1Lc3VqX3htMU40UExRaEhjblBMMzhFamlqSFhnZmdsY0kyWnR0LWZYcExBV1U4UzNBNFN1?oc=5\" target=\"_blank\">The incredibly popular, limited-edition Nintendo Switch Black Friday bundle is here — shop now before it’s sold out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTjlJM3ViSzd2OWd6VTlSanBOQXBCRDFHMmpuNGJwUnpvQVZuRzNqcTAwWXZ1T0tsZlVxRGlDLVVTTFZkaXJPa0RvcFdOMjYxV1BNQjY1aEx0OVBveHJXeS0yTXNUZ2tQcnN4QnpNTWF6b1hOSURvZWZnd29qR3Y4S0l3ZndjS1c4TTY2ZFI5a0Q3Sko5eC1NcmlFbkZXOERtOE9NM3AwX0J5WnZqRW90VXVLSGVUYTR0RDVFazNsaWFqZWVYMHVLVWF6SXFhdkt5REhKQmdhMGkwWUNWR3lLWXdn?oc=5\" target=\"_blank\">The Nintendo Switch is $499 today (plus all the best console deals for Black Friday)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
     "id": "e5f060e42e0ca8a335b9",
     "title": "Elon Musk Wants to Take AI Beyond Earth - ColombiaOne.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzRhd0dLdHE3cktpdjBMTElIb2tWS0dNbnlWOE4yYVR3LWphdzVhSzlDdEpFTU92SDdLa0g4aGszZlphQmRic0dYZjg4V2NvdVhReEg0LVo5SnFOQksyTkFKODlfZFhaU3JyN1RpLWRIdk8zbVpZTnpHMWRkLWtBX2NuRm5wbkVGZmpjSDlCUzNUZw?oc=5",
@@ -607,6 +1437,26 @@
     "category": "Tech News",
     "published_at": "2026-11-27T17:44:33+00:00",
     "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlFpaUdVb3FONVRhb3RPUVpxZU5wWXd0ZXYzbUF2Z0NDcjg1U1UzYmJ2LUd4LXBwVVplaEVUWER6ajZ2ek55WEZpbVkzRGxlOEZ3Z2stZG9ZS01DX2p2VmlHdGlfXzhtTjBmM2I4VjdoWkFxNHdWSi11cWNkeEhPTGpKbTBOMDA?oc=5\" target=\"_blank\">GTA 6 PC Port Takes a Massive Leap Forward in Just Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Polygon.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5\" target=\"_blank\">Unauthorized 'GTA 6' PC port shut down by Rockstar Games' parent company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVzdFQWF2UjZrOWpDQVpzd3ZTcTQzTGk2N2NTNHpIZ3JMMGpDaTE4UDduWk9ERjZZYllXRjJmMm5EdTRJeUhTQjNLZ2UxMmUzbmdodENzWEtjbDduWTVSNWJBTml1QnVQeUZtNE9rMDB3V3NsU0l5b2U4b3AtZzZGVnkxR0thUm5hYUJRN3d5dkNUS2tGaVpLcHNVLWxjX2VGclFmOURmWmF0NVkybEFUeGtIREtiaVNGRXNjSG1HZlBhd2d5cVpmanNTdHB3RjZFUDVjcnVaN0ZLQWY2SThWdGNxVENYY3lDNDEzc1BfeWhOcGM?oc=5\" target=\"_blank\">Cyberleek Reportedly Releases .exe File for Xbox Build</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeEJzVy1lR29zMmNYb3pxT28xWHYzWG5LTm9ySHZuRGZfdXVPR0FrUmxFcVVoODZad2pSdGczc3lyOE55QjBfc3JLMW81Q0VlOEttOHMyT1ZJZHBUcTVmaFczc1FTWG5nQ05TeGRsSlhnVjZhN1dFbnZvclh1aXdmS3hpMFhIc2NIejRQVEE0MS12NmNfNFJKenV4Z0JpNUJPVFpj0gGoAUFVX3lxTFBDQVM2NkRFblJ1TGZqNkE5RTE1eHF3Z3J4cDJzYW51MnVJb0UzNUtsZXJQdTczTUJ5VjZ0WldaRFFaWExLRUgwYkZvUlJ6aUYzckR5ZGNZYWlPUF9ncl9jWkhOUGZseWxXVzRuVzE5aGxlNThWV3gtWjN5dVFueHhMVHFLU1FGb09BTE1PaHlMNXIxVW9tYkFiNlM2WlhqSkRIQTZJeWk5dQ?oc=5\" target=\"_blank\">GTA 6 Fan Ports Climb to 20 FPS on PC, Still Rough Around the Edges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechPowerUp</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0k5VmlWd1JSUFVnUHZaUkxpSEx0ek9YLWZFVG1WZll2Zjl0akE2a25nVkV5WHIwZE5KZ0NmemttV1hIN0lmcmZtMjBuU25EU1dwNHZOMHZXNll4R2puUy16MmtnZFFxSExMLVk5Qm1jSWx2WkFWeXlsbWxBYzlZZDFMMUJsVlFOOS0xT0pxMF9VQQ?oc=5\" target=\"_blank\">Hobbyists and AI vibe coders have GTA 6 running on Windows PC days after launch — How is it possible, and what comes next?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "d7e40253649b085d0cb7",
+    "title": "Ford hits the ground running toward its next Le Mans adventure - RACER - Racing News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFQ1S3BDNHVCaVVkZGc0MFVob0dTSEEtQ0ttMDRyaUVjTU5HWWtoTmhWbUpwUTdXR0dhSFFVeWJuNWd0RHpPX0hYaE82OUsyYVlOVHZjejBkYlZrNlpNOE5GOTkybTRaNUZ0aGZiUFRlWHl4UGh4OThaa0V1WVA2SzhCTG5rU3k0ejhhV05temxfNXRiOGc?oc=5",
+    "source": "RACER - Racing News",
+    "category": "Tech News",
+    "published_at": "2026-11-27T17:40:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFQ1S3BDNHVCaVVkZGc0MFVob0dTSEEtQ0ttMDRyaUVjTU5HWWtoTmhWbUpwUTdXR0dhSFFVeWJuNWd0RHpPX0hYaE82OUsyYVlOVHZjejBkYlZrNlpNOE5GOTkybTRaNUZ0aGZiUFRlWHl4UGh4OThaa0V1WVA2SzhCTG5rU3k0ejhhV05temxfNXRiOGc?oc=5\" target=\"_blank\">Ford hits the ground running toward its next Le Mans adventure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RACER - Racing News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDZ0Z3IxUkRBcUNocC1USlI3TERzQmpzTnc3a2g2VURabnVqRHl6NTRCRkctNTRTRFhFWFhpenBERVo0V1R5d1hXSjZCc0JiT2NuZmJlclFDRVE5bW11UWd0N1dzSEJVTmNVQ3pJTmVwRWMydXVPYzhMUHBEazdDUmo3WXZWZnBvX1MxSkItNA?oc=5\" target=\"_blank\">Ford GT41 Hypercar: A New Chapter for America's Race Team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ford From the Road</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxORWxhUkZ3U3BaMllESnZqd1FZMWhVbE9oeDR0NWdRdmU5dm9vMDJ4dzhNbVBYMnZHMWdiOTNPWC1Yb1RPaG5WMEJZSVgtNnpTXy1PMmRVVmtxajhkdG1id3I3VDVNcXd4NTJjYUxWTTByWkZwZVByODYzNnNQRGtWa2Z3?oc=5\" target=\"_blank\">Ford’s New GT41 Hypercar Revives Its Le Mans Rivalry With Ferrari</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MotorTrend</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNamczUlYyWlFHTXVqREhoS1FxaFgxUkZBQlFfVm1WQzJ5M29FUHdsMmNKYzM4RlM0aWRjWjV5M0hrTG9KZTFiQUFzeHBjVlRfWHdHaVhZSllsd2RWQllVT0ZBLTFGYnhDOUpVYW1rbDNCLWstLXM5MXB1S3RmZ3E1ZWM5UXRQUzNBLW1WRWhHa1FfLTlFVlNkTHdxOA?oc=5\" target=\"_blank\">Matt Damon Narrates Ford Racing’s ‘Go Like Hell’ Thanksgiving Day Ad Directed by Zack Snyder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Variety</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFVkb1M5Z3pfNHRDZlVHQXF2ZGkxNThWZ0I3UTVtT0VCRXpGcEhWZzJCdEJCcDFMRGl3a0hiZ1lLbUF1emFHYV82ZF82LTRpa0FUVkR2TzV4SGtkT2dpNW5Hc0JfYTkxNXhXTzRCOWJIV01jMDZudEhUQjFfVkk5VmR6VjM1RUdJU0p5Ql9fYkxhR0FC0gGaAUFVX3lxTE45YVdndUJkM01KdVdKMnRzaEhpbHhPeDB6TVo0ZDJCbVNkVjc2SDRCNmgtWTRyakFuOU5CWkt6RVpjcnc5WkJKM2RyVGdRTlRmTlRsSmwtRWlTckVKQUlOQUZTY2lFMkpka19KdjRtVXZzSzFJMHAteW9xLV9sMEg5WjFqUE1TbnR5a2RhN3lqQ2JVRFBCSEJpdkE?oc=5\" target=\"_blank\">Ford unveils GT41 Hypercar as it gears up for Le Mans showdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox Business</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "af559312f32ac5377c8d",
+    "title": "Fact Check: FAKE Image Shows Inflatable ICE Agents Chasing Dora The Explorer In Macy's Thanksgiving Day Parade -- It Is AI-Generated - Lead Stories",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOS2ZySTZjNmo0MGhad19TVzlmUjVTRENoS2RBaUVLdm43SFFMYTJ2SlhJQnRydEFQVEJrY2phQjRuVU9kMTlGd1ZLc1Z0aS1sVHlSVDVabTBPY3RHdm41QUk0dTJIbDJZekM5WjFPM3pMbXpEVUtrUUVDTEVBTGNsZFNXVnAzQnBManp1cXZ5T0xXdFg4b2Y2bEN1MW8wTnZ0MEJfaXJqQU9HejU3enpVZjFKUVYxbTRBUWUwNkw3TmVvVHY3VmkyZUJjSTB5TWRmQk1Ta2p4WVh0M0xnWG9va3MwUEtmaUo1S0hPSkFQUkx0LVBadktUMUdFNXVfbW14OHpqa25R?oc=5",
+    "source": "Lead Stories",
+    "category": "Fact Check",
+    "published_at": "2026-11-27T17:25:35+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxOS2ZySTZjNmo0MGhad19TVzlmUjVTRENoS2RBaUVLdm43SFFMYTJ2SlhJQnRydEFQVEJrY2phQjRuVU9kMTlGd1ZLc1Z0aS1sVHlSVDVabTBPY3RHdm41QUk0dTJIbDJZekM5WjFPM3pMbXpEVUtrUUVDTEVBTGNsZFNXVnAzQnBManp1cXZ5T0xXdFg4b2Y2bEN1MW8wTnZ0MEJfaXJqQU9HejU3enpVZjFKUVYxbTRBUWUwNkw3TmVvVHY3VmkyZUJjSTB5TWRmQk1Ta2p4WVh0M0xnWG9va3MwUEtmaUo1S0hPSkFQUkx0LVBadktUMUdFNXVfbW14OHpqa25R?oc=5\" target=\"_blank\">Fact Check: FAKE Image Shows Inflatable ICE Agents Chasing Dora The Explorer In Macy's Thanksgiving Day Parade -- It Is AI-Generated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lead Stories</font>",
     "status": "pending_review"
   },
   {
@@ -640,6 +1490,16 @@
     "status": "pending_review"
   },
   {
+    "id": "b02d40ff90be6fbe3d2f",
+    "title": "Fact Check Team: Black Friday spending expected to hit records - KATU",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmF4MHVrSjAyQmxtdlBsR1ZKNFhTTEo1cWJvVlJjRm04VTdmQURVX1AyR0JFVXRhb2dqNThaR3pKc1dRbTJaWUNFcklYTmJyUGdPcXJneFNON3FrUS1Ba1NYR0NEcE5BR2l4ODdTem52MGVqbk9oS3VfWWc1ODlyV0ZHRzFmczczWWM5Mk8wQnZDWXFUOVotd0tOLTBWd1pOSnVWeGI1NFNEcmFFaVVpbUdkZ2tPNS01c3J1empEN1d6Vk9a?oc=5",
+    "source": "KATU",
+    "category": "Fact Check",
+    "published_at": "2026-11-27T17:03:34+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmF4MHVrSjAyQmxtdlBsR1ZKNFhTTEo1cWJvVlJjRm04VTdmQURVX1AyR0JFVXRhb2dqNThaR3pKc1dRbTJaWUNFcklYTmJyUGdPcXJneFNON3FrUS1Ba1NYR0NEcE5BR2l4ODdTem52MGVqbk9oS3VfWWc1ODlyV0ZHRzFmczczWWM5Mk8wQnZDWXFUOVotd0tOLTBWd1pOSnVWeGI1NFNEcmFFaVVpbUdkZ2tPNS01c3J1empEN1d6Vk9a?oc=5\" target=\"_blank\">Fact Check Team: Black Friday spending expected to hit records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KATU</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "235d0c9cd5d51418d4f6",
     "title": "Three Months After Nepal Floods, Pregnant and Postpartum Women Still Lack Adequate Care - NepYork",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaF9ZZktTblR0MC1FWXRJV0swUDI3Y0Y1eE8xRlRzTUREZWpnWi0td3FLRV9DMUlYM04ydThNLTRzRWxDT2xXZ3lDMXp0S2lwczlfcG8xdnlEMklkWjV2bGpucTlDekpBdnJpREd3WUZZSzhHY2RlMXdsUjZKd0lzNWFJLWxNZXpySXphUUFYYWhNd05SNXAwdEVabG5HZVdnemNlcTJHRDBnSWJJLTB4N1FUSExrdWcxUUE?oc=5",
@@ -647,6 +1507,16 @@
     "category": "Nepal News",
     "published_at": "2026-11-27T17:03:15+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQaF9ZZktTblR0MC1FWXRJV0swUDI3Y0Y1eE8xRlRzTUREZWpnWi0td3FLRV9DMUlYM04ydThNLTRzRWxDT2xXZ3lDMXp0S2lwczlfcG8xdnlEMklkWjV2bGpucTlDekpBdnJpREd3WUZZSzhHY2RlMXdsUjZKd0lzNWFJLWxNZXpySXphUUFYYWhNd05SNXAwdEVabG5HZVdnemNlcTJHRDBnSWJJLTB4N1FUSExrdWcxUUE?oc=5\" target=\"_blank\">Three Months After Nepal Floods, Pregnant and Postpartum Women Still Lack Adequate Care</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NepYork</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "73c4511ffdf9167d98db",
+    "title": "Deal: Amazon increases its Black Friday discounts for the Galaxy S26, S26+ and S26 Ultra - GSMArena.com news - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUlISU4yQnNlYzAyTGpwXy1Ec2xtamVVZ2N0SzF4TjNvZG9IOVo1YnU3ZlotQ0VyRElueG1ncmlHN2oxUEJTZGZ1dHRacmkzbW1lVzJHdURIc0g3NTB5WEdPbWxMTjRWampBNHY0Znk5U09hVVVlTkxMWG1iVjN6QmRMeTVlaWlHWVl3Vjg5dC1uZ0V3SWxDMkJkZ19FclNiT3FzeVZ0SmlZc29iSkR0dHhmYm1UUF82N1RlV25tOEhKRXPSAb8BQVVfeXFMTVI0b0tFWWR0M2pfeDJ6b2lvMFhtczNlbzEtcEd5UlMxTkFtdG9rbmFfLXRsdE9QV192MWgzU0E2NXY4SktYUWFOOVU2V3FhZ2o4SENJU2lzZnBsbDBjWVR6QXNVQTAxckdhcDBJUlpFMVlFT0lSaFJucUh3S09NanRZd1hGa2o4bjJIY0xXMno5X0ZhWVVVMVpJdE9NZ1c4TVZ3SXJJYUkzQlF4YmVpQWtCZ0JCQmFHZFBMYWdlWm8?oc=5",
+    "source": "GSMArena.com",
+    "category": "Tech News",
+    "published_at": "2026-11-27T17:01:02+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUlISU4yQnNlYzAyTGpwXy1Ec2xtamVVZ2N0SzF4TjNvZG9IOVo1YnU3ZlotQ0VyRElueG1ncmlHN2oxUEJTZGZ1dHRacmkzbW1lVzJHdURIc0g3NTB5WEdPbWxMTjRWampBNHY0Znk5U09hVVVlTkxMWG1iVjN6QmRMeTVlaWlHWVl3Vjg5dC1uZ0V3SWxDMkJkZ19FclNiT3FzeVZ0SmlZc29iSkR0dHhmYm1UUF82N1RlV25tOEhKRXPSAb8BQVVfeXFMTVI0b0tFWWR0M2pfeDJ6b2lvMFhtczNlbzEtcEd5UlMxTkFtdG9rbmFfLXRsdE9QV192MWgzU0E2NXY4SktYUWFOOVU2V3FhZ2o4SENJU2lzZnBsbDBjWVR6QXNVQTAxckdhcDBJUlpFMVlFT0lSaFJucUh3S09NanRZd1hGa2o4bjJIY0xXMno5X0ZhWVVVMVpJdE9NZ1c4TVZ3SXJJYUkzQlF4YmVpQWtCZ0JCQmFHZFBMYWdlWm8?oc=5\" target=\"_blank\">Deal: Amazon increases its Black Friday discounts for the Galaxy S26, S26+ and S26 Ultra - GSMArena.com news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSMArena.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBsQ3UxaGs1MGQ3Qmw5NGhWSXJPMDdzS0lhOWFOMVJ0NURJWUlyRWd0aTN0MlAzSWNwOExMczNJQVg0WUU3TWxrSXVrRnZRc255NWRhMi15dVk4SEJ1TEQ1SGhYN3V0dzVRZUdKMkN0bnpGalMxMDhHcg?oc=5\" target=\"_blank\">I found 36 of the best Black Friday phone deals on iPhones, Samsung Galaxy, Google Pixel, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBfYmxnMFdzemJtajQyLTdibEVYa252ZXJOM0VMUlBnV2k3cnlZU09OZWp0dkVneHdrZ2ExelRqYzg3Z0taLW5uMmh4TGFjdUtsZWJFQ0VNdmZ5dTVTeFgyNlVXVnBfS3RpWmxHcldra2pxQVMyNXc?oc=5\" target=\"_blank\">Ring, Ring! It’s the Best Black Friday Deals on Phones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZk1OZlRJRno0R2NwZFlERDJMMmhDcTRLeHBnSkswcDdQUnpXZzgtRmZjT2lvNngtajlSNURIakVlcVExUGNfNzZCczcwWUQ2Snp3aXNhOW5tWHZ0bDgxRmtrVlVNc0ROZlZvS29acGR2ZW5xdmV5QlJYOVpHWElJWFdPU1FpOE56SzZiTDh5RUcyY0tsbElnb2dLWTY1eDYyOGlEdzBGN3JteHE3c1BOUi1BdC1OZHBWNXc?oc=5\" target=\"_blank\">Samsung Galaxy S26 Ultra Price Updated To Lowest Ever Today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5yNlJkc3J4bEZMcVBDMjI4Tk4tTXN4YjBpMUUwQlZKa2tqanZQd3VuSjJPdTJLbEdZYlZ1Ny1LckluQ2ZwdXpjUGhVT04yMmNyV1BPam9OeEN2MmdhQ0ROb2MwcHJVMGl4Mk85eHpOSmJNdGZJeEhVcg?oc=5\" target=\"_blank\">At $300 off, the Galaxy S26+ lets you capture your Christmas family gatherings in style for less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -697,6 +1567,16 @@
     "category": "Tech News",
     "published_at": "2026-11-27T16:58:34+00:00",
     "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQLXZZM3NhcEF6RHhfSjBDeWdUcDV6dmNqaUY4T1gtbG9IRWNETVVEcXFRWFZzU0RaeEVDYkZHWldSOTBFZnpydzI5TUNMZzFNdmNEd3BGMmFVSjZZbEs2STJPRjZ6MzExVm1kWjNVcHU5SmxEUDRMYi10ZExLenZNeQ?oc=5\" target=\"_blank\">I found the best Black Friday PS5 deals LIVE: console stock updates, $54 DualSense controllers and games from $9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Guide</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEZHVEJwanF6aHZfODhsM3B5X0lLOUgyN3h2SVVWSUUtd2trRFpJMVFsbUxlbkNEb0diSkE3aUQzNU80TThLREVXNlBGNUxDNXp4Qk56LVJJLWZaRGJ6VEotSThKX3RwRHB1NUJ0aFlGcXRkWE5PVEl1QkdnM2l1Qg?oc=5\" target=\"_blank\">I'm gathering all of this year's best Black Friday PS5 deals in one place — covering games, peripherals, storage, and console stock updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9GdDVmQXRFTzNlbmk2cnQtcjNGRnRzUkY2YnFfYmRsdDNMQm5PU3NOa2R0NHdKdDN4SWQ3c0ZRNTNyaXNrMEkwNVI2MHBneEFUeVVha1BybExuSG1uMVZEVnNkUXF3aHMwOUwxUUJJejJQaTUyOUFROTZhbTI?oc=5\" target=\"_blank\">Sony Black Friday Deals 2026: TVs, headphones and PlayStation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trusted Reviews</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBldFQtclNUUEFlX0pwQ0F2aDFXMmtZQndvV0dIaWZLYk9nekoxME4tNXBQWkRYR3h0cXNMYmtQa2NrQ2tIM1dGOU55T3lYV19zUXFoS185SWxxNFFsXzlJOWQzbWM1VXdKUFA0N3JBTl9keVVh?oc=5\" target=\"_blank\">PlayStation 5 Black Friday deals are selling out: Get games 60% off plus a rare bundle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1RjTXJqeVJtNkktamxFaFlMTFh6d2FsZEdPU1lhS1hfUlF2bHpRLXNHN1hrYnpmWVVMelFzcWpBZUVqN2RtLTh5MXNabG52bmN5NVlERGc3by1JMF9JQ3NVNWNnaWNkU2xCLW5CWDdEMFRlTnpobTNhVUpXLVdZbnVLTWN0Z0JNa2d3aGhMQUxQY1FBcUJVZE5EX0FsVGVKUEh4MlZHZ0owdGNDMHNGNUVYRkhtRW5RN2tOdVpDbkhHb3BHaS1kdg?oc=5\" target=\"_blank\">80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale (North America/Europe)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Push Square</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "402957c252c15ef25c57",
+    "title": "macOS 27.3 adds three new Mac features, here’s what’s coming - 9to5Mac",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjN3dmV4Z2NxS2U0MjVWRGNraXpMSDNsWVZPSEltbGF2R0JyYUNySjBLQXVKdGFiamRZQm5mR2x0S1VEeGtiQzdJN1lLTXF4YS11R2l1TDR4cGhCaXh4ZHItOUxwd0pmSWJ2dkxTdDE0NDlsQWlmcmpZMmlMSU5tQmliM0RMRDlGUGt5Q01qTFZyOXJEYXpLX2MxR2U0UQ?oc=5",
+    "source": "9to5Mac",
+    "category": "Tech News",
+    "published_at": "2026-11-27T16:53:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVjN3dmV4Z2NxS2U0MjVWRGNraXpMSDNsWVZPSEltbGF2R0JyYUNySjBLQXVKdGFiamRZQm5mR2x0S1VEeGtiQzdJN1lLTXF4YS11R2l1TDR4cGhCaXh4ZHItOUxwd0pmSWJ2dkxTdDE0NDlsQWlmcmpZMmlMSU5tQmliM0RMRDlGUGt5Q01qTFZyOXJEYXpLX2MxR2U0UQ?oc=5\" target=\"_blank\">macOS 27.3 adds three new Mac features, here’s what’s coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY25HTkh0UHpVTV9qZzVSaXA2ZXZkYUI3LWhNbXRjSmUydjFCaWR0WjREWF81TzBHTzRFcUhTUDlwekhUZk9OVklJRHhjcUZHNlJlZWp0Q2t2N1JPOGJ5ODlYbzV5YnZOdm01bWxYbWhwd0ZZcVZILVNsbVlQTm5Jc3loZ3FUTkIyVl9UeTV4SUJfWnFDTnNzeVJXQmVJWm1pMGswYjhPbTZmRjFIM2k1VEFMakZXcTRvNUJ3?oc=5\" target=\"_blank\">iOS 27.3 Release—3 Things To Expect In Apple’s New iPhone Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXNfQmprLVVwNG9mM3V5dlB2WklsZG9JZ1lnMGNSOEpZNnRhOWlrOFFtNTY1d29lR2xjZUU2NUZZYzRMSnhONzhWMlBsZVA3TlZwOVZuazkwdXlPUDlXSFVWVWdrZzhoaUVrbHVzZk1lZDYtSXN0a2N6cHRoTzBSNHZQS19IUVFlQ281V0laVUdGSUN5Y2R3VDBsUQ?oc=5\" target=\"_blank\">iOS 27.3 is a gift for Apple devices new and old</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Macworld</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNal85OVhfX29wMnFYRXlKSlN6c1RvR0hlMURRZzBDRHNGdlJodUhTbU14OEY4TFpRVDlacXlLZ212OFdFcmRycGt6WUtLcXgybTFHOWxlYkxDLTNYTVFNVHI4b0trdVlDSmR4ZTVCSXhtQ1hBTmFLbnVlQ0FheWJOZmYzV1BPYUZsdzZncFFVN292b3FuenNwVmZB?oc=5\" target=\"_blank\">iOS 27.3 release date: Here’s when new iPhone features are coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Mac</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYzBDWE5QdDdlQl9GWVIwbm5DQUlGRG1oejZMOThhLTd1d0JoSm5nblhLWHRaaFZVeXVOQlhSWkdLQmx6bEdyUF9QT1gwVDNKNVJ2UkpUanh5TW14aTgxdXlQNDRnSGQ0U2hwMGNUaHdrcUxfVGdSYW04czByOE1qR1FQVDBYaVVhYWotSHNDajVWUmJtQ2dRQjh3WHJjMnJmVnlDc3Btcw?oc=5\" target=\"_blank\">Sunday Reboot: Siri AI limits and the possibility of pettiness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AppleInsider</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -790,6 +1670,16 @@
     "status": "pending_review"
   },
   {
+    "id": "053dee97b2904939911b",
+    "title": "Our Favorite GMT Watches, at a Range of Prices - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDUlY0dVNocDhucFAzVmNVUS1qaFI5TkpQZW9ZNFlPWW0ydDllTlZKaEJDQ1hIbHR6bW1wc1BNRGdhV3RtdzlIRlBqTXMzdE0ycnk3ME8yNEI5Y0dXVEkzSm1CSFh0d1F3dHFvVjdTaDFkeFpOOGtSY3Q4VWtHZw?oc=5",
+    "source": "The New York Times",
+    "category": "Tech News",
+    "published_at": "2026-11-27T16:34:23+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBDUlY0dVNocDhucFAzVmNVUS1qaFI5TkpQZW9ZNFlPWW0ydDllTlZKaEJDQ1hIbHR6bW1wc1BNRGdhV3RtdzlIRlBqTXMzdE0ycnk3ME8yNEI5Y0dXVEkzSm1CSFh0d1F3dHFvVjdTaDFkeFpOOGtSY3Q4VWtHZw?oc=5\" target=\"_blank\">Our Favorite GMT Watches, at a Range of Prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "d828921fc75e64fb77f7",
     "title": "Yooka-Laylee Developer Issues Statement On Why Definitive Edition Is Skipping Xbox - Pure Xbox",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUV5VndETUtKaFNwdGpseTFxM1pYa2Qzb0FQNGNfQkZvaENkb2hITGhhZHVnQjd1cWtUOWxzbkoyUjVNaEtCMk41QmlJaElLQXktWEdza2tQVTJ0bGhXMTBMbWdKZEE2SnRSdFlYaTNIT2lqYW5Eak9KdkNlcmY5bjAyb05CSVZVSi12UnNCTmFHQTczLXNjbGlJZ3ZoaG84dHdNTFVnZ29hQVJucGVZd2dyRDlLZ0VzRFk3Ng?oc=5",
@@ -797,6 +1687,26 @@
     "category": "Tech News",
     "published_at": "2026-11-27T16:32:00+00:00",
     "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQTUV5VndETUtKaFNwdGpseTFxM1pYa2Qzb0FQNGNfQkZvaENkb2hITGhhZHVnQjd1cWtUOWxzbkoyUjVNaEtCMk41QmlJaElLQXktWEdza2tQVTJ0bGhXMTBMbWdKZEE2SnRSdFlYaTNIT2lqYW5Eak9KdkNlcmY5bjAyb05CSVZVSi12UnNCTmFHQTczLXNjbGlJZ3ZoaG84dHdNTFVnZ29hQVJucGVZd2dyRDlLZ0VzRFk3Ng?oc=5\" target=\"_blank\">Yooka-Laylee Developer Issues Statement On Why Definitive Edition Is Skipping Xbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pure Xbox</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEFqb2RreWw2VU5PWEMwUGRBdV83eml6Y21kNVdDbnFGanRLZEtOVjh5ZXZra01FaFpTaGF6QXE1STlRcXFuMWxZcFpFZXVLOV9VSEo0ajIyQTNIM3RSb0I3ckdFR3ZGa0JQUTYxemFCTEwwVkFMZjRSVURpdXJnQkJFTEE3MDNWYkE?oc=5\" target=\"_blank\">Yooka-Laylee’s free upgrade is skipping Xbox</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3VnWHJuSDFaMTZ2b0EyblNmaF81TWtaYUh2ZjZsc2Njb2Y2RjlGWXRrV2o1VXVCdkpDY3JXMGVOYzBLZzFxbU5ubUFzRlg4eVFsVE5BdmJSU2c0bTZzdFliaGVmSUVvNS1ZM1QzdUFxTm1PVy1sT3Ixdm1nczVSYnlURFFqaW54cE54NmFRMUhZRHMwNFNUZ3dGRE1XYTFlVWtjUlB5RlZycGlDc2p5MUJEbXZGQ2dmdFA5eFpuNA?oc=5\" target=\"_blank\">Xbox Fans Make Their Feelings Known In Response To Yooka-Laylee Upgrade Announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pure Xbox</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTFl2M3dtZnVULW9uOXM2Zmw1UklHM2pzVGJjX0poejRLX3E2SlV0NnlhQ1g2UU9XLU9fWlZWWEhOaTJfazBNaHNGMTU0ajZ2OXRWRWlrSkN6YUptQzNUSjV2TGg0VTdpN3paWWVCOUU4TlYtdjFkMWZ3WU9ES01HVkwyelRSNjh3ci1kSFR6YTFVdFFnaV9fbUNSV1FsTlNmVW5wWlRzRU56b2wxNTZHYThNcUZpazdTM1JRVHpNRF9qSFVsN19sSTBiTkVRRWEwb0tWMnlUdEgtSWFCNEp6X0pLVDhKWW9V?oc=5\" target=\"_blank\">Playtonic says that it can't ship 'Yooka-Laylee' Definitive Edition on Xbox due to \"technical challenges and costs\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Windows Central</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnhSN2Q4VjBoam1naEZzOUZ2OHo3YlZBemEzU25ZUnZBN2FpRUFhSXNqWE1UMkJjWEI4NS1DVHpMbzB1RXhJdzd6VU92MjZfa25qM25VN2lOcWZQYjk3TnpnSzhjcFZFMVhSVk9rdl9qSDhaTnktdmswalFmSDktNmxHUGdtWGNuTzMySXJXQ1I?oc=5\" target=\"_blank\">Ambitious PS5 Adventure Game Gets 4K, 120 FPS Upgrade for Free</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "783ed4fe99723f857f9d",
+    "title": "Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield - Rock Paper Shotgun",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOXEyU3I2MjRlM0FXQjllR3RKVGhuTzFVc2hiazhVOGkxMWgwVmk2bUlSUkZqSTQyQ1JTMFNpWTRBVHk4Y0F2RE9aT21oclRQSEtyUjdqQkt6U0lCVzVYaEVoSmE1emdFbUlkckhRT280d1QzZUNTeWNKRmRRR3ZLV2xMQVJuNGtmMmFwN1U4ckdtRllMOHVKaldPVXFCbFBOWVZCcGZEX0pMYTBjX2t1bHB2QnpfdEVyZmREREVtWUVJRzlIRjVVbUVYZXZIVksxZldKN2YyeDJwSjdZMWItbTdkS0luOFdyWi1rand3dlJaUy1naTkzOGNvSm03NDZNV0YyUERpWkVaWmRJVC1ES2pteG9yODdOOWM1RHlfOA?oc=5",
+    "source": "Rock Paper Shotgun",
+    "category": "Tech News",
+    "published_at": "2026-11-27T16:31:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxQOXEyU3I2MjRlM0FXQjllR3RKVGhuTzFVc2hiazhVOGkxMWgwVmk2bUlSUkZqSTQyQ1JTMFNpWTRBVHk4Y0F2RE9aT21oclRQSEtyUjdqQkt6U0lCVzVYaEVoSmE1emdFbUlkckhRT280d1QzZUNTeWNKRmRRR3ZLV2xMQVJuNGtmMmFwN1U4ckdtRllMOHVKaldPVXFCbFBOWVZCcGZEX0pMYTBjX2t1bHB2QnpfdEVyZmREREVtWUVJRzlIRjVVbUVYZXZIVksxZldKN2YyeDJwSjdZMWItbTdkS0luOFdyWi1rand3dlJaUy1naTkzOGNvSm03NDZNV0YyUERpWkVaWmRJVC1ES2pteG9yODdOOWM1RHlfOA?oc=5\" target=\"_blank\">Warhammer 40,000: Dawn of War 4 gets a model painter demo, so you can make a mess of your Orks, Necrons, Space Marines and AdMech before they even hit the battlefield</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rock Paper Shotgun</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHV0M3p0cGJRYVRwcWExRXVLRDVPSS13RVhfVzVEZGh2Vm92cThOY2N3TWdSVDdNZmZVOTR6aWJrZkg2VlR0OEtVLXlNM05JNVRPNHRFaTlPZ2NPRjZJYVBoNURfY29GTUdueFJIQlFBRkpwb2hzeTNBeS1UU3JBRDBnbmtBNTBiUHk0SHN4OGRzLS1GdnhQWU5pcW5pQjZNcncw?oc=5\" target=\"_blank\">Show your true colours in Dawn of War IV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Warhammer Community</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNNmgzaGtrS0J1bFMzeFdRWHhtZjZOZ2l6X0RtUHdHX0g2OG5QZnMteEV5a0RfX1AtaExVODZvazQ2UktXQkVLaFJyandESmx5eUZiUkFfQjJJRmxWNktUVS1vdzEzaDg3WWxLbmFmeVdxc1lXdTNKOWNpZFh4U1lieWFpZm9DOGVaTGY4NkpKSTI4OGg2XzJpWEt1dVc0VFdhdGZVOEFfZkkzZWZpSHZpMkVoa1JRY2pRN2dMckxRU0R2bjZHaUtVdVRKVGdkXzJKM0k0LTdxaGROdGtMSTgxX0dzVVEzNjBmZ1lBNlB4cG9QTnVKSkNwV25abUFoVW5NLWJOZlBlQ1czTEdoUGF1YnBJdmR6NWNxSXdWMUI4dDBlWElYWHpWTERCVmNBMG1ZbFZF?oc=5\" target=\"_blank\">Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Gamer</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxObHhkNkFIa3JFYkhNUm1BYVdrRGNkNTlsbVBwa2ltdGxraG5nMU9KN1FGYW5CSXJINGthaS0xUXVHeGI3d1dFRUo3bXRvVXVEN1ZHRDRVNW1kY19JRk5TQlhSYi10X0dlTzEyLTRYN2NyUXdYN1FpVVNzY29MenpvS1RqeWZLRG8ycHFJaF9kSDhnZjJlYVZUS0dyTGV2ODBiTGVnU2JWMlBhdUlLaEs4SU8zdDNjbWMwQzBxNjBYQVQxaVU0aXh5TWdDRlVWdHBWZGRSWHZVLVBXZFU1dno4ZFVxYWdfd2c?oc=5\" target=\"_blank\">Warhammer 40,000: Dawn of War 4 Teases New Faction and Fan-Favorite Character</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdG1kMnFXeUc3RlJuT0Vhc3R2UDRJZVVSRFp0bGtRX0huVTlfaU5XQXNTYWtMcGZvaWtZY1lveWlXV0ZITHQwRjBQalFHNjFFYWlZdnA2eS1YbXE5bURXejRQcFlPTXZ2N09nMlIyMTQ4ZW5MOG5qUzJHQlA0UE42bnd5LTFqblF6UjJZTGxFN2x6TFNNc2Y3bEJUWjFJaXRsS01zOGNmSW9XdmM?oc=5\" target=\"_blank\">Dawn of War IV Campaign Choices Change Missions and Story Perspectives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Game News Plus</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "ff2794b073b90d3c04e7",
+    "title": "Mexican and Chinese Universities Expand AI and R&D Cooperation - Mexico Business News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT290TkpBVFR4bDR6SEJjSmxWam1WWTk4OFpaN0p3ZFBRdTJ6YlIwUW9FRTJzODJEamZjZjgzVDdnNmdBOGNGLS1iSlA1LVZxSEtQZUZkVlFXejdLaG81VFM3TC1kdnNxQm4tT0YwWVc2aHg4OGdGam5JQlE3Nlg1eE00eHRIa2t3Ul9xZ2hHaUdRVkwtTk1DTDlSbnpqdGN2NWd2V2VDUzk4R1k?oc=5",
+    "source": "Mexico Business News",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-27T16:28:06+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT290TkpBVFR4bDR6SEJjSmxWam1WWTk4OFpaN0p3ZFBRdTJ6YlIwUW9FRTJzODJEamZjZjgzVDdnNmdBOGNGLS1iSlA1LVZxSEtQZUZkVlFXejdLaG81VFM3TC1kdnNxQm4tT0YwWVc2aHg4OGdGam5JQlE3Nlg1eE00eHRIa2t3Ul9xZ2hHaUdRVkwtTk1DTDlSbnpqdGN2NWd2V2VDUzk4R1k?oc=5\" target=\"_blank\">Mexican and Chinese Universities Expand AI and R&amp;D Cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mexico Business News</font>",
     "status": "pending_review"
   },
   {
@@ -820,6 +1730,16 @@
     "status": "pending_review"
   },
   {
+    "id": "30db72aba0380ff73f1d",
+    "title": "All Randy's wish list car locations in GTA 6 - Polygon.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PM2hSR29Yckhrc3RXc1BmZG1obV9GQUx0OHdXVzMtSElvVk84NVBBazRYWjQxRWRSM0ZRTDdnRlBtX0FwRlhzNlZReTBvWF9VU1RzSTJyUTdoWEVhSVRJSUpzcjRoN1hDcmYwcnBOQmJSWXBXT0NPVkFTT1BTdw?oc=5",
+    "source": "Polygon.com",
+    "category": "Tech News",
+    "published_at": "2026-11-27T16:21:44+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1PM2hSR29Yckhrc3RXc1BmZG1obV9GQUx0OHdXVzMtSElvVk84NVBBazRYWjQxRWRSM0ZRTDdnRlBtX0FwRlhzNlZReTBvWF9VU1RzSTJyUTdoWEVhSVRJSUpzcjRoN1hDcmYwcnBOQmJSWXBXT0NPVkFTT1BTdw?oc=5\" target=\"_blank\">All Randy's wish list car locations in GTA 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Polygon.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlQtQUdEWTR2X09MYlBqcXdwY1JOUUhoU0puaS1hRk9aZ1EtYXUtZWJxT0dJaklWb2ZGTlc5QmZ2b0hicDdzYnB0VnFtaXZEaUoyX1NySXFMZnZVeWN6amJid0VITnZ3VlZkQ2MzY1Nrbko0UU1ZVU9Bdk9TZzNSczZZaGo3U2lkSTBXb21FakhpaWZFUkNCOEtyLXptMHZuenlrOQ?oc=5\" target=\"_blank\">Where to Find All of Randy’s Wishlist Supercars in GTA 6—Car Locations & Tips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Gaming</font></li><li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9FMm5LOUgyQVo2Zl9aX0pfTTlYM0lydVhTdF9wTDNLU2pQRFBwN2x5X2w2YzktRXFpSHdlc0pKd05DSkdXYnRteHFXVWVLa0drUTl0RndfUVhON0dPd3djNmY0UE1kNmY2My1WN01kR1h3Q05zLWFXNDd1Zw?oc=5\" target=\"_blank\">Where to find the Gallivanter Baller ST-D in GTA 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rock Paper Shotgun</font></li><li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBKZHhIMjdHRUhPUVB5N1BwTkthaUVjUW5FRlhnTVZvRnQ3VFZjRnRvQXpSZGF3dGpxbWlGOG5keW9KSTBiZjFKRy1fUmpVR05WLVpBa0ZrWU9LQ20tcENuRGt4TG9lMm83Y1ZyU19UVUlGb28yUmIw?oc=5\" target=\"_blank\">Where to Find the Pegassi Infernus in GTA 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GameTyrant</font></li><li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9Gd1YtSzJGbkh5SVlCYjFCMmJlMEpQSk5RUUZkSUYtekxELVB1QTVCSUJVRjhUZmRZT1ZONWFFVmJjRWhtc3FsSXhlUGEwT2tmOWc5QnRBbXU3TTlhallaV3N3WmZvWkZxVXA2NA?oc=5\" target=\"_blank\">Where To Find Granforma Tsunami Zorrusso In GTA 6—Fastest Cars Location & Stats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Gaming</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
     "id": "fa4d23a1aaff8dc35a2f",
     "title": "Flood-hit Nepal faces gap in climate solidarity after COP31 letdown - Climate Home News",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNjVVYmQ2ZDdGaDFTekZjdGRVOFJjanlyQUlXRV9jc1NSZi13LVk1VDlTTkhudjZyNjUwblMycWNaQk1nX3dlMGluSXhFcjRZY19xM0VVS0Vqa2ZwVU1pdm1PT3dodko4S3lEUDVZYnVTTUdWU2ZDVkxIenI3WUkwLXR6Y05la01pcmRPMHhhMzBHZUV4Um9yWExjM3VfUGpNUFMtSkw2cVk5ZEpPTWVuRnBLUGVCY1VGcTFKSA?oc=5",
@@ -837,6 +1757,16 @@
     "category": "Nepal News",
     "published_at": "2026-11-27T16:13:20+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbEtIOGhiR21VX25tNXV0YzhZUFFIbnFjRGZvZmtlRUpGWXBEek05RWs2WkFQMV9Jb0p2X1VrVWpEY0tjcC1CVlkybUdlS2o2bS13TWtWeDVyUkpIZzBmWEFXeUVnbFFmaXB4OGdWNF9CNmR3WHM1SVNxRHAyYU1RM0IxSkZfQlN2aDB4ZElLMVdrYU1VMGNVeHdrc0wwZw?oc=5\" target=\"_blank\">VAT on electricity tariff will be eased: Minister Shrestha</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "70995a508faa4e3f7194",
+    "title": "Finally, some promising Galaxy S27 Ultra news - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2M1blA3VXJfaDlwNzJtY0JSekQwdVlzVE4ydXdHRWRQeE54YlRsWmc1anJHX2ZucTZRSzNzb0RKNDhlVmFVNmJEb0pXOHNQWkZlOG9qVldTeDVqNTNhWm1tUlh3R1dkT2RUa0l1M3pKMTlsZ3pkLVcxRDFLY2hpRg?oc=5",
+    "source": "PhoneArena",
+    "category": "Tech News",
+    "published_at": "2026-11-27T16:11:26+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2M1blA3VXJfaDlwNzJtY0JSekQwdVlzVE4ydXdHRWRQeE54YlRsWmc1anJHX2ZucTZRSzNzb0RKNDhlVmFVNmJEb0pXOHNQWkZlOG9qVldTeDVqNTNhWm1tUlh3R1dkT2RUa0l1M3pKMTlsZ3pkLVcxRDFLY2hpRg?oc=5\" target=\"_blank\">Finally, some promising Galaxy S27 Ultra news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhoneArena</font></li><li><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXc3UFBuejF2TmhicmswR2FMV0lWYVZjeHlKWE1xVkZISDY4Zk1HdVo4M0xXVXlqbnFDaTN6VmNKd1FDdjNQQ0FrZnNya3V4eGF1T1ZzQlAyU1ZiR3JRUVpnLUlTdkNTa185WVBSaEtYNkNQRmhIQ2Rrb3RSRHRWMk1UbVlHVjA4LWphX19MTDBSa3ROSHZQbklqZzVST1JX?oc=5\" target=\"_blank\">Samsung Galaxy S27 Ultra’s bigger battery confirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Advisor</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOalppOUlDam1MNDY5NV9hVTdzakZoTGVoUFpHSDVlOG1Tc3hVSmZteVlQQTBNUGVoa3dsWEM1QU1QMUI3bGpMQk01dW1vQ2JhdTg3Wno3RDlYYW95VExYRlhzR2VSNUFTNUZUZkJZUjAtZFZMUDN2bDhrV0JjRTFkX05GQXVld2N4RmhpVXFHYWhjaVhrbnVLVDI4OE9mam9ROF9ielI0a0I4LUdXdHh5ZDYzS0gzUdIBsgFBVV95cUxPNW1La0hUQ09yekRTTzV0a2VkYXVKN0ZIZG1FVHh6bGcwSzR3Z3p0N2k0Y01RQ0tkN2pZOGRYeW5ILW9aVnFkSi16dG1RN2VQZEtfdEZ5VWNBczhSdVJqWk9KQjVuUmZJT2xKNTl2aXBXUVAxczk2My1BS2lJZHhGbDdhc2hEVE51ak9mYUJYbFUtQnRmcTczUDBuZ0V2ZV9acHZaM1JOZGlGQ0VtRzhtZEdR?oc=5\" target=\"_blank\">Galaxy S27 Ultra could lose another camera feature alongside 3x telephoto - GSMArena.com news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GSMArena.com</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSktPSnZTM1kwRXRmZ1hGR25UQjB4OFE4V3lGWmhTRnhkaGw0U2JWT0pmWXdRbDJqSDZiNk1xVzBDa21GZVNzcjZKSUhMM3huZU9YaGYtV0hzWDdHQU1MSTM3NGxCUzFFWEdfVWtlUzE4LW9pZnZxNkJxU2RndFpPVVpQQXdRSmpiSXRKbG83UWVlOUNBRlNQNm5Ecko0bUxZVTBZcHVxRWpyeG1jcDhYaGdtVklldw?oc=5\" target=\"_blank\">Galaxy S27 series cases and dummy units confirm design ahead of launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Notebookcheck</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOWmoxTC1MT3lHNG4td05vY05rblVzM0ZzWFgwb3hDYWs1enVXYmowY0FJZjVOc1hxNFNBNUs1dFhtbTlXMHhvM1BxYm5jVnhGZTVycERuU3c0TE8xQjJSU280OURlZ0J6TUVMWGhWSWxWQjRpYkpMb3lDSUkyWTU1aDZEalBxUQ?oc=5\" target=\"_blank\">CB certificate lists 60W wired charging for Galaxy S27 Ultra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -910,6 +1840,16 @@
     "status": "pending_review"
   },
   {
+    "id": "97e9598139167489b1af",
+    "title": "I Tried to Get Six Stars in GTA 6 With Just One Bullet and Broke the Game - IGN",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXM4UEg3SUVuQnRFWFk5OXByOHNjb29GcU1iMm9iSXpYU3JkUUtWcDA0R3psMTVZeV8yX0ZOeTY3Yk1NUllEYnlaZUl3Z2hNVHdUeW01ZkRBLWx1dHRGaVZ5dklpcDZMNFlMMHg4OURza0U4MGpycUxPem5fVk15Z1lzU2FfUUUwd0ttOVlfMFFGRzkyYlJvSy1QOVo5SnRkTzBEUA?oc=5",
+    "source": "IGN",
+    "category": "Tech News",
+    "published_at": "2026-11-27T16:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXM4UEg3SUVuQnRFWFk5OXByOHNjb29GcU1iMm9iSXpYU3JkUUtWcDA0R3psMTVZeV8yX0ZOeTY3Yk1NUllEYnlaZUl3Z2hNVHdUeW01ZkRBLWx1dHRGaVZ5dklpcDZMNFlMMHg4OURza0U4MGpycUxPem5fVk15Z1lzU2FfUUUwd0ttOVlfMFFGRzkyYlJvSy1QOVo5SnRkTzBEUA?oc=5\" target=\"_blank\">I Tried to Get Six Stars in GTA 6 With Just One Bullet and Broke the Game</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font><strong><a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k3cXVpMUVoRVRUQ1pEa2FKbE1TZ0FQAQ?hl=en-US&amp;gl=US&amp;ceid=US:en&amp;oc=5\" target=\"_blank\">See more headlines & perspectives on Google News</a></strong>",
+    "status": "pending_review"
+  },
+  {
     "id": "5ff16f08230c616724aa",
     "title": "November 27, 2026 - Nepalnews.com",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWM3VFVwUVRzelVONDFUWmkxcjMwWm9EazBvYTNCYlNPSzFWOGhKZVdYN2pMRE92TVhtNVZRdktoYlJVN0tuTXBMVm50MXJGNGZNVUs0cmFyQW1CX1lQdzlra0Z4bEk3R3UzRG94SVR1X1FwSTM0bm1YWHM2S0NYVHNXd1ZmWTNpSXVsN3RPbDdsSENtamJV?oc=5",
@@ -917,6 +1857,16 @@
     "category": "Nepal News",
     "published_at": "2026-11-27T15:58:16+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWM3VFVwUVRzelVONDFUWmkxcjMwWm9EazBvYTNCYlNPSzFWOGhKZVdYN2pMRE92TVhtNVZRdktoYlJVN0tuTXBMVm50MXJGNGZNVUs0cmFyQW1CX1lQdzlra0Z4bEk3R3UzRG94SVR1X1FwSTM0bm1YWHM2S0NYVHNXd1ZmWTNpSXVsN3RPbDdsSENtamJV?oc=5\" target=\"_blank\">November 27, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "e417043828c3ed2ebf09",
+    "title": "SpaceX wins US approval to launch one million AI satellites - The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3BRQ1dia2tPZjBlVFF5TG9YS0pEQmg1eXVlU3N2YzVXVHU1YThsckJ4V2JheGdvcExGdjRRUWdOZ3gzdEF5SFpYdHRXRTFONmlLWUx5Y24xTGdNa24yQlQ3VGNsVG1MV25Ra1VEVklvLU1JanZjYkZ3STdhZGNaT01JMTBHdw?oc=5",
+    "source": "The Jerusalem Post",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-27T15:57:44+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3BRQ1dia2tPZjBlVFF5TG9YS0pEQmg1eXVlU3N2YzVXVHU1YThsckJ4V2JheGdvcExGdjRRUWdOZ3gzdEF5SFpYdHRXRTFONmlLWUx5Y24xTGdNa24yQlQ3VGNsVG1MV25Ra1VEVklvLU1JanZjYkZ3STdhZGNaT01JMTBHdw?oc=5\" target=\"_blank\">SpaceX wins US approval to launch one million AI satellites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
     "status": "pending_review"
   },
   {
@@ -980,6 +1930,16 @@
     "status": "pending_review"
   },
   {
+    "id": "9e6976d3f3403f6c2d5a",
+    "title": "Amazon Has Restocked Loads of Pokémon Cards for Black Friday - IGN",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yVnBrTDFEbFpYankybUhtVkhqSkhobDE0V005Z1FPdEhjZDJfRFF4UDltYVpkT1hjNHJ3eVNtcnJlT3Q5M0o0a3VndEg1MUwyZlB1NmtTN2d6aWo0RFdlZUlGaXJEOEs3SVlPeXA5eXJSWEJlV2VGT1BhTVo4SEE?oc=5",
+    "source": "IGN",
+    "category": "Tech News",
+    "published_at": "2026-11-27T15:48:02+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5yVnBrTDFEbFpYankybUhtVkhqSkhobDE0V005Z1FPdEhjZDJfRFF4UDltYVpkT1hjNHJ3eVNtcnJlT3Q5M0o0a3VndEg1MUwyZlB1NmtTN2d6aWo0RFdlZUlGaXJEOEs3SVlPeXA5eXJSWEJlV2VGT1BhTVo4SEE?oc=5\" target=\"_blank\">Amazon Has Restocked Loads of Pokémon Cards for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9ncy1zenBaWlZVZkowYmpqM25WUEhrVGwwVnpTMFhWZGF3b3pPSzRwcDB5WEQxUmQ2aGdnYnJaOHluSE9Ec0FJYkJSX0NLMTFabFJCcVdHUEVqRUlmZ09neTNqeE5IdWNyVVd4TW1kZw?oc=5\" target=\"_blank\">The best Black Friday Pokémon deals: 30th Celebration, Delta Reign, and more on sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font></li><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQUdGSHh1dnl2RkNOb096UllyWW1fMkFnQ2pWOWM2eXZOb19pcFo1RWpJSkNET3E0Tkp2WDBONmN3ZWNYZWUzb2FySUotdmlvZk4xT0lZR2V1V2RBRU5Hd3RfelNBMjZ6bmdvMlpFdmpjaXZsZlBvOUJpaVFhTkpyYnBuMjM4WnpvX29Tc0ljQlNUanpXazZrZzRIamJWQQ?oc=5\" target=\"_blank\">This Official Deluxe Pokémon Guide Book Is a Super-Effective Gift — Now Cheaper Than Ever for Black Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOUlZCRjhWa2Y1MEY5ZHRKUEd2UGJiOU11T0VZaXRQRWxaM0pLQzI5U3lYczlCN0g0WHhLNklGemNHN3dUMmh1aVBSNTVCemFaRy1pLVpONE5NZGNnYkxXV0p4akFVdU9PbkJIa05mZ2NXNDVLNTJ3RFAyMmFQMjVXcldqWkdKTzFtNUpvZm1rNEZ5TVFjQkliZDFQT3hhY2Y2QlJ3Nk5CWkFyODg1VkxmbHFqSWN2Y3J2dkFxMExZOWQxVlJRT2J2VjBZdHRTT016Y2x3M1o0Rm5RSXE3am15Ri1ocW5DSUVzcWZwOE1fZ2c4cmFhSkZaQjNHeU5EOVBMaExJaE1mT19HbGNnbTRfYjg3TWNrQTBDaTdwdA?oc=5\" target=\"_blank\">I've been staring at the Gengar headset all year, and this Black Friday it's finally on sale alongside other fantastic Pokémon gaming accessories</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Gamer</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUpzNUs2cVZVbXM3WE1YQl92ekc3cUR1S2JyNFFZWEpkdzkxNDBrNVBfUk1lUFBDVVlBU19tVUlwQzJLMGlvazJlay1OX2tfU085blBvbkRieHNJTVZmbV9OLXo2dGx4UEprdkJRbmZBeHhKY0h2SHZZWnF2ZTZyN09WX1FMWkJDTUhLdDdSdi1SV1ZWdXJDNWlBWXZnU0FNTzNiRkw4X1hBNVoyNlpRWjloV1g?oc=5\" target=\"_blank\">Pokémon Black Friday sale: Battle Academy trading cards, LEGO, Switch games, and merch slashed at Amazon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GAMINGbible</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
     "id": "2169f4207a478a50aa7f",
     "title": "Best Egg data breach exposes 792K customers as Barclays reports separate cyber incident - Beinsure",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tclBmZDJNLUh3SDJNZzFDRXlUaW9JaXRHemdaQzhTRnBrUHBZd1VXS2NoUy1zVW43R0pFdE15R09zemNkLWhzNnFrUDA4eWJFMHdzVEZWaHllc1V2anlkbDdPVEJDcm85SGc5Qm5KaTFMU3BkR1FGVFRR?oc=5",
@@ -1020,6 +1980,16 @@
     "status": "pending_review"
   },
   {
+    "id": "4766750256c9a9f962c1",
+    "title": "UK–Nepal forum calls for tax treaty to boost investment - myRepublica",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWgyNFB4MWd2RGp6ckdsUGltWnZyS0J2anAxeklOcFB6akl1VHNZenhjT25PYjdUSENGeWZGcnVQZDdRTGdoQmUzeTFtdi1XVXhQamRSd1BucVhuN3lIQzBVMXNTSFQtd1Z1Q3JUUDY5c2d4MkxockxMa0ZKQXpPREFiWm5TbXZETlptUzl2Qm1LbzlDOVFfakJHREUzRHE1djdrT01TSFVfby1kT0ZR?oc=5",
+    "source": "myRepublica",
+    "category": "Nepal News",
+    "published_at": "2026-11-27T15:37:34+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWgyNFB4MWd2RGp6ckdsUGltWnZyS0J2anAxeklOcFB6akl1VHNZenhjT25PYjdUSENGeWZGcnVQZDdRTGdoQmUzeTFtdi1XVXhQamRSd1BucVhuN3lIQzBVMXNTSFQtd1Z1Q3JUUDY5c2d4MkxockxMa0ZKQXpPREFiWm5TbXZETlptUzl2Qm1LbzlDOVFfakJHREUzRHE1djdrT01TSFVfby1kT0ZR?oc=5\" target=\"_blank\">UK–Nepal forum calls for tax treaty to boost investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">myRepublica</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "aedb457eb4ae36178922",
     "title": "100K users’ data accessed in myColorado digital ID app cybersecurity breach - The Denver Post",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOE50NXp4UUQ4UFBpbWtCeklRMVEyZG9sSkFPYmtzQnVrVzVYY094aGxYOHR4NnlUbXAzSVl2NDROX1ZsT3ZYNUJQNFRiX1d6dXRMMkVTcWhqMjVha3V2eDV3Y3dfQ0tjNXZMeFhBMGdiU2VoU1RHZERuY1RqTVlHWWhhOEc1QnRHU0E?oc=5",
@@ -1050,6 +2020,16 @@
     "status": "pending_review"
   },
   {
+    "id": "1ef83ce84810b4c7d6c4",
+    "title": "Makeshift raft, propane tanks and stolen items found at Tri-State creek - WKRC",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSFc5VzdoVl9LanZSb1E4eWRjV3hfQmRxX01OdThIMFA0WDB0VVo1YzIxZ2tERzdIaFVSVkxzeThJcE41b21GbWhNSUQ1QlhySHROcUJyY0M0MGItS0s0cTU0TjRGZUlJZFhfR01pZEliQkU0TE5FNC1tVEVKNVVJXzdsUFJPRW9vcjNjSzFWWGNLbm5VSXd5RkRaSTVvTmtxUVhHTWd3OHpUbkc0djRwcDcwamdXQjh0ZUJBS08xdl9pOEludGlvWVhIbUhlUF9pYllaRTVFaEtmaWJ5Zkl2OG43Z3VJdW1NZ19uLVdvNHNqYThjdm1RdHBZMnFtNTNSMFp2MHZDdll2VG9w?oc=5",
+    "source": "WKRC",
+    "category": "Tech News",
+    "published_at": "2026-11-27T15:12:26+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNSFc5VzdoVl9LanZSb1E4eWRjV3hfQmRxX01OdThIMFA0WDB0VVo1YzIxZ2tERzdIaFVSVkxzeThJcE41b21GbWhNSUQ1QlhySHROcUJyY0M0MGItS0s0cTU0TjRGZUlJZFhfR01pZEliQkU0TE5FNC1tVEVKNVVJXzdsUFJPRW9vcjNjSzFWWGNLbm5VSXd5RkRaSTVvTmtxUVhHTWd3OHpUbkc0djRwcDcwamdXQjh0ZUJBS08xdl9pOEludGlvWVhIbUhlUF9pYllaRTVFaEtmaWJ5Zkl2OG43Z3VJdW1NZ19uLVdvNHNqYThjdm1RdHBZMnFtNTNSMFp2MHZDdll2VG9w?oc=5\" target=\"_blank\">Makeshift raft, propane tanks and stolen items found at Tri-State creek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRC</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "a085424f6ae764e63da4",
     "title": "Artificial intelligence will redefine tourism distribution and the relationship with travelers by 2027 - Travel2Latam",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYkY3Z2xxdC1ZdlQ4NnJuNGdGQzFNTndNSXNSZHVlekVuZVMwZXdMMDk3Y2xId3otbjRtM3gwYlhsTTFHZVg3UEpIME4ydjBqTUxhcWRmOVRJZkQ5d2tuaTdqZUw3TndVbTN1V214UUdLNDJQb2lJaGdqM2drNXlaaTJqU0dWY1ZleXBiSW9DVlNOdk1ob1BDcDN6cmlNLXhKNlhKRjUtM21HV2ZPcTFSNE5HMXlRTTJsY2F3bFJsZl9sRFZBdDZLSk96MlJnX3JjZnBGeVp5TlB2NXE5X2lSNA?oc=5",
@@ -1057,6 +2037,16 @@
     "category": "AI & Innovation",
     "published_at": "2026-11-27T15:05:34+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYkY3Z2xxdC1ZdlQ4NnJuNGdGQzFNTndNSXNSZHVlekVuZVMwZXdMMDk3Y2xId3otbjRtM3gwYlhsTTFHZVg3UEpIME4ydjBqTUxhcWRmOVRJZkQ5d2tuaTdqZUw3TndVbTN1V214UUdLNDJQb2lJaGdqM2drNXlaaTJqU0dWY1ZleXBiSW9DVlNOdk1ob1BDcDN6cmlNLXhKNlhKRjUtM21HV2ZPcTFSNE5HMXlRTTJsY2F3bFJsZl9sRFZBdDZLSk96MlJnX3JjZnBGeVp5TlB2NXE5X2lSNA?oc=5\" target=\"_blank\">Artificial intelligence will redefine tourism distribution and the relationship with travelers by 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel2Latam</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "1def9abdbd69ae74e993",
+    "title": "A gadget straight out of a James Bond film: Tiny tooth-mounted sensor recognizes silent speech - Tech Xplore",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByX2dETTR5V3pCenpSRlRrb09HN2xaMzVtNkx3d3g3SmhMOEVZVjNRX012b3Q3LV94VTFtXzhzcWlmY1ZySnk4MUFSRzdiS2ttcnZrbWpqMVlxREZXWE9pWG5RdzVPcTFtcU81RGQ1c045N2oxdzBlWS1GcXo?oc=5",
+    "source": "Tech Xplore",
+    "category": "Tech News",
+    "published_at": "2026-11-27T15:00:10+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFByX2dETTR5V3pCenpSRlRrb09HN2xaMzVtNkx3d3g3SmhMOEVZVjNRX012b3Q3LV94VTFtXzhzcWlmY1ZySnk4MUFSRzdiS2ttcnZrbWpqMVlxREZXWE9pWG5RdzVPcTFtcU81RGQ1c045N2oxdzBlWS1GcXo?oc=5\" target=\"_blank\">A gadget straight out of a James Bond film: Tiny tooth-mounted sensor recognizes silent speech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Xplore</font></li><li><a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE01YlFlUkdfcWtPcWFLZ18ybEhGTjNCV0NGZ3gwTWZQbzNEcXcxcGhabUdHMk85R3R5NW00dFdfQWVoWTFyZkVCeDZ0S21UaVZIakdySkFGWVZ5eDhzQ21IU21IVEVuWnVTOXB6d1ZEeVNLUEZKX3ozZw?oc=5\" target=\"_blank\">Scientists invent gadget that lets you talk to AI silently</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM0dKTDRqclFKTlFRNGF3eHBrMm5IU3BQWGtYMnlXZjg5MndOY1d4Wm5sVnF1Y2hMOWg4ZVphVkxwckVLaEhqUm9Eb3VaMmdrVHE2ZzNpaGRRT2ZzVXNteWpSbVU3NWlUSk9rS3g2anpvY3pLMURNS1U3TVpwX05KOG9ONTVXREtmM1QybVo1UExMSUtTemZTQl9DYWwta0RCX3BJUWRUX2tBZkJpZWxQd2hCcmFjc05mQUFhT05kbzJmSVczR0hBSnpzTnduaXF5V0xTbDk4Y050UW0yWDNxYzN3?oc=5\" target=\"_blank\">Will future generations shove earbuds into their mouths to avoid the embarrassment of visibly talking to AI?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Verge</font></li><li><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQURNRld6bTBBVk1tZ0Zjald3ZWdYdXhTRHhPM28wa25MTGZMcmExLWFGeFZmRTBIeURUVDZVc1ZVdFRoa1ZUdlRmMEdGU2hMamFIUW9mLVEwNk9EMG5QcklXUV82a05feTJpSnE0TVFPRDdVVnU3ZGJqMVJpUWpZOHpXNFVFUQ?oc=5\" target=\"_blank\">ETH Zurich InvisiSpeech: 1 Tooth Sensor Reads Silent Speech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">shattered.io</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFNRRGxhV1dQQjFaaEl3WU5rSzFHcXh3OThTcGxfWVVNdTR1V3lNUV95dTVGSkRQYmh6ZFc0eGh3c011NTFvNDlOb0NsQ003aTk3SGlEZXNabG5yQXQyVzFlSXVIUzBFRUVpTlNMYmFvUk5CbkplbXhFamk3Z2hmNzlKSW9CQzdwYTBOcXpCWVNDQjRhc0FtNEJFY0s2b2NORURmTE9qNA?oc=5\" target=\"_blank\">A gadget straight out of a James Bond film</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETH Zürich</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -1300,6 +2290,16 @@
     "status": "pending_review"
   },
   {
+    "id": "042e75937134d58a45ac",
+    "title": "Poll: How Many Hours Have You Put Into GTA 6 So Far? - Pure Xbox",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU16VUd4Vk5NZzhqUG9PWC1CRkRHUEFyeGVrMDFCRDlsYkpSOERyRDNmZXJXaFRSc0k0OUExOGttVHpIRFUzM3dlZHZmbUlnTXRoeWJWdldPdVZLbDZwWkhIaG9xS3habkpaZm1xSkwxMm4xWEYweFpwa2pHdnNPLTF3T1Q2VkNSZjNxag?oc=5",
+    "source": "Pure Xbox",
+    "category": "Tech News",
+    "published_at": "2026-11-27T14:05:36+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU16VUd4Vk5NZzhqUG9PWC1CRkRHUEFyeGVrMDFCRDlsYkpSOERyRDNmZXJXaFRSc0k0OUExOGttVHpIRFUzM3dlZHZmbUlnTXRoeWJWdldPdVZLbDZwWkhIaG9xS3habkpaZm1xSkwxMm4xWEYweFpwa2pHdnNPLTF3T1Q2VkNSZjNxag?oc=5\" target=\"_blank\">Poll: How Many Hours Have You Put Into GTA 6 So Far?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pure Xbox</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVDhleUtURlBDdDFBTnFsY1BsV3RPWVlmc0tTNTVwVkQxbjl3N2xPbmxTRWFEUWZlNmJRWV9uVk9udW5XR1BZSVRtVEcxR0Y3SzgwUzlWSXNQakwzb0haQnczU2k5VXFzNHc?oc=5\" target=\"_blank\">GTA 6: All 35 requirements to unlock the ‘A Long Road’ trophy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Red Bull</font></li><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE95UWtrQkppWUxhM3gwT1VpSWhaem5hbkRISjgtRG5Sbmk3T0ttWFpXRk14QllkLUVaMkVFMG82NFRJdzZTUlhIT29HT2lCeFFwZHQwNWd4UUxCVnI3WklwYXkteGxXdUUwYk9IX2ZlREJheEk?oc=5\" target=\"_blank\">GTA 6 Chapter 1 Mission List - Every Mission in GTA 6 Chapter 1 in Order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insider Gaming</font></li><li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBLTE52VmlLZmp3Zk1iVzFPcVdWUXZJMGxXQUY0SFpxYWZOTDN1cExoWFJrYmpqQUxMbnRnd0dWRXRVX190MVZWUVlGWUNUaFgxb1l0TXJwU2ZuV0I1YV8zZUFUb2RLbVNiRzQ2Ynd3T3c?oc=5\" target=\"_blank\">Chapter 5 Walkthrough and Guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IGN</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJdWNLMElnR20tUU8zZDRwLTBxUFZYcmtJTG5JcXplMTUwTnhlUm9JblhDT3RXOXBUWThMU01iN0dDZDBYbElWeEIxeU1Td3JubUhyNGdqczVzNlVaaVdBQXo0X2FtRFU?oc=5\" target=\"_blank\">GTA 6 Reveals Seven Final Chapter Missions and Completion Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Demokratis.co.id</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
     "id": "299d50fa145c295afc5a",
     "title": "Cabinet backs AI drive to boost economic growth and service delivery - South African Government News Agency",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXBsbXFkUkhaVFFER2dIR3drR2p1WW1EX2ctOFRENVNFNEJ1ZjFLMktUR1FrMllOWHNfVTVaWG9IUjRXVUNVQmVKa29hbjBzbU83VF9uSWI0dU0tdThWaE9vVnp3NjhPVXpEdUZqNl9VeUpSOXNCMHdITnNxYUZmbmNCN1ZkZmxnYm9lSWZnRDk5NFNEQWVkZWZPdFFBNG83YU9MdWNKTQ?oc=5",
@@ -1330,6 +2330,16 @@
     "status": "pending_review"
   },
   {
+    "id": "12f365891b169e5481b2",
+    "title": "Fact check: Viral video of China's glass-roof examination surveillance system is AI-generated - The Express Tribune",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0dURF9BTzJZaEZjSjRHeWJHb2dfZ2IyUzlkd25xZ2FFSTc1ZUl5el93YTlfOUdRVy1DRmJ3a3dSSWN4bzZBUjFzT3BBT3lFWGNVeEJORGNvbWYxS2xEUjI3UEpKSllIdHZOQ1ZZWWUtaEx6bDUtaFBnQmN3M0toOTIyQU5SVXJ3cHJPME90UjYxZndkQ0FNYUs1elQ5S3JqQnBZa0Y1SVk5M3l0Z1NHOHNsNVlFR1AzRDVSTDBJa1VKTzMweEhZ0gHPAUFVX3lxTE5hN1UwOUJCSF94RUllWHRUR3pqLWdSejJ0WTdYUnFVZ1VEOXhNVFRRdlQ3bjl6eHBGb1dGdGh6bkJBRk9pVHJJZzFqME5aNHRidDVRTzVMWUFBMGx2T0FyT3BJajNRTFpZdUEzV3FpUlc1RjZ3VlZ1NUstcEZxSjFXeEZkNUZtRTJucFJ1YmZXN2syWEtMNFVmdHlaT1Uxc18yTlRjZkltRHFJZ2ZhVEpETkJvQ1pwREprNzAxVGZJOFp4ZEpTb2p0RGR2d1NZaw?oc=5",
+    "source": "The Express Tribune",
+    "category": "Fact Check",
+    "published_at": "2026-11-27T14:00:22+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0dURF9BTzJZaEZjSjRHeWJHb2dfZ2IyUzlkd25xZ2FFSTc1ZUl5el93YTlfOUdRVy1DRmJ3a3dSSWN4bzZBUjFzT3BBT3lFWGNVeEJORGNvbWYxS2xEUjI3UEpKSllIdHZOQ1ZZWWUtaEx6bDUtaFBnQmN3M0toOTIyQU5SVXJ3cHJPME90UjYxZndkQ0FNYUs1elQ5S3JqQnBZa0Y1SVk5M3l0Z1NHOHNsNVlFR1AzRDVSTDBJa1VKTzMweEhZ0gHPAUFVX3lxTE5hN1UwOUJCSF94RUllWHRUR3pqLWdSejJ0WTdYUnFVZ1VEOXhNVFRRdlQ3bjl6eHBGb1dGdGh6bkJBRk9pVHJJZzFqME5aNHRidDVRTzVMWUFBMGx2T0FyT3BJajNRTFpZdUEzV3FpUlc1RjZ3VlZ1NUstcEZxSjFXeEZkNUZtRTJucFJ1YmZXN2syWEtMNFVmdHlaT1Uxc18yTlRjZkltRHFJZ2ZhVEpETkJvQ1pwREprNzAxVGZJOFp4ZEpTb2p0RGR2d1NZaw?oc=5\" target=\"_blank\">Fact check: Viral video of China's glass-roof examination surveillance system is AI-generated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "f815223cdf77d00b77d5",
     "title": "How to use AI to simplify your holiday shopping - USA Today",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHRSZVlxOTdMQ0I5dWNqVE44anp2enJTOVJObzNWYVhpSWV4MnBqWFB4UEFQMTZKOTVvdzdEeXhOX2JVTkQ2MFozbUdXYnpmX2kzdnNDRThwaEduamkwUXVzT1dJaGJzdjBPZ0Y4WEROYmxoQlpfR1ZzV3hMdk1EcHdzWjF1eDFwUUpPWUxIZjJSTW5jLW9yTms4MUFCWXc?oc=5",
@@ -1357,6 +2367,16 @@
     "category": "Cybersecurity",
     "published_at": "2026-11-27T13:54:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ha3BtODQzNVVMZWM5aFozOW4xM0kyWEc4a3U0c0IzUGI5bnZnRVlqT1NJTkNKQUxqd3B3RmRpVDAxVE00eGd1Q00wSzVaZGR1elVab0hqVXhybHdTTjdYTjNwb3prNmNSMVh2SF9WOHZkdEVvZS1J0gF8QVVfeXFMTnNac3FZYmJONEVXWk1OLWxlQ3l3Zld1anNGakd3bEh6YmRuMVJ1Y2JnSTBUbE8wbG16OG5GY3UteWhQQzA1dE9UVXRSMjZ5aG41ME5tZWZPSVl0d2ZRRThGTHZFVTgzNE9CanY2Zzl6Y2FyVWY1eFlYN1NucA?oc=5\" target=\"_blank\">Hackers break into US Air Force cloud computing platform: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "2a672dd9dce4b18596d2",
+    "title": "Nepal Football League announces 10 teams for inaugural season - Deshsanchar",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmlfN0p3cUFjU1BYUktVd0RjNjAxNS1WTjkyWDl5eDdEN2xPZ2xwVUd5U0ZkdkllelNMRFNjTzJRTWlIcmlfeW5mMXBYTG4tc2MzMzNKWHBpenJHT0hLamlOUVRBX0lucThZaW9NQllWVjFLdlBUYUFyY3lKRHBrYXducGlSS2xaZWVFYVNqYlloa0QtRkdJaXBn?oc=5",
+    "source": "Deshsanchar",
+    "category": "Nepal News",
+    "published_at": "2026-11-27T13:51:45+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmlfN0p3cUFjU1BYUktVd0RjNjAxNS1WTjkyWDl5eDdEN2xPZ2xwVUd5U0ZkdkllelNMRFNjTzJRTWlIcmlfeW5mMXBYTG4tc2MzMzNKWHBpenJHT0hLamlOUVRBX0lucThZaW9NQllWVjFLdlBUYUFyY3lKRHBrYXducGlSS2xaZWVFYVNqYlloa0QtRkdJaXBn?oc=5\" target=\"_blank\">Nepal Football League announces 10 teams for inaugural season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deshsanchar</font>",
     "status": "pending_review"
   },
   {
@@ -2090,6 +3110,16 @@
     "status": "pending_review"
   },
   {
+    "id": "169ab4d976719cdf5eb6",
+    "title": "SAP confirms security incident after suspicious GitHub activity - BleepingComputer",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdU5QZWI5LVRNSTNpdWltR3o4RHBocUxzUTJoanM4UDE5RnR4WWNDNkJqM21hMWtFd1YyMWVVRnVsS3RlSWdtWWFsdVhlenBpaUtZd0YxWVJGWTdUQkE0TWo3aDU5LXpGajdkY1VlekxaVWloYlhqUjlKdXo4azRKWkNHWUh5a0ZrUGdRcXlIWWtlSnNkVWJ2c2RmWVMzS2llQy1KYzJJWHc1elZhQmRWRA?oc=5",
+    "source": "BleepingComputer",
+    "category": "Cybersecurity",
+    "published_at": "2026-11-27T09:56:36+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdU5QZWI5LVRNSTNpdWltR3o4RHBocUxzUTJoanM4UDE5RnR4WWNDNkJqM21hMWtFd1YyMWVVRnVsS3RlSWdtWWFsdVhlenBpaUtZd0YxWVJGWTdUQkE0TWo3aDU5LXpGajdkY1VlekxaVWloYlhqUjlKdXo4azRKWkNHWUh5a0ZrUGdRcXlIWWtlSnNkVWJ2c2RmWVMzS2llQy1KYzJJWHc1elZhQmRWRA?oc=5\" target=\"_blank\">SAP confirms security incident after suspicious GitHub activity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BleepingComputer</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "3d01da67cb776ce6999d",
     "title": "Best photos of November 27: Pilgrims in Nepal to high-energy event in Abu Dhabi - The National",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEh0VGM0TDlvTmdCLUF2bWF4ZE9Ka2FneEZESHN3ZDBOQlo2d3BfeDZLVE9RblQyYkYxQWZtMlZHbmxxaS0waTdiN1ZDeTJKZWh5bUdEN2U3b2UwZ0FHLVNleko1LTYtdzRBeF83MUNzejBYUDd6UnBEMXJCcEJ1aEk2dDZYdjBLYVdaRTJGTkNlaVhiMGEtZEpTT2dyd1ZqVnIzNlNKYURlTGh3T2JVRXpCbWlzTEliazVOcUZ4YjZQdXEwQlE?oc=5",
@@ -2107,6 +3137,16 @@
     "category": "Tech News",
     "published_at": "2026-11-27T09:49:44+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWjhzZ2plUmJGbUI1akJBTjZwQURBMmtGU2dTNFBteHphUHlTaXBiZUZlRWpxY0xReUs4VlFRbXZvSzhmNTJuMGtKUkcyMVVMakVDNzN4ZHlFZXRrRFlabHBqaUV4YnlhNjBQMXBsc01MakFsUTR0TXpEX1ZUYkg2Y1V1UEw4c2o0ckZiWTZQZVdHbnV3VkhyTDZfZ1JXd3pUYldRY2xOd0tvNVZkd0dzUWVic1kwcVJzYTRKV3JxY0RoaDg?oc=5\" target=\"_blank\">Pokémon News This Week: Free Snom Ornament, Regulations M-D, Duolingo Collaboration, and More</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pokémon GO Hub</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "f4215ce85be2180ace3e",
+    "title": "Fact Check: AI Watermarks In Pictures Of Trump, Natalie Harp On 'Intimate Thanksgiving Getaway' On Golf Course - Lead Stories",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZV9jbWlfM3dtc0hrTjJFUzFzU1pVNUxjRzdwbTJyTUxENU13S21PemttZ0htaTQ1eFpyT1pVc29hSDVleGd2OUFnWVpaSTdTQW1mdlA1UGlaNTRVVHUwY0V1M0NjOHZpV1M1bWJ1VGc4b3ZMME9qaWRNXzBraUFxQTk5N1lpeHlwVVd6U3FIczVFdDBKSEZfeGxPNDFiSzdpQlhHMGNGQmZrWUpFQVp5eFRyTm1zMkhaU2NVY0I5Ung2ZmdlVldUcGVkQnFhOGRUeTU2UEp2QnBVNjNZY243Zy13?oc=5",
+    "source": "Lead Stories",
+    "category": "Fact Check",
+    "published_at": "2026-11-27T09:41:14+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZV9jbWlfM3dtc0hrTjJFUzFzU1pVNUxjRzdwbTJyTUxENU13S21PemttZ0htaTQ1eFpyT1pVc29hSDVleGd2OUFnWVpaSTdTQW1mdlA1UGlaNTRVVHUwY0V1M0NjOHZpV1M1bWJ1VGc4b3ZMME9qaWRNXzBraUFxQTk5N1lpeHlwVVd6U3FIczVFdDBKSEZfeGxPNDFiSzdpQlhHMGNGQmZrWUpFQVp5eFRyTm1zMkhaU2NVY0I5Ung2ZmdlVldUcGVkQnFhOGRUeTU2UEp2QnBVNjNZY243Zy13?oc=5\" target=\"_blank\">Fact Check: AI Watermarks In Pictures Of Trump, Natalie Harp On 'Intimate Thanksgiving Getaway' On Golf Course</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lead Stories</font>",
     "status": "pending_review"
   },
   {
@@ -2507,6 +3547,16 @@
     "category": "AI & Innovation",
     "published_at": "2026-11-27T07:02:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFA1anhoQ3dQN0pLOGhrVXRsUlFZX21wcFowbFRLeXFIaHdRZWdHYUFhcnV6TzFPWGo2bWJHRGxXV1dXMVdPcU9YbkhJbGVzTGNLcThsV1Nhdmk3SWlfS1RtTW9LQ3poYlhyTjNTRHU4ZUl4MlFGV1Nmd1dMZHptZw?oc=5\" target=\"_blank\">Take AI to the ‘kampung’ and SMEs, ex-central banker Andrew Sheng tells Malaysia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "b3b09d1f203c71fe7cf7",
+    "title": "Sony launches its new Walkman series, with a price tag of up to ¥655,000 - The Japan Times",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjNUMkxmTldsN2xUZVZiendTUXdCRmRfQk5ra1NITWY1T3VCaWtYZklRclVBUG54cjFVWGRCUzYyQ2h2RjdUbFNoWUpGWjRLOXl4ajFqM2thV19WZmdfQVlkQW1vMTVybkJPZ2c2THpPUmE2ci1Lb3RUWHBGVzBrTUV3?oc=5",
+    "source": "The Japan Times",
+    "category": "Tech News",
+    "published_at": "2026-11-27T07:01:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjNUMkxmTldsN2xUZVZiendTUXdCRmRfQk5ra1NITWY1T3VCaWtYZklRclVBUG54cjFVWGRCUzYyQ2h2RjdUbFNoWUpGWjRLOXl4ajFqM2thV19WZmdfQVlkQW1vMTVybkJPZ2c2THpPUmE2ci1Lb3RUWHBGVzBrTUV3?oc=5\" target=\"_blank\">Sony launches its new Walkman series, with a price tag of up to ¥655,000</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Rb0FEQ1dhbjVKN3Jadld0RndvRmgtaFBZU1hrU0ZmUkNfS0xlT2FadVRoQmxrOWh1M1RwdjNiQmFKNXRNSjZHcElHWEhOMUtvQkk3a3N3?oc=5\" target=\"_blank\">Sony to launch premium Walkman for audiophiles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE52d3o4dXRwT19sZW5lUWFZbVBmRnByOXpPczZ4dkVlaDh5eEcwOHZKRFdLUUlLRHhBSEQybmhZY3pzeGNNTXdTeHEwVzlaUGJfR0cxcDZKcHlyQ2NTZUo5VmhlbDVKSFVnNFVpOHo0eUIxWW5zOGFFcnhzVWtndw?oc=5\" target=\"_blank\">Why Sony’s new Walkmans cost thousands of dollars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mezha.net</font></li><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3Z1RFk5UkxReE92NnowN2dhTF94YWpvRUIzNENCbFhqeVJkSUJXeURFMGsyX2szUDg4REdjRU1fYnlFLTVlMUpCNXUtUWVtWlFpckJKWks3UzRadHlFX04zQm9VNnhkTUJLV1dvUVJ4dUVhOWs3N2daQmwtZ1hjQkVlQ09Ed3FDSlhCYjlwNjY?oc=5\" target=\"_blank\">Sony’s Most Expensive Walkman Ever Bets on Converting Lossless Music to DSD to Make It Sound More Analog</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Headphonesty</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV0d2ZkVTQ0M0eGhYcGczaWNxR2pKTXlYY1h0dmUya20xX0NJVjktT2pjb0RDVmVvSFBaMWpZX1VvN201WHEtY21vakpRX2ZmcTBqQkIwdkduRkZ1eEZsLU51STRSYkVyUWxHNWI0QjkzTjZWWFdIOGxSMWo5RFZGTy1FdnpFd3V0RllBUnlTNGZWNXRRcTRGRE1nSUpEVktORnROYnQwRmlBWDhZWmlSZGZwTDN5MGJWUlJMSGFydGhXb08wY085NE43WE5YY2dkX1h2VC1pdmdlcnJEdUFtWUx0bw?oc=5\" target=\"_blank\">Sony Walkman WM1ZM3 Launches in Japan Friday: Copper Sound Claims Unverified, Streams Get DSD Audio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -3517,6 +4567,16 @@
     "category": "Cybersecurity",
     "published_at": "2026-11-26T23:10:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1wNV9qejF3bWdVdHNRQ1I2Q3E5MEpwNFVlT3lPNGFOZjR1M3pRX3pDNV9aMXJzbERLVHQ1TVdMQXJWTzJTdVRDaF9LZW5NcjM0bDdKTlJodTRyUERpU1VBeFpLbUJtY3oyZEtqUFRldFlWenp2cnRCNDBOck4xbXPSAZMBQVVfeXFMT1cxV1lRVFZBUXh0VmJKT2pYZ244MGlTU2JscDNBbnh6b2dldHV3OTFKWW0yQ1d5YjZhc3hRVklfMWdzUlNLdjg2NWJYLWI2VWJoc01kUUl2VVE4VGxBMUdnTm1EaHN1ZVVoRzRhUGZJUTNxSGFRWEJHbTgtbDRla1J5a1M2MjlJNFFpRl9ORnZIZi1N?oc=5\" target=\"_blank\">FIFA confirms cyberattack and cooperates with authorities after data breach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "4f123d03d9a8b973537d",
+    "title": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+    "source": "BBC",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-26T23:08:12+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5\" target=\"_blank\">Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
     "status": "pending_review"
   },
   {
@@ -6420,6 +7480,16 @@
     "status": "pending_review"
   },
   {
+    "id": "44f98dd782fb843fde08",
+    "title": "Nepal eyes connectivity boost through India’s satellite link - Daily Sun",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaF8yT2hOMGJobGFMN041eFFQeERsT1ZTcWlGektWYWw2UFlHRWxhM3dxS2ZjU2REd2ZaNWVWN18wZkhFNWdnLTY3WGJmaUltcHJVX0toQ3d2ZHBnV0VISHBvVGJPSmdkWVlISjZIZFVjUU5BUGtfSThKUmZ2a3lQZk4tQTJKa0ljbWVsTF81bUlmbXdZYU95dm1MZ2NGcXVu?oc=5",
+    "source": "Daily Sun",
+    "category": "Nepal Technology",
+    "published_at": "2026-11-26T07:44:47+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaF8yT2hOMGJobGFMN041eFFQeERsT1ZTcWlGektWYWw2UFlHRWxhM3dxS2ZjU2REd2ZaNWVWN18wZkhFNWdnLTY3WGJmaUltcHJVX0toQ3d2ZHBnV0VISHBvVGJPSmdkWVlISjZIZFVjUU5BUGtfSThKUmZ2a3lQZk4tQTJKa0ljbWVsTF81bUlmbXdZYU95dm1MZ2NGcXVu?oc=5\" target=\"_blank\">Nepal eyes connectivity boost through India’s satellite link</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Sun</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "761388b44cd477108e76",
     "title": "Nepal teacher's dance with students to Hindi song 'Dilruba Dilnasheen' wins hearts online, lyricist react - The Times of India",
     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSmNINjZwenFBY2J1MEJtV3lWTUViOHpTaHU3ZDdqWWZ1Nk9ldjRNT0xwY3ZyMThPTUk2dzlWRFk1NWg3djZwYjJDaHc4LV9TZDZDb05XRnV3RHJBNkdvS3Rta29GUjFYdzVNZG4zaWpHLXV3R0xmZGI4a2Ryd1dPMXBrRzNpckJXM0FKX3JfNjhweWlTSm44TURpU2JzVEFZWTBHMTBqVlRNMDdoRjlYZ21oZ3hYZkhrZmN1MlhXeWJLYlQ4b1NNaHV6NHczSjdNQXp1dEUtMWcwX0dkb2lsZnFnQmdyVHBBWWxpcGo0WDNLYjFOVnRMem5RcFE2a2hXVEV0TlZ6QV83OU9H0gGSAkFVX3lxTFBXM3R5c2pNVUlPTVQ1TWFla0QtOEg2VHJ4ZnFjYURFZkRJanFiWmYzVDkxbWZ6SC1zcWxvOERrUHhxV0JFSE5EZVEzQ0p1MjZEV0hIa1FBSS1JN2lvd2tTWEl0bnQyQlV0NmdfZ0xrSFpYY09DVTUtNGNyYy15VktQR0xqQV9iNk1HSXh3c2NLeU00czE3UW9kakNfdTVRLU5ZS1lQQWl1M1J2WDFmc2g0X2Jmb0tDTUl6LWJWVV81S2Y3V0V1aVU3T0lqNUM4TjlOWDNGS3NOOHJxRGVaaTBaMVlrWlVhcGE0MTZpaHFWb0VkVFNyZk9tVjJVTEZwQTlIVzVtVGVQZVkwbl9IZTI5UXc?oc=5",
@@ -7677,6 +8747,16 @@
     "category": "Tech News",
     "published_at": "2026-11-25T22:12:00+00:00",
     "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE53N2xxcDFOQ3ZyTXV3VnRiLWdTTUthUUdHRDl5aF9tQ0RUcmZ2UWJtazJ4LVgxaHFXMlBTN0w2aWlzX2lSU3ZaUEZCRUdCeTdHS2tZQ1BGRXJyWkwza3puek01WFlBQW9tVk9iR3dMdzQzUDg?oc=5\" target=\"_blank\">Motorola Signature 27 hands-on: Pure elegance on display</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Google</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU45T2R4b190a09md29LOUFlZ2NEenAyWG1Lb2J6MVNPZkNMUXo4S2pLeURMcExhZE5keXhYblFJRWd3TVN0c3BXNF9XaG01WUl1Y2V3ZEZjc0Nib0tWdWdFM3l2ZUltemlnU3ozYlNDcXJhYjVmWC1FaW05cWJxa0ZqeU5hcUJ6ai1URWllWmNOcnZHS21WdnpmX1lnRm1ZSFFYVVN4cnlKX1FZa210ZGxDZzQtRXJhYXVtTVFHMA?oc=5\" target=\"_blank\">Motorola Signature 27 delivery dates slip ahead of launch as it expands to more regions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9to5Google</font></li><li><a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPTVB1QWtrTHlOckR2YV92a2lZY0Y5YW0wNkJiTXk2REdNY081Y0VpaGRMcS1BWUR0REU4eUY1dHh5TnVfMFFkX3RaMVdOZlRBaVNib2JNNWtoNFA1MkJva1c4ZkhlaVVVZ1RER2JfMkxKOG5XVU5MNXNIdVRSQVZmY05fdw?oc=5\" target=\"_blank\">The Motorola Signature 27 is a standout arrival in what's been a challenging year for smartphones</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechRadar</font></li><li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5qQlJfem81ZXZsV3Y3UUUxTkN6a3ZVSllRa1F0MUQ5bFR3YmJaTGxUOUdxVHBrZF84QnhrNEY4MkR3TkV1YkdzZWVmTGRWRUNXX1lsbFpsbXhxYkI2aVZNRnVfekYtWnRnMHd2T2ZETnVqb2lWbnc?oc=5\" target=\"_blank\">SoftBank to launch Motorola's top-tier \"signature\" in Japan on Dec. 4 at ¥175,680, with 2 years of free concierge service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo Finance</font></li><li><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdWwwdXdBdmd0RnlQM2Y2STFkUWhTZmdKOHM4QzZZRzhTUUYxY0oxOW80V3VSTlFPZVYxVWNaNERLVE04NTNxbk5HcTJhYTU5TnlDUjRiRFRUX2dncF9UdkxQLVBYMEI3bHBvU21ocmhNRS1WMV9xMjZIbEpEUGhFWHZhR1lZMUE2aS1fZEYyMmZDR29TaGc?oc=5\" target=\"_blank\">4 Alternative Android Phones To Consider Instead of the Motorola Signature 27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Tech</font></li></ol>",
+    "status": "pending_review"
+  },
+  {
+    "id": "d05e0707eafec93f1120",
+    "title": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPSnlTTWxxZ0FtVlVpcFEtcUJVZlRCWk4tXzlhWmRsR09UdHJqaVBIUWQtcE5pcnN2UDF6SHhVU2s5SkZ5Rm9oZ1FDdGdWSmdCR25KTVlrblNSa2ZpOUhuTWVxUDJXWVM1U1l4aHVZbzNleFQ0Q1NRVFM3NFU3RmVFOHhsamMyMEVObG1TZjFZaWxUX3NuUklacUhsWDlGQ0o4c2F3SDVMZkM5LXdUa25Bb1dPV0Z6bVlLd0txZkYwMkYwQlFxT0xIZXRPUVItZ0ViT0NmODFsYjZ0SXg5LW1NU2JNanFYaUxBRVlzZ2R5ei16X2RtX3hDamVucDYtZUI1NkRYU0I4cmJZdDZ5Ukg3OTBR?oc=5",
+    "source": "The Globe and Mail",
+    "category": "AI & Innovation",
+    "published_at": "2026-11-25T22:11:36+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPSnlTTWxxZ0FtVlVpcFEtcUJVZlRCWk4tXzlhWmRsR09UdHJqaVBIUWQtcE5pcnN2UDF6SHhVU2s5SkZ5Rm9oZ1FDdGdWSmdCR25KTVlrblNSa2ZpOUhuTWVxUDJXWVM1U1l4aHVZbzNleFQ0Q1NRVFM3NFU3RmVFOHhsamMyMEVObG1TZjFZaWxUX3NuUklacUhsWDlGQ0o4c2F3SDVMZkM5LXdUa25Bb1dPV0Z6bVlLd0txZkYwMkYwQlFxT0xIZXRPUVItZ0ViT0NmODFsYjZ0SXg5LW1NU2JNanFYaUxBRVlzZ2R5ei16X2RtX3hDamVucDYtZUI1NkRYU0I4cmJZdDZ5Ukg3OTBR?oc=5\" target=\"_blank\">Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Globe and Mail</font>",
     "status": "pending_review"
   },
   {
@@ -15277,6 +16357,16 @@
     "category": "Nepal News",
     "published_at": "2026-11-24T09:00:51+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnhwSkFQenczRURzUUtDZGJKa1ZzVm1wNHloVEU0cmNvS1pnTC1HR05WWFZsWFVVamhFazd0ZjcyQ2hxcVo2OHdzTWluX1pRQmlQc0FXeEd3YldIREQxeEJwcWZrX1FIclo1UUQwcVZvRmg1WFRmdTdKdUMxbHRlYVV6SHZVc2lnbGNVZg?oc=5\" target=\"_blank\">Seven killed in road accidents across Nepal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "75f5b4e0b9dc11092858",
+    "title": "Grand Theft Auto VI lets you buy flowers for your girlfriend. Some streamers say it's too woke - CBC",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUHFXbkl1WmZrVUNBaG16QzNRVXlqMG1fTDJWUnVXX3JvdV93YjZMeE90RktVT0xJbEl0YnhBeXJ4ZVIyc2tURGU5WjYxNlpRRWQtMWNhWmExc19LcE8xU3V1aU03RFNOb0NtYXhqSjVNRlBlc2RGekd3UzVBV2t4NFpjOEdlenVQMXhVeU9VQjJnZlY0Q1V5NjBwcTlLbTFZd0VDSEJTT1Q1UXVxRFBzUHQwUFhqOTJmbUttcWhGMi1OSUNsVFVRUGFtTjNrRi1KV2FTakNkZEY?oc=5",
+    "source": "CBC",
+    "category": "Tech News",
+    "published_at": "2026-11-24T09:00:00+00:00",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUHFXbkl1WmZrVUNBaG16QzNRVXlqMG1fTDJWUnVXX3JvdV93YjZMeE90RktVT0xJbEl0YnhBeXJ4ZVIyc2tURGU5WjYxNlpRRWQtMWNhWmExc19LcE8xU3V1aU03RFNOb0NtYXhqSjVNRlBlc2RGekd3UzVBV2t4NFpjOEdlenVQMXhVeU9VQjJnZlY0Q1V5NjBwcTlLbTFZd0VDSEJTT1Q1UXVxRFBzUHQwUFhqOTJmbUttcWhGMi1OSUNsVFVRUGFtTjNrRi1KV2FTakNkZEY?oc=5\" target=\"_blank\">Grand Theft Auto VI lets you buy flowers for your girlfriend. Some streamers say it's too woke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEJ6UU5YMVVnVnZCVlhMUGs0OFJQVzc4aWllXzZDU2ctMkF5SmZTal9Ua3BzM2dHb3RKM1p3UU9ISmRBYllYTWJZTUxZT2FPdWF1bzgtRGVBZEtaazctcnhrREpsdExzTWNSRFQ1V1AzUk5oZVdRN0dQSmpkc0lCZW1vejBoTTFpNFA3Y3BqdkNyQmJMclAwYTk0MmI?oc=5\" target=\"_blank\">Is the new ‘Grand Theft Auto’ really teaching people relationship empathy? Mental health professionals weigh in.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boston Globe</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRmZYRzk5YUtSQ0ZRMHZWVzZsa25BbnNvSmtBa1hDbFNxQ1RvdGxNRTVIUEFBSmxleW93T01yQmRIM2pqUTFBbUc4Z0hzZzVmRXVnd3BRdGxhUGhlYnpWTG5BMWMtQQ?oc=5\" target=\"_blank\">Grand Theft Auto Forces Gamers to Grow Up—and Punishes Them With Narrative Consequences If They Refuse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vanity Fair</font></li><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9adVhaS29GT1VobEpMc2NPOVp6WFpPNlNxRllUQkpQeGdjcXJXV1RZbU9BVmVzcC1QV0R2SnotWExJWWhyRm52NHUwNThSSjR6UW9hVGZNbGZtdGgxVnpPYW9meTk3T0hWU21ROXNrVjg2dw?oc=5\" target=\"_blank\">Grand Theft Auto Grew Up. America Didn’t.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jacobin</font></li><li><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSTBUZ09YV0lyeTlHNU5GNmdnN2tFQTNvNE9yS0I4R1FpYjBKbnEwXzF6eGRqRjJkV1hYYVMzdDlod2ozOFZocjNvMFB5ZmJLajAzald2eUc5VExPR2ZHZ2pRVjlTX2JGZkhfSnktaW9WVmJQZHhXNHJHdmhXVERjUk9iVkY0MEVMZlJrRmV2RXRkSlFDaE1HckJxSTlxX1Bhck1WNHVKWGhxMU0yU1RVdDBtZkNzbFHSAbwBQVVfeXFMTlF4dGxlUzZOSzN4d2IwVFp1TF9pZjFremVnZ1NTUXI4el9jQVY1ZUpySXh1allmMzFrNlIyMzRfN0xsVExiSFd6cmM1cEZXbGt5MjlFSHpmcEpLTVhDbUFSYnFQbzc4NkhTQ0dLaHd6a1Vfck82SEhuR2hRcmx4ODY4YnppcFBOR04tcVRORldLeDVVVUtvMmpKX3ByNjgtU2dzZ29lOXdvdml3Y3ljOEdtQjYzZDIxZmhQeXM?oc=5\" target=\"_blank\">Is His Virtual Girlfriend Affecting Your Real Life?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff.com</font></li></ol>",
     "status": "pending_review"
   },
   {
@@ -57777,6 +58867,16 @@
     "category": "AI & Innovation",
     "published_at": "2026-11-15T06:21:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcTAtWXhwaHlERVNqWWVYZGZJUWtjVDNJa1ZZd3dUQlpNMmNUMFNWSFJfUWtleHFIWC1PSWVhcjhSWjBxMU5zRy1pZ0dOR0JYYTRpOGpTdlRnR0hLRGdHbFdIN19Ed1ZUdUNKTEpfX243VUQtTjVmUmVZV0N5OExrTWJSWERBaDYyeE1jV19BejJMeHN1dU4zQjRFWWZqMXAtY1Q4clhGZU9yVVRPMUxLX0JpYkVjTkItNTJZMEp5VWVoRkZlamhXWi1EUWNsWE43Y1ZNT290QTd2RjIwQ3FRSS1BNmUzZ0NhRmhKUGRob1BycDFCaUE?oc=5\" target=\"_blank\">India's First AI Police Station to open in Hyderabad: How Panjagutta Police will register FIRs using AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education Times</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "30bcc6d234b5428849d0",
+    "title": "Nepal to Phase Out 3G Services as Telecom Operators Shift Focus to 4G Networks - Hindusthan Samachar English",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzBHNGRicEVod3NTSkpWeXowUmpKMF83emltcHF6dUUySjBoQlRtWnBMdHBmZnRnaU5ZRUJtcTNnSEhwd3RyZlVFdFRCX2JzTDBCR1JCOUtYQ2d5b1YxOUpMdXVnLS1Ba084c183WlBPYUtkOGxWMUJPQUo1aTBhaDBkSWFJa1dZU00wT0hnMlhsd0E?oc=5",
+    "source": "Hindusthan Samachar English",
+    "category": "Nepal Technology",
+    "published_at": "2026-11-15T06:20:53+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPXzBHNGRicEVod3NTSkpWeXowUmpKMF83emltcHF6dUUySjBoQlRtWnBMdHBmZnRnaU5ZRUJtcTNnSEhwd3RyZlVFdFRCX2JzTDBCR1JCOUtYQ2d5b1YxOUpMdXVnLS1Ba084c183WlBPYUtkOGxWMUJPQUo1aTBhaDBkSWFJa1dZU00wT0hnMlhsd0E?oc=5\" target=\"_blank\">Nepal to Phase Out 3G Services as Telecom Operators Shift Focus to 4G Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindusthan Samachar English</font>",
     "status": "pending_review"
   },
   {
@@ -144850,6 +145950,16 @@
     "status": "pending_review"
   },
   {
+    "id": "47b2977051e34a6b3144",
+    "title": "An algorithm is trying to put names to Nepal’s flood dead - Asia News Network",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTRNN0F0R1FqTGc3cFVNUW5qNUxfTi1sWk5Jb0hGUC05Z0I5Njl2UnR4b2p2a0JhSWJ3Q1BLSmxHUGQ1Qzk4UTRRY28xR3lzdzZiOGN0bVVqZkVXcjNZamtTM0lUSUZDSXVUSi1wMUt3cmoyMHgyaVl1cTNpcmRfR1lIaVJERXNXOUE?oc=5",
+    "source": "Asia News Network",
+    "category": "Nepal Technology",
+    "published_at": "2026-09-11T07:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTRNN0F0R1FqTGc3cFVNUW5qNUxfTi1sWk5Jb0hGUC05Z0I5Njl2UnR4b2p2a0JhSWJ3Q1BLSmxHUGQ1Qzk4UTRRY28xR3lzdzZiOGN0bVVqZkVXcjNZamtTM0lUSUZDSXVUSi1wMUt3cmoyMHgyaVl1cTNpcmRfR1lIaVJERXNXOUE?oc=5\" target=\"_blank\">An algorithm is trying to put names to Nepal’s flood dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asia News Network</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "e4e6171d8ef55cca74c2",
     "title": "Fact check: Most immigrants are not here illegally - Acacia Center for Justice",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFVXp1LW5jWEIweDRFX2c5MlRYRWxvUmk4STc2eUotXzA2clBDamQxenNKU09uTWh1V1ZSZW9SLXJHNDZKajY5Y2lrbUlKYThudGhqRFRxUjBUUGFkeHZZOVdiVEhhWTEzZ1ZXYTN5dEkwMTA?oc=5",
@@ -145660,6 +146770,16 @@
     "status": "pending_review"
   },
   {
+    "id": "41101313f7c66442d5c2",
+    "title": "What Will Happen to Federal Revenue When AI Replaces Labor? - RAND",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZEZEVG5ZUWE4VVN4TXU1MERyUzM1N2E3N2ZqS2NYdW40RVhmQmc3N21TeUxXXzV2N3YwV1ZDcUx2RXdiZnNMb3ZpUHdrOHlSWE1ZS2pGdDZTRzRKUmxzODdhYlhoSFFk?oc=5",
+    "source": "RAND",
+    "category": "AI & Innovation",
+    "published_at": "2026-08-25T07:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZEZEVG5ZUWE4VVN4TXU1MERyUzM1N2E3N2ZqS2NYdW40RVhmQmc3N21TeUxXXzV2N3YwV1ZDcUx2RXdiZnNMb3ZpUHdrOHlSWE1ZS2pGdDZTRzRKUmxzODdhYlhoSFFk?oc=5\" target=\"_blank\">What Will Happen to Federal Revenue When AI Replaces Labor?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RAND</font>",
+    "status": "pending_review"
+  },
+  {
     "id": "997f91a5fa5b409aa7be",
     "title": "Lessons from China’s 'Luban Workshop': A Model of Development and Technology for Nepal - The Rising Nepal",
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tc015a0g4XzlsVWlmdldSWWRseks5TnZxUUp5WVFieGR4amRnZV8yNmFsazdYSldQUWR5VG5hcVdEWmVFZ2k2TXc1ZFRVUThn?oc=5",
@@ -145807,6 +146927,16 @@
     "category": "Nepal Technology",
     "published_at": "2026-08-17T07:00:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE96a19wMHd6M1FEb1BCWjFwbTRUTUYzZUxHcC1ucDVJTVNleTB2SDc0Zld4ZEpTcUtiY0RmN0tZN2hvZFFqaEdPTVpwamhYdXpibVY4UWZ4SDVpRThsbE41ZWdmOHZtV0FWWGQ1Q1NpN2M?oc=5\" target=\"_blank\">Nepal-New Zealand earthquake connection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepali Times</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "aed34c089fd7cc05c10a",
+    "title": "From Ritual Worship to Horoscopes: Nepal’s Growing ‘Faith-Tech’ Market - Ekantipur",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0NlSWRLOTFqSWlSVEk2MzN3U3lUVDhHQkg3YVBvT2pSOEZMUGxBN015clQzTDcwc3g3V2pXUmpUaVR3YmpCbXVOZXl5X240VUFISHBPTkZrSzR0dThuUDhjejRLVmJWMGhGdURrYnREal9seEpadDB5LWxjbEFsLXQ5TmV6Q3BJQVBvTVhpR205MW1uRk1jandpbEFNRHp3d0ExSQ?oc=5",
+    "source": "Ekantipur",
+    "category": "Nepal Technology",
+    "published_at": "2026-08-16T07:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOY0NlSWRLOTFqSWlSVEk2MzN3U3lUVDhHQkg3YVBvT2pSOEZMUGxBN015clQzTDcwc3g3V2pXUmpUaVR3YmpCbXVOZXl5X240VUFISHBPTkZrSzR0dThuUDhjejRLVmJWMGhGdURrYnREal9seEpadDB5LWxjbEFsLXQ5TmV6Q3BJQVBvTVhpR205MW1uRk1jandpbEFNRHp3d0ExSQ?oc=5\" target=\"_blank\">From Ritual Worship to Horoscopes: Nepal’s Growing ‘Faith-Tech’ Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ekantipur</font>",
     "status": "pending_review"
   },
   {
@@ -146157,6 +147287,16 @@
     "category": "Nepal Technology",
     "published_at": "2026-07-16T07:00:00+00:00",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVJSVzdjWlp6eEhtaHQtNVlNMmxRSWxqckdFLWd4aUxOWWs4clpjcDdicU5PS2dYOXNUcDVIdm8tRzZXWVl1ajZzVWp2MEVZcjVKUFRTS0pIUnZiaEktTEZmc1ZsMVNEN2tucE5aWXNVTl9BYWw2VWctNFdvQXBlS1ZDRDJsdkxsN3dTTzlrOVBqMktoQ01HbXZyenE?oc=5\" target=\"_blank\">Why Nepal’s Tech Revolution Is Missing Its Best Minds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+    "status": "pending_review"
+  },
+  {
+    "id": "348a3e7a098426af4212",
+    "title": "ALA Council adopts Guidance on the Use of Artificial Intelligence in Libraries - American Library Association",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnVXa1V5V3BGSC1XbWVlcHNJUDdldmJwWjRFczhNYk1BajJpYW53ZXJZeHdkYmplZXp5UGtFXzFCNGRYWWtPalpiek1ZUENYLXBDWHdIZzFzY0FCOXJaVnZENTJfNTBjYTdTZ3FVVlY1OC1Wc0F4TlcwOWw1SnlFRDRlUE1GcVZZaEJIZGxSVFRnSjhvalNOdjdTVWktY3M?oc=5",
+    "source": "American Library Association",
+    "category": "AI & Innovation",
+    "published_at": "2026-07-16T07:00:00+00:00",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnVXa1V5V3BGSC1XbWVlcHNJUDdldmJwWjRFczhNYk1BajJpYW53ZXJZeHdkYmplZXp5UGtFXzFCNGRYWWtPalpiek1ZUENYLXBDWHdIZzFzY0FCOXJaVnZENTJfNTBjYTdTZ3FVVlY1OC1Wc0F4TlcwOWw1SnlFRDRlUE1GcVZZaEJIZGxSVFRnSjhvalNOdjdTVWktY3M?oc=5\" target=\"_blank\">ALA Council adopts Guidance on the Use of Artificial Intelligence in Libraries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">American Library Association</font>",
     "status": "pending_review"
   },
   {
